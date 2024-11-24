@@ -10,6 +10,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused the menu animations to not play</i>
+- <i>fixed a bug that caused the FPS camera to not deactivate, causing lighting bugs</i>
 ----------------------------------------------------------
 
 23.11.24
