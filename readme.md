@@ -6,6 +6,8 @@
 - elevator random level select
 - added skill tree
 - added player level
+<small><i>fixes</i></small>
+      - fixed a bug that caused the menu animations to not play
 
 23.11.24
 - added RPG Systems
