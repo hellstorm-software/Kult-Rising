@@ -1,6 +1,7 @@
 # SCP: Convergence Changelog
 
-24.11.24 (Nov)
+<b>[NOV]</b>
+24.11.24
 - elevator random level select
 
 23.11.24
