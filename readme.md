@@ -8,7 +8,7 @@
 - added player level
 
 Fixes<br>
-- fixed a bug that caused the menu animations to not play
+- <i>fixed a bug that caused the menu animations to not play</i>
 ----------------------------------------------------------
 
 23.11.24
