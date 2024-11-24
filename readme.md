@@ -7,10 +7,10 @@
 - added skill tree
 - added player level
 
-<small>Fixes<br>
+Fixes<br>
 <i>
       - fixed a bug that caused the menu animations to not play
-</i></small>
+</i>
 ----------------------------------------------------------
 
 23.11.24
