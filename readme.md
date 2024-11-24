@@ -4,9 +4,16 @@
 
 24.11.24
 - elevator random level select
+- added skill tree
+- added player level
 
 23.11.24
 - added RPG Systems
+      - changed player model & controller
+      - added inventory
+      - added gear slots
+      - added gear item template
+      - added weapon item template
 - added lobby
 - added elevator room
     - enter elevator (from lobby)
