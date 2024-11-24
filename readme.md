@@ -6,6 +6,7 @@
 - elevator random level select
 - added skill tree
 - added player level
+- added FPS/TPS camera switch
 
 Fixes<br>
 - <i>fixed a bug that caused the menu animations to not play</i>
