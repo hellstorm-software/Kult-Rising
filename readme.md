@@ -13,11 +13,11 @@ Fixes<br>
 
 23.11.24
 - added RPG Systems<br>
-      - changed player model & controller<br>
-      - added inventory<br>
-      - added gear slots<br>
-      - added gear item template<br>
-      - added weapon item template<br>
+    - changed player model & controller<br>
+    - added inventory<br>
+    - added gear slots<br>
+    - added gear item template<br>
+    - added weapon item template<br>
 - added lobby
 - added elevator room
     - enter elevator (from lobby)
