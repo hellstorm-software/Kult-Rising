@@ -7,8 +7,10 @@
 - added skill tree
 - added player level
 
-<small><i>fixes</i></small><br>
+<small>Fixes<br>
+<i>
       - fixed a bug that caused the menu animations to not play
+</i></small>
 
 23.11.24
 - added RPG Systems
