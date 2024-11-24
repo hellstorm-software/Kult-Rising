@@ -12,7 +12,7 @@ Fixes<br>
 ----------------------------------------------------------
 
 23.11.24
-- added RPG Systems
+- added RPG Systems<br>
       - changed player model & controller
       - added inventory
       - added gear slots
