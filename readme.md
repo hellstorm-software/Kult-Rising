@@ -5,7 +5,7 @@
 
 <p style="font-size: smaller;">
     this game is liscenced under CC BY-SA 3.0<br>
-    the SCP Foundation: https://scp-wiki.wikidot.com
+    SCP Foundation: https://scp-wiki.wikidot.com
 </p>
 ----------------------------------------------------------
 
