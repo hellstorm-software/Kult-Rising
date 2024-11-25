@@ -5,6 +5,7 @@
 25.11.24
 - added planet models to clicker game
 - balanced pricing/scaling for clicker game
+- changed lobby to floor 1&2 of SCP-3008
 ----------------------------------------------------------
 
 24.11.24
