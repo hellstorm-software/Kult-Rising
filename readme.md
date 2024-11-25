@@ -2,11 +2,10 @@
 [![Discord](https://img.shields.io/discord/670738185571139590?color=5100ff&labelColor=555555&label=&logo=discord&style=for-the-badge)](https://discord.gg/usKwxca "Discord")
 [![Commits](https://img.shields.io/github/commit-activity/m/hellstorm-software/Convergence-Changelog?color=ff0404&label=commits&style=for-the-badge)](https://github.com/hellstorm-software/Convergence-Changelog/commits "Commit History")
 [![Last Commit](https://img.shields.io/github/last-commit/hellstorm-software/Convergence-Changelog?color=f204ff&label=&style=for-the-badge&display_timestamp=committer)](https://github.com/hellstorm-software/Convergence-Changelog/pulse/monthly "Last activity")
-<br>
-<span style="font-size: 3px">
-<i>game is liscenced under CC BY-SA 3.0</i><br>
-<i>the SCP Foundation: https://scp-wiki.wikidot.com</i>
-</span>
+
+
+game is liscenced under CC BY-SA 3.0
+the SCP Foundation: https://scp-wiki.wikidot.com
 ----------------------------------------------------------
 
 <b>[NOV]</b>
