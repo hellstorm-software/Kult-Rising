@@ -11,7 +11,7 @@
 24.11.24
 - elevator random level select
 - added skill tree
-- added player level
+- added player leveling
 - added FPS/TPS camera switch
 - added fps hand model
 
