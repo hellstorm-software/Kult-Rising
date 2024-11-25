@@ -59,7 +59,7 @@ Fixes<br>
 - finished V. 1.0.0 of the GDD
 ---------------------------------------------------------
 
-the official website of sxlar wasteland
+the official website of sxlar wasteland<br>
 © 2021 Sxlar Wasteland. All rights reserved.<br>
 https://hellstorm-software.github.io/theGrid/
 
