@@ -7,6 +7,7 @@
 - added skill tree
 - added player level
 - added FPS/TPS camera switch
+- added fps hand model
 
 Fixes<br>
 - <i>fixed a bug that caused the menu animations to not play</i>
