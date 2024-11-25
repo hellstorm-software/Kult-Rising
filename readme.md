@@ -4,6 +4,7 @@
 
 25.11.24
 - added planet models to clicker game
+- balanced pricing/scaling for clicker game
 ----------------------------------------------------------
 
 24.11.24
