@@ -3,7 +3,7 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/hellstorm-software/Convergence-Changelog?color=ff0404&label=commits&style=for-the-badge)](https://github.com/hellstorm-software/Convergence-Changelog/commits "Commit History")
 [![Last Commit](https://img.shields.io/github/last-commit/hellstorm-software/Convergence-Changelog?color=f204ff&label=&style=for-the-badge&display_timestamp=committer)](https://github.com/hellstorm-software/Convergence-Changelog/pulse/monthly "Last activity")
 <br>
-<s>game is liscenced under CC BY-SA 3.0</s>
+<i>game is liscenced under CC BY-SA 3.0</i>
 ----------------------------------------------------------
 
 <b>[NOV]</b>
