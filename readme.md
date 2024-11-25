@@ -15,6 +15,9 @@
 - added planet models to clicker game
 - balanced pricing/scaling for clicker game
 - changed lobby to floor 1&2 of SCP-3008
+
+Fixes<br>
+- <i>fixed a bug that caused the planet textures not to load</i>
 ----------------------------------------------------------
 
 24.11.24
