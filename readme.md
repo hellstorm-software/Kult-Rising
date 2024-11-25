@@ -3,7 +3,7 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/hellstorm-software/Convergence-Changelog?color=ff0404&label=commits&style=for-the-badge)](https://github.com/hellstorm-software/Convergence-Changelog/commits "Commit History")
 [![Last Commit](https://img.shields.io/github/last-commit/hellstorm-software/Convergence-Changelog?color=f204ff&label=&style=for-the-badge&display_timestamp=committer)](https://github.com/hellstorm-software/Convergence-Changelog/pulse/monthly "Last activity")
 
-<p style="font-size: 6px;">
+<p style="font-size: smaller;">
     this game is liscenced under CC BY-SA 3.0<br>
     the SCP Foundation: https://scp-wiki.wikidot.com
 </p>
