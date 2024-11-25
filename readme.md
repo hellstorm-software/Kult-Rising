@@ -4,6 +4,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/hellstorm-software/Convergence-Changelog?color=f204ff&label=&style=for-the-badge&display_timestamp=committer)](https://github.com/hellstorm-software/Convergence-Changelog/pulse/monthly "Last activity")
 <br>
 <i>game is liscenced under CC BY-SA 3.0</i>
+<i>the SCP Foundation: https://scp-wiki.wikidot.com</i>
 ----------------------------------------------------------
 
 <b>[NOV]</b>
