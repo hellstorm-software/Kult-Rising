@@ -4,6 +4,7 @@
 
 15.11.24
 - added planet models to clicker game
+----------------------------------------------------------
 
 24.11.24
 - elevator random level select
