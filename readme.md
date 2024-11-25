@@ -44,3 +44,7 @@ Fixes<br>
 - added space level
     - clicker game
     - earth to space console
+----------------------------------------------------------
+
+18.11.24
+- finished V. 1.0.0 of the Game Design Document
