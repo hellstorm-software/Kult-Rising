@@ -13,6 +13,7 @@
 
 26.11.24
 - added free cam rotation to clicker game
+----------------------------------------------------------
 
 25.11.24
 - added planet models to clicker game
