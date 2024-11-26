@@ -11,6 +11,9 @@
 
 <b>[NOV]</b>
 
+26.11.24
+- added free cam rotation to clicker game
+
 25.11.24
 - added planet models to clicker game
 - balanced pricing/scaling for clicker game
