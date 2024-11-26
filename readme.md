@@ -13,6 +13,7 @@
 
 26.11.24
 - added free cam rotation to clicker game
+- added camera reset button
 ----------------------------------------------------------
 
 25.11.24
