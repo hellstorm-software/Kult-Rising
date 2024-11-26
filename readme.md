@@ -15,6 +15,7 @@
 - added free cam rotation to clicker game
 - added camera reset button
 - added camera zoom on scroll
+
 Fixes<br>
 - <i>fixed a bug that caused camera not to reset zoom if angle hadn't changed</i>
 ----------------------------------------------------------
