@@ -18,6 +18,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused camera not to reset zoom if angle hadn't changed</i>
+- <i>fixed a bug that caused third person camera to shift to the left when jumping</i>
 ----------------------------------------------------------
 
 25.11.24
