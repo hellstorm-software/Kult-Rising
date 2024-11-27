@@ -11,6 +11,10 @@
 
 <b>[NOV]</b>
 
+27.11.24
+- added zoom in and out to third person mode
+----------------------------------------------------------
+
 26.11.24
 - added free cam rotation to clicker game
 - added camera reset button
