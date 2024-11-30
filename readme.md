@@ -15,6 +15,7 @@
 
 29.11.24
 - added poolroms starting area
+- shifted starting area and added the first several rooms
 - added reactive water
 ----------------------------------------------------------
 
