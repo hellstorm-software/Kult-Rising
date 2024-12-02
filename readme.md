@@ -14,6 +14,9 @@
 
 1.12.24
 - added top down camera view to overworld
+
+Fixes<br>
+- <i>condensed camera switching into its own separate functions for optimization</i>
 ----------------------------------------------------------
 
 <b>[NOV]</b>
