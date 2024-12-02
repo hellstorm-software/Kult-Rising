@@ -7,6 +7,7 @@
     Info: <a href="https://hellstorm-software.github.io/SCP-Convergence/convergence/convergence.html" target="_blank">https://hellstorm-software.github.io/convergence.html</a><br>
     this game is liscenced under CC BY-SA 3.0<br>
     SCP Foundation: https://scp-wiki.wikidot.com
+    In Progress: <a href="https://trello.com/b/XbZwmsnj/scp-convergence" target="_blank">https://trello.com/b/XbZwmsnj/scp-convergence</a>
 </p>
 
 ----------------------------------------------------------
