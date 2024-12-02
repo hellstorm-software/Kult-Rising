@@ -14,7 +14,8 @@
 
 1.12.24
 - added top down camera view to overworld
-- added base level for Mobile Task Force (MTF) minigame
+- added "isometric" view for Mobile Task Force (MTF) minigame
+- added base level for MTF
 
 Fixes<br>
 - <i>condensed camera switching into its own separate functions for optimization</i>
