@@ -19,6 +19,7 @@
 
 Fixes<br>
 - <i>condensed camera switching into its own separate functions for optimization</i>
+- <i>created a separate player controller for iso view/i>
 ----------------------------------------------------------
 
 <b>[NOV]</b>
