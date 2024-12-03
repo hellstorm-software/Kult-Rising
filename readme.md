@@ -19,6 +19,7 @@
 - updated menu screen skybox
 - updated menu screen lighting
 - added volumetric lighting to menu
+- added default ship to clicker game
 
 Fixes<br>
 - <i>fixed a bug that caused post processing fx to not load on some levels</i>
