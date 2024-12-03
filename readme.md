@@ -17,6 +17,7 @@
 - added nav bar to space gamemodes
 - added functionality to travel between planets with nav bar
 - updated menu screen skybox
+- updated menu screen lighting
 
 Fixes<br>
 - <i>fixed a bug that caused post processing fx to not load on some levels</i>
