@@ -21,6 +21,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused post processing fx to not load on some levels</i>
+- <i>fixed a bug that caused the skybox to darken during the menu animation</i>
 
 1.12.24
 - added top down camera view to overworld
