@@ -15,6 +15,7 @@
 
 3.12.24
 - implemented very basic save/load functionality for overworld
+- added player location to save/load function
 
 ----------------------------------------------------------
 2.12.24
