@@ -11,7 +11,11 @@
 </p>
 
 ----------------------------------------------------------
-<b>[NOV]</b>
+<b>[DEC]</b>
+
+2.12.24
+- added nav bar to space gamemodes
+- added functionality to travel between planets with nav bar
 
 1.12.24
 - added top down camera view to overworld
