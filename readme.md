@@ -17,6 +17,9 @@
 - added nav bar to space gamemodes
 - added functionality to travel between planets with nav bar
 
+Fixes<br>
+- <i>fixed a bug that caused post processing fx to not load on some levels</i>
+
 1.12.24
 - added top down camera view to overworld
 - added "isometric" view for Mobile Task Force (MTF) minigame
