@@ -13,6 +13,10 @@
 ----------------------------------------------------------
 <h2><b>[DEC]</b></h2>
 
+3.12.24
+- implemented very basic save/load functionality for overworld
+
+----------------------------------------------------------
 2.12.24
 - added nav bar to space gamemodes
 - added functionality to travel between planets with nav bar
