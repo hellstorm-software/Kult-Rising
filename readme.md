@@ -11,7 +11,7 @@
 </p>
 
 ----------------------------------------------------------
-<b>[DEC]</b>
+<h2><b>[DEC]</b></h2>
 
 2.12.24
 - added nav bar to space gamemodes
@@ -37,7 +37,7 @@ Fixes<br>
 - <i>created a separate player controller for iso view/i>
 ----------------------------------------------------------
 
-<b>[NOV]</b>
+<h2><b>[NOV]</b></h2>
 
 29.11.24
 - added poolroms starting area
