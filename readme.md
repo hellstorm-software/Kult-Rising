@@ -17,6 +17,7 @@
 - implemented very basic save/load functionality for overworld
 - added player location to save/load function
 - added lift to player base to quickly travel betwen the IEC and the base
+- expanded core area of SCP-3008
 
 Fixes<br>
 - <i>fixed a bug that caused the lift to not travel back up</i>
