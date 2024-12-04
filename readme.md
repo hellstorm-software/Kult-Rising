@@ -16,6 +16,7 @@
 3.12.24
 - implemented very basic save/load functionality for overworld
 - added player location to save/load function
+- added lift to player base to quickly travel betwen the IEC and the base
 
 ----------------------------------------------------------
 2.12.24
