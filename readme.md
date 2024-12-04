@@ -15,6 +15,7 @@
 
 4.12.24
 - addeda a separate actor for the ship (clicker game) so that it dynamically follows the camera rather than instantly moving with it
+
 ----------------------------------------------------------
 3.12.24
 - implemented very basic save/load functionality for overworld
