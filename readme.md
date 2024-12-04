@@ -18,6 +18,8 @@
 - added player location to save/load function
 - added lift to player base to quickly travel betwen the IEC and the base
 
+Fixes<br>
+- <i>fixed a bug that caused the lift to not travel back up</i>
 ----------------------------------------------------------
 2.12.24
 - added nav bar to space gamemodes
