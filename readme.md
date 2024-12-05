@@ -17,6 +17,9 @@
 - addeda a separate actor for the ship (clicker game) so that it dynamically follows the camera rather than instantly moving with it
 - added hitmarker sound effect on successful attack
 
+Fixes<br>
+- <i>fixed a bug that caused hitmarker sound to be played when an attack landed on the player</i>
+
 ----------------------------------------------------------
 3.12.24
 - implemented very basic save/load functionality for overworld
