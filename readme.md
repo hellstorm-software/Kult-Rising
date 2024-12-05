@@ -16,6 +16,7 @@
 4.12.24
 - addeda a separate actor for the ship (clicker game) so that it dynamically follows the camera rather than instantly moving with it
 - added hitmarker sound effect on successful attack
+- fixed first person camera so animations are visible
 
 Fixes<br>
 - <i>fixed a bug that caused hitmarker sound to be played when an attack landed on the player</i>
