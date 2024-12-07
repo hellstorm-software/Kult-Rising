@@ -13,6 +13,10 @@
 ----------------------------------------------------------
 <h2><b>[DEC]</b></h2>
 
+7.12.24
+- added level 1 to liminal pavement (car sim/exploration minigame)
+
+----------------------------------------------------------
 6.12.24
 - added basic car controller
 - added camera lock and unlock for car controller
