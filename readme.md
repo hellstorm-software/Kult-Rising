@@ -14,7 +14,7 @@
 <h2><b>[DEC]</b></h2>
 
 6.12.24
--
+- added basic car controller
 
 Fixes<br>
 - <i>fixed a bug that caused cursor to stay on screen when opening inventory on certain maps</i>
