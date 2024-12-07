@@ -15,6 +15,7 @@
 
 6.12.24
 - added basic car controller
+- added camera lock and unlock for car controller
 
 Fixes<br>
 - <i>fixed a bug that caused cursor to stay on screen when opening inventory on certain maps</i>
