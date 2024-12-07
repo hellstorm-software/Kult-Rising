@@ -15,6 +15,7 @@
 
 7.12.24
 - added level 1 to liminal pavement (car sim/exploration minigame)
+- built out basic terrain for level 1
 
 ----------------------------------------------------------
 6.12.24
