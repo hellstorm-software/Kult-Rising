@@ -13,6 +13,14 @@
 ----------------------------------------------------------
 <h2><b>[DEC]</b></h2>
 
+6.12.24
+-
+
+Fixes<br>
+- <i>fixed a bug that caused cursor to stay on screen when opening inventory on certain maps</i>
+- <i>fixed a bug that caused quest check to perpetually throw errors</i>
+
+----------------------------------------------------------
 4.12.24
 - addeda a separate actor for the ship (clicker game) so that it dynamically follows the camera rather than instantly moving with it
 - added hitmarker sound effect on successful attack
