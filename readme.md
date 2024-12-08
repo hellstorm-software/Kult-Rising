@@ -21,6 +21,7 @@
 - 
 Fixes<br>
 - <i>fixed a bug that caused post processing fx to not appear on liminal pavement</i>
+- <i>fixed a bug that caused post processing fx to break on terrain</i>
 ----------------------------------------------------------
 7.12.24
 - added level 1 to liminal pavement (car sim/exploration minigame)
