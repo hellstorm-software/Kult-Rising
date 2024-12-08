@@ -18,7 +18,9 @@
 - added glass bridge to liminal pavement level 1
 - added liminal pavement car to menu screen
 - moved hovercar on menu screen
-
+- 
+Fixes<br>
+- <i>fixed a bug that caused post processing fx to not appear on liminal pavement</i>
 ----------------------------------------------------------
 7.12.24
 - added level 1 to liminal pavement (car sim/exploration minigame)
