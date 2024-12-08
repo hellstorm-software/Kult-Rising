@@ -13,6 +13,10 @@
 ----------------------------------------------------------
 <h2><b>[DEC]</b></h2>
 
+8.12.24
+- added custom base car material
+
+----------------------------------------------------------
 7.12.24
 - added level 1 to liminal pavement (car sim/exploration minigame)
 - built out basic terrain for level 1
