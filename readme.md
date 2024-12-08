@@ -15,6 +15,9 @@
 
 8.12.24
 - added custom base car material
+- added glass bridge to liminal pavement level 1
+- added liminal pavement car to menu screen
+- moved hovercar on menu screen
 
 ----------------------------------------------------------
 7.12.24
