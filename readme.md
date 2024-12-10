@@ -12,12 +12,14 @@
 
 ----------------------------------------------------------
 <h2><b>[DEC]</b></h2>
+
 12.12.24
 - started adding basic building system
 - added radial menu for building
 - massively expanded the height between floor 0 and scp-3008
 - built SCP-112 platform
 
+----------------------------------------------------------
 8.12.24
 - added custom base car material
 - added glass bridge to liminal pavement level 1
