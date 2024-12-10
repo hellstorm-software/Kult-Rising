@@ -17,7 +17,7 @@
 - started adding basic building system
 - added radial menu for building
 - massively expanded the height between floor 0 and scp-3008
-- built SCP-112 platform
+- built SCP-112 platform attatched to floor 0
 
 Fixes<br>
 - <i>adjusted height to the floor 0 lift to compensate for the new height</i>
