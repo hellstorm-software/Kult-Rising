@@ -12,6 +12,9 @@
 
 ----------------------------------------------------------
 <h2><b>[DEC]</b></h2>
+12.12.24
+- started adding basic building system
+- added radial menu for building
 
 8.12.24
 - added custom base car material
