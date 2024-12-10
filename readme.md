@@ -19,6 +19,9 @@
 - massively expanded the height between floor 0 and scp-3008
 - built SCP-112 platform
 
+Fixes<br>
+- <i>adjusted height to the floor 0 lift to compensate for the new height</i>
+
 ----------------------------------------------------------
 8.12.24
 - added custom base car material
@@ -29,6 +32,7 @@
 Fixes<br>
 - <i>fixed a bug that caused post processing fx to not appear on liminal pavement</i>
 - <i>fixed a bug that caused post processing fx to break on terrain</i>
+
 ----------------------------------------------------------
 7.12.24
 - added level 1 to liminal pavement (car sim/exploration minigame)
