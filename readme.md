@@ -15,6 +15,7 @@
 12.12.24
 - started adding basic building system
 - added radial menu for building
+- massively expanded the height between floor 0 and scp-3008
 
 8.12.24
 - added custom base car material
