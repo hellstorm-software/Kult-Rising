@@ -24,6 +24,7 @@
 Fixes<br>
 - <i>adjusted height to the floor 0 lift to compensate for the new height</i>
 - <i>fixed a bug that caused the camera to clip through the players head when dodging in first person</i>
+- <i>fixed an issue that caused a second crosshair to be displayed</i>
 
 ----------------------------------------------------------
 8.12.24
