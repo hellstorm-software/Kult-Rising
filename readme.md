@@ -19,6 +19,7 @@
 - massively expanded the height between floor 0 and scp-3008
 - built SCP-112 platform attatched to floor 0
 - added the front car and basic functionality of SCP-112
+- added 0 gravity zone to the cieling area of SCP-3008 for SCP-112 traversal
 
 Fixes<br>
 - <i>adjusted height to the floor 0 lift to compensate for the new height</i>
