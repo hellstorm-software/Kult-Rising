@@ -18,7 +18,7 @@
 - changed the ceiling material and added AC ducts
 - added neon signs designating the 4 core locations of SCP-3008
 - added placeholder level for burning station
-- completed core through line (main menu -> space training zone -> burning station -> driving zone -> scp-3008
+- completed core through line (main menu -> space training zone -> burning station -> driving zone -> scp-3008)
 
 ----------------------------------------------------------
 
