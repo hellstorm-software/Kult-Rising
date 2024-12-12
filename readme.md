@@ -20,6 +20,8 @@
 - added placeholder level for burning station
 - completed core through line (main menu -> space training zone -> burning station -> driving zone -> scp-3008)
 - added component barrels
+- added basic materials (wood, stone, scrap, iron, gold, platinum, and black metal)
+- added corresponding items, models, and icons for materials
 
 ----------------------------------------------------------
 
