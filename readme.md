@@ -13,8 +13,14 @@
 ----------------------------------------------------------
 <h2><b>[DEC]</b></h2>
 
+12.12.24
+- began adding cluster 3 (5%)
+- added to cluster 1 (70%)
+
+----------------------------------------------------------
+
 11.12.24
-- added furningshings to the starting cluster of SCP-3008 (70%)
+- added furningshings to the starting cluster of SCP-3008 (60%)
 - changed the ceiling material and added AC ducts
 - added neon signs designating the 4 core locations of SCP-3008
 - added placeholder level for burning station
