@@ -14,7 +14,7 @@
 <h2><b>[DEC]</b></h2>
 
 11.12.24
-- added furningshings to the starting chunk of SCP-3008 (70%)
+- added furningshings to the starting cluster of SCP-3008 (70%)
 - changed the ceiling material and added AC ducts
 - added neon signs designating the 4 core locations of SCP-3008
 - added placeholder level for burning station
@@ -34,7 +34,7 @@
 - added the front car and basic functionality of SCP-112
 - added 0 gravity zone to the ceiling area of SCP-3008 for SCP-112 traversal
 - added a gravity zone to SCP-3008 so players can stand
-- added furnishings to the starting chunk of SCP-3008 (40%)
+- added furnishings to the starting cluster of SCP-3008 (40%)
 
 Fixes<br>
 - <i>adjusted height to the floor 0 lift to compensate for the new height</i>
