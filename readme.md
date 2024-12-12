@@ -22,6 +22,7 @@
 - added component barrels
 - added basic materials (wood, stone, scrap, iron, gold, platinum, and black metal)
 - added corresponding items, models, and icons for materials
+- added loot table to barrel
 
 ----------------------------------------------------------
 
