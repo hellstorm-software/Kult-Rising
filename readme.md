@@ -16,6 +16,7 @@
 ----------------------------------------------------------
 13.12.24
 - added respawn function to barrels
+- created icons for drones, VEK, and return to station
 
 Fixes<br>
 - <i>condensed code for camera switching into a single function</i>
