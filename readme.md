@@ -17,6 +17,8 @@
 13.12.24
 - added respawn function to barrels
 
+Fixes<br>
+- <i>condensed code for camera switching into a single function</i>
 ----------------------------------------------------------
 12.12.24
 - began adding cluster 3 (5%)
