@@ -13,9 +13,17 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+----------------------------------------------------------
+13.12.24
+- added respawn function to barrels
+
+----------------------------------------------------------
 12.12.24
 - began adding cluster 3 (5%)
 - added to cluster 1 (70%)
+- added basic materials (wood, stone, scrap, iron, gold, platinum, and black metal)
+- added corresponding items, models, and icons for materials
+- added loot table to barrel
 
 ----------------------------------------------------------
 
@@ -26,9 +34,7 @@
 - added placeholder level for burning station
 - completed core through line (main menu -> space training zone -> burning station -> driving zone -> scp-3008)
 - added component barrels
-- added basic materials (wood, stone, scrap, iron, gold, platinum, and black metal)
-- added corresponding items, models, and icons for materials
-- added loot table to barrel
+
 
 ----------------------------------------------------------
 
