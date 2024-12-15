@@ -12,6 +12,12 @@
 
 ----------------------------------------------------------
 <h2>[DEC]</h2>
+----------------------------------------------------------
+
+14.12.24
+- added icons to main buttons on clicker game
+- shifted nav menu down so it wasn't overlapping other ui elements
+- added VEK and drone indicator panels
 
 ----------------------------------------------------------
 13.12.24
