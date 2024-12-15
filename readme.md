@@ -17,6 +17,9 @@
 - shifted nav menu down so it wasn't overlapping other ui elements
 - added VEK and drone indicator panels
 
+
+Fixes<br>
+- <i>fixed a bug that caused the camera to not look around when right clicking in clicker game</i>
 ----------------------------------------------------------
 13.12.24
 - added respawn function to barrels
