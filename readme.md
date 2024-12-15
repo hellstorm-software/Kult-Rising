@@ -19,6 +19,7 @@
 - added harvestable stone nodes to SCP-3008
 - changed health bars to only appear after an entity has taken damage
 - created outer edges of zone 1 in SCP-3008
+- added to cluster 1 (65%)
 
 
 Fixes<br>
@@ -33,7 +34,7 @@ Fixes<br>
 ----------------------------------------------------------
 12.12.24
 - began adding cluster 3 (5%)
-- added to cluster 1 (70%)
+- added to cluster 1 (50%)
 - added basic materials (wood, stone, scrap, iron, gold, platinum, and black metal)
 - added corresponding items, models, and icons for materials
 - added loot table to barrel
@@ -41,7 +42,7 @@ Fixes<br>
 ----------------------------------------------------------
 
 11.12.24
-- added furningshings to the starting cluster of SCP-3008 (60%)
+- added furningshings to the starting cluster of SCP-3008 (30%)
 - changed the ceiling material and added AC ducts
 - added neon signs designating the 4 core locations of SCP-3008
 - added placeholder level for burning station
