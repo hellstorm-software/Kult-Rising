@@ -18,6 +18,7 @@
 - added VEK and drone indicator panels
 - added harvestable stone nodes to SCP-3008
 - changed health bars to only appear after an entity has taken damage
+- created outer edges of zone 1 in SCP-3008
 
 
 Fixes<br>
