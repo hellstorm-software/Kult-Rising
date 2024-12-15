@@ -17,6 +17,7 @@
 - shifted nav menu down so it wasn't overlapping other ui elements
 - added VEK and drone indicator panels
 - added harvestable stone nodes to SCP-3008
+- changed health bars to only appear after an entity has taken damage
 
 
 Fixes<br>
