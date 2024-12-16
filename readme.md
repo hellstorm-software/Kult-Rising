@@ -15,6 +15,8 @@
 15.12.24
 - added more to cluster 1 (80%), cluster 10 (7%), cluster 2-4 (5%)
 
+Fixes<br>
+- <i>fixed a bug that caused the spells/gunshots to be fired at a slight angle</i>
 ----------------------------------------------------------
 14.12.24
 - added icons to main buttons on clicker game
