@@ -12,6 +12,10 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+15.12.24
+- added more to cluster 1 (80%), cluster 10 (7%), cluster 2-4 (5%)
+
+----------------------------------------------------------
 14.12.24
 - added icons to main buttons on clicker game
 - shifted nav menu down so it wasn't overlapping other ui elements
@@ -33,7 +37,7 @@ Fixes<br>
 - <i>condensed code for camera switching into a single function</i>
 ----------------------------------------------------------
 12.12.24
-- began adding cluster 3 (5%)
+- began adding cluster 10 (5%)
 - added to cluster 1 (50%)
 - added basic materials (wood, stone, scrap, iron, gold, platinum, and black metal)
 - added corresponding items, models, and icons for materials
