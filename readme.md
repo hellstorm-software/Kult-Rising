@@ -17,6 +17,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused the spells/gunshots to be fired at a slight angle</i>
+
 ----------------------------------------------------------
 14.12.24
 - added icons to main buttons on clicker game
