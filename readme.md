@@ -17,6 +17,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused the spells/gunshots to be fired at a slight angle</i>
+- <i>fixed a bug that caused dash ability to happen at a slight angle</i>
 
 ----------------------------------------------------------
 14.12.24
