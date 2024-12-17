@@ -15,6 +15,7 @@
 16.12.24
 - began adding to cluster 11 (4%)
 - added pool tile texture to cluster 11
+- added reactive water to cluster 11
 - changed project rendering settings to achieve more realistic water
 - slightly raised atmospheric brightness in SCP-3008 to account for rendering adjustments
 
