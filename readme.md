@@ -14,6 +14,7 @@
 
 16.12.24
 - began adding to cluster 11 (3%)
+- added pool tile texture to cluster 11
 
 ----------------------------------------------------------
 15.12.24
