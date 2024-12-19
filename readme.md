@@ -16,6 +16,7 @@
 - added drivable car to SCP-3008 (still need to combine player and car controllers for optimization)
 - added auto-load feature
 
+----------------------------------------------------------
 16.12.24
 - began adding to cluster 11 (4%)
 - added pool tile texture to cluster 11
