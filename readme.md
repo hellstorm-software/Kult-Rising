@@ -30,6 +30,7 @@ Fixes<br>
 - <i>fixed a bug that caused the crosshair to not show when hip firing</i>
 - <i>fixed a bug that caused the crafting inventory to move around when opened</i>
 - <i>fixed a bug that caused players to attack while selecting in the crafting menu</i>
+- <i>fixed an issue that caused the crafting inventory to not reattach to the player when closed</i>
 
 ----------------------------------------------------------
 18.12.24
