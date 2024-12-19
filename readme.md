@@ -17,6 +17,7 @@
 - added auto-load feature
 - changed interact key to F
 - changed lights/flashlight key to T
+- added to cluster 11 (5%)
 
 ----------------------------------------------------------
 16.12.24
