@@ -18,6 +18,7 @@
 - added leaning mechanic
 - added step out mechanic
 - added neutral human npcs
+- added grenade/throwing mechanics
 - began building cluster 1 of metropolis (1%)
 
 Fixes<br>
