@@ -15,7 +15,7 @@
 19.12.24
 - added Tactical Shooter Kit
 - added basic gun functionality
-- added leaning
+- added leaning mechanic
 - added setp out mechanic
 - began building cluster 1 of metropolis (1%)
 
