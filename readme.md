@@ -16,7 +16,7 @@
 - added Tactical Shooter Kit
 - added basic gun functionality
 - added leaning mechanic
-- added setp out mechanic
+- added step out mechanic
 - began building cluster 1 of metropolis (1%)
 
 Fixes<br>
