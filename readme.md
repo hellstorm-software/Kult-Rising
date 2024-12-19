@@ -24,10 +24,12 @@
 - added basic functionality of a kill counter
 - added footstep sounds
 - began adding primative crafting menu
+- blocked player movement while in crafting inventory
 
 Fixes<br>
 - <i>fixed a bug that caused the crosshair to not show when hip firing</i>
 - <i>fixed a bug that caused the crafting inventory to move around when opened</i>
+
 
 ----------------------------------------------------------
 18.12.24
