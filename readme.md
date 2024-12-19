@@ -12,6 +12,9 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+18.12.24
+- added drivable car to SCP-3008 (still need to combine player and car controllers for optimization)
+
 16.12.24
 - began adding to cluster 11 (4%)
 - added pool tile texture to cluster 11
