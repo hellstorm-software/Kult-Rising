@@ -21,6 +21,7 @@
 - added neutral human npcs
 - added grenade/throwing mechanics
 - began building cluster 1 of metropolis (1%)
+- added basic functionality of a kill counter
 
 Fixes<br>
 - <i>fixed a bug that caused the crosshair to not show when hip firing</i>
