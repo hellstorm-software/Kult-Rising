@@ -17,6 +17,7 @@
 - added basic gun functionality
 - added leaning mechanic
 - added step out mechanic
+- added neutral human npcs
 - began building cluster 1 of metropolis (1%)
 
 Fixes<br>
