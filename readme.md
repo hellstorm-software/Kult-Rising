@@ -17,6 +17,8 @@
 - (2 rifles, 1 smg, 1 pistol)
 - began building cluster 1 of metropolis (1%)
 
+Fixes<br>
+- <i>fixed a bug that caused the crosshair to not show when hip firing</i>
 ----------------------------------------------------------
 18.12.24
 - added drivable car to SCP-3008 (still need to combine player and car controllers for optimization)
