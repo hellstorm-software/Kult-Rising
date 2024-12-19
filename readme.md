@@ -23,7 +23,7 @@
 - began building cluster 1 of metropolis (1%)
 - added basic functionality of a kill counter
 - added footstep sounds
-- began adding level 1 crafting menu
+- began adding primative crafting menu
 
 Fixes<br>
 - <i>fixed a bug that caused the crosshair to not show when hip firing</i>
