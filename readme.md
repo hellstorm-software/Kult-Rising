@@ -15,6 +15,7 @@
 18.12.24
 - added drivable car to SCP-3008 (still need to combine player and car controllers for optimization)
 - added auto-load feature
+- changed interact key to F
 
 ----------------------------------------------------------
 16.12.24
