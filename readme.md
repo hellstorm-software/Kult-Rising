@@ -31,7 +31,6 @@ Fixes<br>
 - <i>fixed a bug that caused the crafting inventory to move around when opened</i>
 - <i>fixed a bug that caused players to attack while selecting in the crafting menu</i>
 
-
 ----------------------------------------------------------
 18.12.24
 - added drivable car to SCP-3008 (still need to combine player and car controllers for optimization)
