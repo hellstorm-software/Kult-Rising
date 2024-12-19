@@ -12,6 +12,8 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+
+----------------------------------------------------------
 18.12.24
 - added drivable car to SCP-3008 (still need to combine player and car controllers for optimization)
 - added auto-load feature
