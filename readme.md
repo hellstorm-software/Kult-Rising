@@ -15,6 +15,7 @@
 19.12.24
 - added Tactical Shooter Kit
 - added basic gun functionality
+- added basic ammo/magazines
 - added leaning mechanic
 - added step out mechanic
 - added neutral human npcs
