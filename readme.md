@@ -14,7 +14,7 @@
 
 19.12.24
 - added Tactical Shooter Kit
-- (2 rifles, 1 smg, 1 pistol)
+- added basic gun functionality
 - began building cluster 1 of metropolis (1%)
 
 Fixes<br>
