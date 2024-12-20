@@ -24,6 +24,10 @@
 - expanded the top floor by 150%
 - switched direction of stairs to walk into battlestation more conveniently
 
+
+Fixes<br>
+- <i>fixed a bug that caused the flashlight to not move with the camera on the vertical axis</i>
+
 ----------------------------------------------------------
 19.12.24
 - added Tactical Shooter Kit
