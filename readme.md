@@ -29,6 +29,7 @@
     - added flat screens
     - added crt wall
     - added tarps
+    - added pillars
 
 
 Fixes<br>
