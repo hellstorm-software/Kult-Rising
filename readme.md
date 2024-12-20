@@ -23,13 +23,13 @@
 - added top floor to floor 0 of the labyrinth
 - added stairs going from floor 0 to the top floor
 - expanded the top floor by 150%
-- switched direction of stairs to walk into battlestation more conveniently
 - added metropolis elevator door to top floor
 
 
 Fixes<br>
 - <i>fixed a bug that caused the flashlight to not move with the camera on the vertical axis</i>
 - <i>removed old weapon flashlight (redundant)</i>
+- <i>switched direction of stairs to walk into battlestation more conveniently</i>
 
 ----------------------------------------------------------
 19.12.24
