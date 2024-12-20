@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+20.12.24
+- added most weapons to crafting inventory
+- added propane tanks to crafting inventory
+
+----------------------------------------------------------
 19.12.24
 - added Tactical Shooter Kit
 - added basic gun functionality
