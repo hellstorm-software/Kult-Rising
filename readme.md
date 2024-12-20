@@ -24,6 +24,7 @@
 - added stairs going from floor 0 to the top floor
 - expanded the top floor by 150%
 - switched direction of stairs to walk into battlestation more conveniently
+- added metropolis elevator door to top floor
 
 
 Fixes<br>
