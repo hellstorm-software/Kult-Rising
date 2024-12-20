@@ -21,6 +21,7 @@
 - added coal to primative crafting inventory
 - added top floor to floor 0 of the labyrinth
 - added stairs going from floor 0 to the top floor
+- expanded the top floor by 150%
 
 ----------------------------------------------------------
 19.12.24
