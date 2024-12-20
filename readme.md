@@ -28,6 +28,7 @@
     - added foldable tables
     - added flat screens
     - added crt wall
+    - added tarps
 
 
 Fixes<br>
