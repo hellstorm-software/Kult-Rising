@@ -15,6 +15,7 @@
 20.12.24
 - added most weapons to crafting inventory
 - added propane tanks to crafting inventory
+- added MREs and takout containers to crafting inventory
 
 ----------------------------------------------------------
 19.12.24
