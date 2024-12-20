@@ -27,6 +27,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused the flashlight to not move with the camera on the vertical axis</i>
+- <i>removed old weapon flashlight (redundant)</i>
 
 ----------------------------------------------------------
 19.12.24
