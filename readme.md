@@ -19,6 +19,7 @@
 - added bones and feathers to primative crafting inventory
 - added generator to primative crafting inventory
 - added coal to primative crafting inventory
+- added top floor to floor 0 of the labyrinth
 
 ----------------------------------------------------------
 19.12.24
