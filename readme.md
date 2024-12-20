@@ -18,7 +18,7 @@
 - added MREs and takout containers to primative crafting inventory
 - added bones and feathers to primative crafting inventory
 - added generator to primative crafting inventory
-- added coal to crafting inventory
+- added coal to primative crafting inventory
 
 ----------------------------------------------------------
 19.12.24
