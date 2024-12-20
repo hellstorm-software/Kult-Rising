@@ -13,7 +13,7 @@
 <h2>[DEC]</h2>
 
 20.12.24
-- added most weapons to crafting inventory
+- added most primative weapons to primative crafting inventory
 - added propane tanks to crafting inventory
 - added MREs and takout containers to crafting inventory
 - added bones and feathers to crafting inventory
