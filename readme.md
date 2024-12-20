@@ -16,8 +16,8 @@
 - added most primative weapons to primative crafting inventory
 - added propane tanks to primative crafting inventory
 - added MREs and takout containers to primative crafting inventory
-- added bones and feathers to crafting inventory
-- added generator to crafting inventory
+- added bones and feathers to primative crafting inventory
+- added generator to primative crafting inventory
 - added coal to crafting inventory
 
 ----------------------------------------------------------
