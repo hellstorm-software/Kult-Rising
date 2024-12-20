@@ -17,6 +17,7 @@
 - added propane tanks to crafting inventory
 - added MREs and takout containers to crafting inventory
 - added bones and feathers to crafting inventory
+- added generator to crafting inventory
 
 ----------------------------------------------------------
 19.12.24
