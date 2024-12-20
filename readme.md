@@ -26,6 +26,7 @@
 - added metropolis elevator door to top floor
 - began furnishing top floor
     - added flat screens
+    - added crt wall
 
 
 Fixes<br>
