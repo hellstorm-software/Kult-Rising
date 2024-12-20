@@ -25,6 +25,7 @@
 - expanded the top floor by 150%
 - added metropolis elevator door to top floor
 - began furnishing top floor
+    - added foldable tables
     - added flat screens
     - added crt wall
 
