@@ -24,6 +24,7 @@
 - added stairs going from floor 0 to the top floor
 - expanded the top floor by 150%
 - added metropolis elevator door to top floor
+- began furnishing top floor
 
 
 Fixes<br>
