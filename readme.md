@@ -13,12 +13,13 @@
 <h2>[DEC]</h2>
 
 20.12.24
-- added most primative weapons to primative crafting inventory
-- added propane tanks to primative crafting inventory
-- added MREs and takout containers to primative crafting inventory
-- added bones and feathers to primative crafting inventory
-- added generator to primative crafting inventory
-- added coal to primative crafting inventory
+- build out primative crafting inventory
+    - added most primative weapons to primative crafting inventory
+    - added propane tanks to primative crafting inventory
+    - added MREs and takout containers to primative crafting inventory
+    - added bones and feathers to primative crafting inventory
+    - added generator to primative crafting inventory
+    - added coal to primative crafting inventory
 - added top floor to floor 0 of the labyrinth
 - added stairs going from floor 0 to the top floor
 - expanded the top floor by 150%
