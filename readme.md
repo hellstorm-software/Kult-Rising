@@ -28,6 +28,7 @@
 - added current equipped items to primative crafting inventory
 - added crafting space to primative crafting inventory
 - added lighting to primative crafting inventory
+- added basic materials to primative crafting inventory
 
 Fixes<br>
 - <i>fixed a bug that caused the crosshair to not show when hip firing</i>
