@@ -31,6 +31,7 @@
 - added basic materials to primative crafting inventory
 - added gas cans to primative crafting inventory
 - added wine bottles to primative crafting inventory
+- added generator to primative crafting inventory
 
 Fixes<br>
 - <i>fixed a bug that caused the crosshair to not show when hip firing</i>
