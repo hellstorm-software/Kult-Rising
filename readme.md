@@ -25,6 +25,7 @@ Fixes<br>
 - <i>fixed an issue that caused dead players to not despawn</i>
 - <i>fixed an issue that caused corpses to damage the player</i>
 - <i>fixed an issue that caused component barrels to not spawn</i>
+- <i>fixed an issue that caused player movement to be slowed sometimes in extraction level</i>
 
 ----------------------------------------------------------
 
