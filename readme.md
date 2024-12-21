@@ -22,6 +22,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused the enemy ai to move away from the player when aggrevated instead of towards the player/i>
+- <i>fixed an issue that caused dead players to not despawn</i>
 ----------------------------------------------------------
 
 20.12.24
