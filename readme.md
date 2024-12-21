@@ -17,6 +17,7 @@
 - buffed enemy move speed when aggro
 - added ability to attack to extraction demo zombies
 - changed zombie ai to to lose agro on player death
+- added on death event to extraction demo
 
 Fixes<br>
 - <i>fixed a bug that caused the enemy ai to move away from the player when aggrevated instead of towards the player/i>
