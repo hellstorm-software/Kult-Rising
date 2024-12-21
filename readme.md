@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+21.12.24
+- added basic ai functino to extraction demo enemies
+
+----------------------------------------------------------
+
 20.12.24
 - began building out primative crafting inventory
     - added most primative weapons to primative crafting inventory
