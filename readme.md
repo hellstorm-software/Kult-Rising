@@ -26,6 +26,8 @@ Fixes<br>
 - <i>fixed an issue that caused corpses to damage the player</i>
 - <i>fixed an issue that caused component barrels to not spawn</i>
 - <i>fixed an issue that caused player movement to be slowed sometimes in extraction level</i>
+- <i>fixed a bug that caused invisible enemies on death</i>
+- <i>fixed a bug that made jumping difficult on the extraction demo</i>
 
 ----------------------------------------------------------
 
