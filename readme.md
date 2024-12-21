@@ -13,7 +13,7 @@
 <h2>[DEC]</h2>
 
 20.12.24
-- build out primative crafting inventory
+- began building out primative crafting inventory
     - added most primative weapons to primative crafting inventory
     - added propane tanks to primative crafting inventory
     - added MREs and takout containers to primative crafting inventory
