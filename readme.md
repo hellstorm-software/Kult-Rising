@@ -31,6 +31,7 @@
     - added tarps
     - added pillars
 - began adding demo level
+    - added doorway to void walking
 
 
 Fixes<br>
