@@ -34,6 +34,7 @@
     - added doorway to void walking
     - added doorway to material extraction
     - added console to clicker game
+    - added labeling to doorways
 
 
 Fixes<br>
