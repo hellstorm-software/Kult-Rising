@@ -35,6 +35,7 @@
     - added doorway to material extraction
     - added console to clicker game
     - added labeling to doorways
+- added generic mountain terrain to extraction demo
 
 
 Fixes<br>
