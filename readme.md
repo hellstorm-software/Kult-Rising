@@ -15,7 +15,7 @@
 21.12.24
 - added basic ai function to extraction demo enemies
 - buffed enemy move speed when aggro
-- added ability to attack to extraction demo enemies
+- added ability to attack to extraction demo zombies
 - changed zombie ai to to lose agro on player death
 
 Fixes<br>
