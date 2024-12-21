@@ -33,6 +33,7 @@
 - began adding demo level
     - added doorway to void walking
     - added doorway to material extraction
+    - added console to clicker game
 
 
 Fixes<br>
