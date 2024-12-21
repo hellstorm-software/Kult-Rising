@@ -14,6 +14,7 @@
 
 21.12.24
 - added basic ai functino to extraction demo enemies
+- buffed enemy move speed when aggro
 
 Fixes<br>
 - <i>fixed a bug that caused the enemy ai to move away from the player when aggrevated instead of towards the player/i>
