@@ -13,7 +13,7 @@
 <h2>[DEC]</h2>
 
 21.12.24
-- added basic ai functino to extraction demo enemies
+- added basic ai function to extraction demo enemies
 - buffed enemy move speed when aggro
 
 Fixes<br>
