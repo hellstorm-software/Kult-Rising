@@ -24,6 +24,7 @@
 - changed background to inventory/stats ui
 - added abstract art splash behind inventory when open
 - added door from extraction demo to temp space
+- added door from void walking to temp space
 
 Fixes<br>
 - <i>fixed a bug that caused the enemy ai to move away from the player when aggrevated instead of towards the player</i>
