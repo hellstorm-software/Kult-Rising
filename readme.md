@@ -19,6 +19,7 @@
 - changed zombie ai to to lose agro on player death
 - added on death event to extraction demo
 - added player respawn to extraction demo
+- added character model to inventory
 
 Fixes<br>
 - <i>fixed a bug that caused the enemy ai to move away from the player when aggrevated instead of towards the player</i>
