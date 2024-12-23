@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+23.12.24
+- began building Kult HQ in Metropolis
+
+----------------------------------------------------------
+
 22.12.24
 - added "arcade glow" to stone nodes
 - changed stone nodes to drop stone on hit as well as when destroyed
