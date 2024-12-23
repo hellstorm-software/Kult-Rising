@@ -15,6 +15,7 @@
 23.12.24
 - began building Kult HQ in Metropolis
 - began building 14th street in Metropolis
+- added truck barricade entrances to Kult HQ
 
 ----------------------------------------------------------
 
