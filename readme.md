@@ -18,6 +18,7 @@
 - added harvestable tree nodes to SCP-3008
 - added arcade glow to tree nodes
 - added arcade glow to barrels
+- added stone node drop pool
 
 Fixes<br>
 - <i>fixed a bug that caused stone nodes to turn towards the player</i>
