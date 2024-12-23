@@ -15,6 +15,9 @@
 22.12.24
 - added "arcade glow" to stone nodes
 
+Fixes<br>
+- <i>fixed a bug that caused stone nodes to turn towards the player</i>
+
 ----------------------------------------------------------
 
 21.12.24
