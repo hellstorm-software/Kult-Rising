@@ -17,6 +17,8 @@
 - began building 14th street in Metropolis
 - added truck barricade entrances to Kult HQ
 
+Fixes<br>
+- <i>fixed an issue that caused trucks in barricade to move back instead of forwards</i>
 ----------------------------------------------------------
 
 22.12.24
