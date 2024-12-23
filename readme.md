@@ -20,6 +20,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused stone nodes to turn towards the player</i>
+- <i>fixed a bug that caused crafting inventory to detatch from player</i>
 
 ----------------------------------------------------------
 
