@@ -12,6 +12,9 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+24.12.24
+- changed the name of the game from "SCP: Convergence" to "Kult Rising"
+
 23.12.24
 - began building Kult HQ in Metropolis
 - began building 14th street in Metropolis
