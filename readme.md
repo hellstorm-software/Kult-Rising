@@ -23,6 +23,8 @@ Fixes<br>
 - began building path from core tower to amusement park (SCP-x3008)
 - built out entrance to Kult HQ (65%)
 
+Fixes<br>
+- <i>fixed an issue that caused entities to attatch to the crafting inventory</i>
 ----------------------------------------------------------
 23.12.24
 - began building Kult HQ in Metropolis
