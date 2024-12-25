@@ -13,6 +13,7 @@
 <h2>[DEC]</h2>
 
 25.12.24
+- added more to metropolis HQ entrance
 
 Fixes<br>
 - <i>fixed an issue that caused glowing outlines of nodes to not be removed when destroyed</i>
