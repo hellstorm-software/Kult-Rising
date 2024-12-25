@@ -12,6 +12,12 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+25.12.24
+
+Fixes<br>
+- <i>fixed an issue that caused glowing outlines of nodes to not be removed when destroyed</i>
+----------------------------------------------------------
+
 24.12.24
 - changed the name of the game from "SCP: Convergence" to "Kult Rising"
 
