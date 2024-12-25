@@ -21,6 +21,7 @@ Fixes<br>
 24.12.24
 - changed the name of the game from "SCP: Convergence" to "Kult Rising"
 - began building path from core tower to amusement park (SCP-x3008)
+- built out entrance to Kult HQ (65%)
 
 ----------------------------------------------------------
 23.12.24
