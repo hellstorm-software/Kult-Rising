@@ -25,6 +25,7 @@ Fixes<br>
 
 Fixes<br>
 - <i>fixed an issue that caused entities to attatch to the crafting inventory</i>
+- <i>fixed an issue that caused truck doors to move back farther than they move forward</i>
 ----------------------------------------------------------
 23.12.24
 - began building Kult HQ in Metropolis
