@@ -15,6 +15,7 @@
 25.12.24
 - added more to metropolis HQ entrance
 - began building quantum dungeon
+- added devil girl entity to quantum dungeon
 
 Fixes<br>
 - <i>fixed an issue that caused glowing outlines of nodes to not be removed when destroyed</i>
