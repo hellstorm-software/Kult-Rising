@@ -12,10 +12,15 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+26.12.24
+- expanded 14th street
+
+----------------------------------------------------------
+
 25.12.24
 - added more to metropolis HQ entrance
 - began building quantum dungeon
-- added devil girl entity to quantum dungeon
+- added devil entity to quantum dungeon
 - updated title screen to new name
 
 Fixes<br>
