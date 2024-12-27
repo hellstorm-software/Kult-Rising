@@ -17,6 +17,7 @@
 - switched out some skyscraper models that were too nice looking for that part of the city
 - removed old sector of metropolis
 - finished laying out buildings of 14th street
+- began building south exterior street
 
 ----------------------------------------------------------
 
