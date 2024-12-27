@@ -20,6 +20,7 @@
 - built south exterior street
 - began building east and west exterior streets
 - expanded terrain size of metropolis
+- doubled the size of the south exterior street
 
 ----------------------------------------------------------
 
