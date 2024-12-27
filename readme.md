@@ -19,6 +19,7 @@
 - finished laying out buildings of 14th street
 - built south exterior street
 - began building east and west exterior streets
+- expanded terrain size of metropolis
 
 ----------------------------------------------------------
 
