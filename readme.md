@@ -19,6 +19,7 @@
     - changed skybox to black void
     - added starter chest
     - added first enemy spawn
+    - added creature model to void walkers
 - switched clicker game console to a doorway to create less confusion
     - added label to clicker game door
 
