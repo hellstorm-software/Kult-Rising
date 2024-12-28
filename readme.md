@@ -17,6 +17,7 @@
     - added flat terrain
     - added return to hub door
     - changed skybox to black void
+- switched clicker game console to a doorway to create less confusion
 
 ----------------------------------------------------------
 26.12.24
