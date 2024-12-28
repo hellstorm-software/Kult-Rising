@@ -12,6 +12,10 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+28.12.24
+- created void walking level
+
+----------------------------------------------------------
 26.12.24
 - expanded 14th street
 - switched out some skyscraper models that were too nice looking for that part of the city
