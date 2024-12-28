@@ -18,6 +18,7 @@
     - added return to hub door
     - changed skybox to black void
     - added starter chest
+    - added first enemy spawn
 - switched clicker game console to a doorway to create less confusion
     - added label to clicker game door
 
