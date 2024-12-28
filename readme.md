@@ -25,6 +25,7 @@
 
 Fixes<br>
 - <i>fixed an issue that caused void NPCs to not move</i>
+- <i>changed inventory camera to return to previous camera when closing inventory instead of forcing FPS camera</i>
 ----------------------------------------------------------
 26.12.24
 - expanded 14th street
