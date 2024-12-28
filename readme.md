@@ -16,7 +16,7 @@
 - created void walking level
     - added flat terrain
     - added return to hub door
-    - 
+    - changed skybox to black void
 
 ----------------------------------------------------------
 26.12.24
