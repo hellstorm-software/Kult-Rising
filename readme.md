@@ -22,6 +22,9 @@
 - switched clicker game console to a doorway to create less confusion
     - added label to clicker game door
 
+
+Fixes<br>
+- <i>fixed an issue that caused void NPCs to not move</i>
 ----------------------------------------------------------
 26.12.24
 - expanded 14th street
