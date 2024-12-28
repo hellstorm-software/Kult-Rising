@@ -15,6 +15,7 @@
 28.12.24
 - created void walking level
 - added flat terrain
+- added return to hub door
 
 ----------------------------------------------------------
 26.12.24
