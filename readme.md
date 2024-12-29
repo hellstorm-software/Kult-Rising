@@ -36,6 +36,7 @@ Fixes<br>
 - <i>changed inventory camera to return to previous camera when closing inventory instead of forcing FPS camera</i>
 - <i>fixed a bug that caused void walkers to stop spawning too early</i>
 - <i>fixed a bug that caused void walkers to spawn indefinitely</i>
+- <i>fixed text that said "left click" when it should say "right click"</i>
 ----------------------------------------------------------
 26.12.24
 - expanded 14th street
