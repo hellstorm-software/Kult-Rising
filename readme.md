@@ -24,6 +24,7 @@
     - added level 1 boss
 - switched clicker game console to a doorway to create less confusion
     - added label to clicker game door
+- updated clicker game ui
 
 
 Fixes<br>
