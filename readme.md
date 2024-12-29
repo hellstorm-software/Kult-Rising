@@ -18,6 +18,7 @@
 - replaced default mannequin models on menu screen
 - added new logo to menu screen
 - rearranged menu screen
+- added loading screens to all level changes
 
 Fixes<br>
 - <i>fixed an issue that caused camera to not zoom in/out on scroll in third person view</i>
