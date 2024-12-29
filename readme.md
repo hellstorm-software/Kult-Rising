@@ -25,6 +25,7 @@ Fixes<br>
 - <i>fixed an issue that forced game into first person when closing crafting menu</i>
 - <i>changed logo color on menu screen</i>
 - <i>fixed a bug that caused player model to not load when in inventory</i>
+- <i>fixed a bug that caused the player model to turn invisible when closing inventory in third person view</i>
 ----------------------------------------------------------
 
 28.12.24
