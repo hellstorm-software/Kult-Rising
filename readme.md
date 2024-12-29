@@ -12,6 +12,13 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+29.12.24
+- 
+
+Fixes<br>
+- <i>fixed an issue that caused camera to not zoom in/out on scroll in third person view</i>
+----------------------------------------------------------
+
 28.12.24
 - created void walking level
     - added flat terrain
