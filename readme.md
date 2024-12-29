@@ -17,6 +17,7 @@
 
 Fixes<br>
 - <i>fixed an issue that caused camera to not zoom in/out on scroll in third person view</i>
+- <i>fixed an issue that forced game into first person when closing crafting menu</i>
 ----------------------------------------------------------
 
 28.12.24
