@@ -17,6 +17,7 @@
 - added temporary barricade to material extraction door
 - replaced default mannequin models on menu screen
 - added new logo to menu screen
+- rearranged menu screen
 
 Fixes<br>
 - <i>fixed an issue that caused camera to not zoom in/out on scroll in third person view</i>
