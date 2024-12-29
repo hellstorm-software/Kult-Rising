@@ -20,6 +20,7 @@
     - added starter chest
     - added first enemy spawn
     - added creature model to void walkers
+    - added first level of enemies
 - switched clicker game console to a doorway to create less confusion
     - added label to clicker game door
 
