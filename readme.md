@@ -30,6 +30,7 @@
     - updated prestiege button wording
     - added text to asteroid navbar
     - added text to all 5 planet navbars
+    - added text to both super planet navbars
 
 
 Fixes<br>
