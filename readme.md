@@ -42,6 +42,7 @@ Fixes<br>
 - <i>fixed a bug that caused void walkers to spawn indefinitely</i>
 - <i>fixed text that said "left click" when it should say "right click"</i>
 - <i>fixed an issue that caused "i" to look like "l" in certain fonts</i>
+- <i>fixed an issue that caused nav bar to cover achievement and statistics popups</i>
 ----------------------------------------------------------
 26.12.24
 - expanded 14th street
