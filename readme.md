@@ -14,6 +14,7 @@
 
 29.12.24
 - added default character model
+- added temporary barricade to material extraction door
 
 Fixes<br>
 - <i>fixed an issue that caused camera to not zoom in/out on scroll in third person view</i>
