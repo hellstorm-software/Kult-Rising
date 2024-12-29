@@ -25,6 +25,7 @@
 - switched clicker game console to a doorway to create less confusion
     - added label to clicker game door
 - updated clicker game ui
+    - changed color pallete to match the rest of the game
 
 
 Fixes<br>
