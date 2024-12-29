@@ -32,6 +32,7 @@
     - added text to all 5 planet navbars
     - added text to both super planet navbars
     - updated ore info UI
+    - changed ore info icons and color
 
 
 Fixes<br>
