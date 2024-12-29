@@ -27,6 +27,7 @@
 - updated clicker game ui
     - changed color pallete to match the rest of the game
     - updated button icons
+    - updated prestiege button wording
 
 
 Fixes<br>
