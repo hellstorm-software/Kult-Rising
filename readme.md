@@ -26,6 +26,7 @@
     - added label to clicker game door
 - updated clicker game ui
     - changed color pallete to match the rest of the game
+    - updated button icons
 
 
 Fixes<br>
