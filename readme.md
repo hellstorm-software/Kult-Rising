@@ -28,6 +28,7 @@
     - changed color pallete to match the rest of the game
     - updated button icons
     - updated prestiege button wording
+    - added text to asteroid navbar
 
 
 Fixes<br>
