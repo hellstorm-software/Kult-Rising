@@ -29,6 +29,7 @@
     - updated button icons
     - updated prestiege button wording
     - added text to asteroid navbar
+    - added text to all 5 planet navbars
 
 
 Fixes<br>
