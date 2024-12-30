@@ -15,6 +15,8 @@
 30.12.24
 - added sewer level
 
+Fixes<br>
+- <i>adjusted lighting in sewer</i>
 ----------------------------------------------------------
 
 29.12.24
