@@ -20,6 +20,7 @@
 - rearranged menu screen
 - added loading screens to all level changes
 - removed crosshair from "immersive" levels
+- built room 1 of the poolrooms
 
 Fixes<br>
 - <i>fixed an issue that caused camera to not zoom in/out on scroll in third person view</i>
