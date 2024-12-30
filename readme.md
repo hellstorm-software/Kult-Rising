@@ -22,6 +22,7 @@
 - removed crosshair from "immersive" levels
 - built room 1 of the poolrooms
 - added bodycam component
+- added camera overlay for immersive levels
 
 Fixes<br>
 - <i>fixed an issue that caused camera to not zoom in/out on scroll in third person view</i>
