@@ -29,6 +29,7 @@ Fixes<br>
 - <i>changed logo color on menu screen</i>
 - <i>fixed a bug that caused player model to not load when in inventory</i>
 - <i>fixed a bug that caused the player model to turn invisible when closing inventory in third person view</i>
+- <i>fixed an issue that caused mouse inputs to be doubled up in bodycam component</i>
 ----------------------------------------------------------
 
 28.12.24
