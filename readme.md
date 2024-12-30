@@ -14,6 +14,7 @@
 
 30.12.24
 - added sewer level to metropolis
+- began building Sewer HQ
 
 Fixes<br>
 - <i>adjusted lighting in sewer</i>
