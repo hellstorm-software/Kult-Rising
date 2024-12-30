@@ -32,6 +32,7 @@ Fixes<br>
 - <i>fixed a bug that caused the player model to turn invisible when closing inventory in third person view</i>
 - <i>fixed an issue that caused mouse inputs to be doubled up in bodycam component</i>
 - <i>edited pool tile material to be clean tiles</i>
+- <i>fixed a lighting issue on menu screen</i>
 ----------------------------------------------------------
 
 28.12.24
