@@ -13,7 +13,7 @@
 <h2>[DEC]</h2>
 
 30.12.24
-- added sewer level
+- added sewer level to metropolis
 
 Fixes<br>
 - <i>adjusted lighting in sewer</i>
