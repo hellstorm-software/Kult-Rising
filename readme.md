@@ -16,6 +16,7 @@
 - began building gravship hanger in floor 0
 - began creating The Fathom (starter gravship)
     - added rear hanger
+    - added main corridor
 
 ----------------------------------------------------------
 
