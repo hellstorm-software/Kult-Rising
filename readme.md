@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[DEC]</h2>
 
+31.12.24
+- began building gravship hanger in floor 0
+
+----------------------------------------------------------
+
 30.12.24
 - added sewer level to metropolis
 - began building Sewer HQ
