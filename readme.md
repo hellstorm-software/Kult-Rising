@@ -17,6 +17,7 @@
 - began creating The Fathom (starter gravship)
     - added rear hanger
     - added main corridor
+    - added cockpit
 
 ----------------------------------------------------------
 
