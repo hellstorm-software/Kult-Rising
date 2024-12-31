@@ -18,6 +18,7 @@
     - added rear hanger
     - added main corridor
     - added cockpit
+    - added door controllers
 
 ----------------------------------------------------------
 
