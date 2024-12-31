@@ -14,6 +14,7 @@
 
 31.12.24
 - began building gravship hanger in floor 0
+- began creating The Fathom (starter gravship)
 
 ----------------------------------------------------------
 
