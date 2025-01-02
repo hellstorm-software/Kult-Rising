@@ -18,6 +18,7 @@
 - changed models for wave 1 and 2 voidbosses
 - added pillar room to poolrooms
 - built infinite hallway
+- began building looping hallway
 
 Fixes<br>
 - <i>fixed an issue that caused wave 2 to continue respawning indefinitely</i>
