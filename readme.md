@@ -14,6 +14,7 @@
 
 1.1.25
 - added wave 2 to voidwalking
+- changed models for wave 2 voidwalkers
 
 ----------------------------------------------------------
 
