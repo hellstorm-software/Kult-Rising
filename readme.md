@@ -23,6 +23,7 @@ Fixes<br>
 - <i>fixed an issue that caused wave 2 to continue respawning indefinitely</i>
 - <i>fixed an issue that caused wave 2 to stop spawning before the boss</i>
 - <i>adjusted position of barricade in demo hub</i>
+- <i>fixed a bug that caused entity to spawn before entering hallway</i>
 ----------------------------------------------------------
 
 <h2>2024 [DEC]</h2>
