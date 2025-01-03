@@ -15,6 +15,7 @@
 1.2.25
 - created document for SCP-x3008
 - began adding textures to greyboxed elements of SCP-x3008
+- began adding lights to theme park entrance
 
 ----------------------------------------------------------
 1.1.25
