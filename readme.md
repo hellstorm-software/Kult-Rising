@@ -12,7 +12,7 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
-1.2.25
+2.1.25
 - created document for SCP-x006-A
 - created document for SCP-x3008
 - began adding textures to greyboxed elements of SCP-x3008
