@@ -18,6 +18,8 @@
     - added red carpet
     - added wood floor texture
 
+Fixes<br>
+- <i>changed old wood texture</i>
 ----------------------------------------------------------
 2.1.25
 - created document for SCP-x006-A
