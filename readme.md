@@ -13,7 +13,7 @@
 <h2>[JAN]</h2>
 
 3.1.25
-- added more to SCP-x3008
+- added more textures to SCP-x3008
     - added black carpet
     - added red carpet
     - added wood floor texture
