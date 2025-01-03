@@ -13,6 +13,7 @@
 <h2>[JAN]</h2>
 
 1.2.25
+- created document for SCP-x006-A
 - created document for SCP-x3008
 - began adding textures to greyboxed elements of SCP-x3008
     - added marble texture to pillars
@@ -30,7 +31,6 @@ Fixes<br>
 - added pillar room to poolrooms
 - built infinite hallway
 - began building looping hallway
-- created document for SCP-x006-A
 
 Fixes<br>
 - <i>fixed an issue that caused wave 2 to continue respawning indefinitely</i>
