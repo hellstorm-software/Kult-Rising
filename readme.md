@@ -21,6 +21,7 @@
 
 Fixes<br>
 - <i>changed old wood texture</i>
+- <i>changed arcade carpet texture to not be shiny</i>
 ----------------------------------------------------------
 2.1.25
 - created document for SCP-x006-A
