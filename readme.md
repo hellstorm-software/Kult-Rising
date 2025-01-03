@@ -17,6 +17,7 @@
 - began adding textures to greyboxed elements of SCP-x3008
     - added marble texture to pillars
     - added checkerboard tile texture to floor
+    - added wood floors to top of theme park entrance
 - began adding lights to theme park entrance
 
 Fixes<br>
