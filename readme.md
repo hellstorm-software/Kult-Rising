@@ -16,6 +16,7 @@
 - created document for SCP-x3008
 - began adding textures to greyboxed elements of SCP-x3008
     - added marble texture to pillars
+    - added checkerboard tile texture to floor
 - began adding lights to theme park entrance
 
 Fixes<br>
