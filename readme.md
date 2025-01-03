@@ -14,8 +14,8 @@
 
 3.1.25
 - added more to SCP-x3008
-    - added black carpet to SCP-x3008
-    - added red carpet to SCP-x3008
+    - added black carpet
+    - added red carpet
 
 ----------------------------------------------------------
 2.1.25
