@@ -23,6 +23,7 @@
 - added pillar room to poolrooms
 - built infinite hallway
 - began building looping hallway
+- created document for SCP-x006-A
 
 Fixes<br>
 - <i>fixed an issue that caused wave 2 to continue respawning indefinitely</i>
