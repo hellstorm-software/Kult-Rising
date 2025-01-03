@@ -20,6 +20,7 @@
     - finished texturing cluster 1
     - finished texturing cluster 2
     - finished texturing cluster 3
+- added oasis cluster 1 near theme park entrance in x3008
 
 Fixes<br>
 - <i>changed old wood texture</i>
