@@ -17,6 +17,8 @@
 - began adding textures to greyboxed elements of SCP-x3008
 - began adding lights to theme park entrance
 
+Fixes<br>
+- <i>fixed an issue that caused floor 0 windows to load as opaque instead of clear sometimes</i>
 ----------------------------------------------------------
 1.1.25
 - added wave 2 to voidwalking
