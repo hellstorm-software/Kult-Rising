@@ -12,6 +12,10 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+1.2.25
+- began adding textures to greyboxed elements of SCP-x3008
+
+----------------------------------------------------------
 1.1.25
 - added wave 2 to voidwalking
 - changed models for wave 2 voidwalkers
