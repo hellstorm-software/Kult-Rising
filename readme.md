@@ -17,6 +17,7 @@
     - added black carpet
     - added red carpet
     - added wood floor texture
+    - finished texturing cluster 1
 
 Fixes<br>
 - <i>changed old wood texture</i>
