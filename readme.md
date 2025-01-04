@@ -20,6 +20,7 @@
 - finished marble checker floor to theme park entrance
 - began adding large walls
 - added gateway entrance to poolrooms
+- began adding casino games
 
 ----------------------------------------------------------
 
