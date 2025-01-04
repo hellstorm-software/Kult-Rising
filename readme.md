@@ -24,6 +24,7 @@
     - began adding poker tables
     - began adding roulette tables
     - added blackjack tables to cluster 1
+    - added chairs to casino tables
 
 Fixes<br>
 - <i>added carpet to fix tiling error on one of the towers in the core clusters</i>
