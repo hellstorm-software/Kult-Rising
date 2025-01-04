@@ -23,6 +23,7 @@
 - began adding casino games
     - began adding poker tables
     - began adding roulette tables
+    - added blackjack tables to cluster 1
 
 Fixes<br>
 - <i>added carpet to fix tiling error on one of the towers in the core clusters</i>
