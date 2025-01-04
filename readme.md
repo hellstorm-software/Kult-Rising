@@ -22,6 +22,7 @@
 - added gateway entrance to poolrooms
 - began adding casino games
     - began adding poker tables
+    - began adding roulette tables
 
 ----------------------------------------------------------
 
