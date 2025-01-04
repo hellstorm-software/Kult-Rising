@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+4.1.25
+- finished adding textures to theme park entrance
+
+----------------------------------------------------------
+
 3.1.25
 - added more textures to SCP-x3008
     - added black carpet
@@ -27,6 +32,7 @@ Fixes<br>
 - <i>changed arcade carpet texture to not be shiny</i>
 - <i>changed white marble texture color from off-white to white</i>
 ----------------------------------------------------------
+
 2.1.25
 - created document for SCP-x006-A
 - created document for SCP-x3008
