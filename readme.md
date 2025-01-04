@@ -24,6 +24,8 @@
     - began adding poker tables
     - began adding roulette tables
 
+Fixes<br>
+- <i>added carpet to fix tiling error on one of the towers in the core clusters</i>
 ----------------------------------------------------------
 
 3.1.25
