@@ -18,6 +18,7 @@
 - created document for SCP-112
 - added arcade entrance
 - finished marble checker floor to theme park entrance
+- began adding large walls
 
 ----------------------------------------------------------
 
