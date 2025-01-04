@@ -17,6 +17,7 @@
 - finished texturing core area (clusters 1-9)
 - created document for SCP-112
 - added arcade entrance
+- finished marble checker floor to theme park entrance
 
 ----------------------------------------------------------
 
