@@ -14,6 +14,7 @@
 
 4.1.25
 - finished adding textures to theme park entrance
+- finished texturing core area (clusters 1-9)
 
 ----------------------------------------------------------
 
