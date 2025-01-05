@@ -23,6 +23,7 @@
 - began adding hivlings to hive minigame
     - added head 1
     - added hands
+    - added variance to hivlings on spawn
 - began combining clicker game with hive minigame
     - added clicker UI
     - integrated clicker game save state to UI
