@@ -23,6 +23,7 @@
 - began adding hivlings to hive minigame
     - added head 1
     - added hands
+- began combining clicker game with hive minigame
 
 Fixes<br>
 - <i>fixed an issue that caused a light vingette to appear on immersive levels</i>
