@@ -27,6 +27,7 @@
 - began combining clicker game with hive minigame
     - added clicker UI
     - integrated clicker game save state to UI
+    - added planets to hive level
 
 Fixes<br>
 - <i>fixed an issue that caused a light vingette to appear on immersive levels</i>
