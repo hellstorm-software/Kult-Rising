@@ -17,6 +17,7 @@
 - removed bodycam vingette from immersive levels
 - added grass foliage to dreamcore sim
 - began building hive minigame
+- began adding hivlings to hive minigame
 
 Fixes<br>
 - <i>fixed an issue that caused a light vingette to appear on immersive levels</i>
