@@ -31,6 +31,7 @@
 
 Fixes<br>
 - <i>fixed an issue that caused a light vingette to appear on immersive levels</i>
+- <i>changed camera in hive level to remain in a fixed position for a few seconds before orbiting</i>
 
 ----------------------------------------------------------
 
