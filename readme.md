@@ -18,6 +18,7 @@
 - added grass foliage to dreamcore sim
 - began building hive minigame
     - added the ability to move camera on right click
+    - began adding foliage to terrain
 - began adding hivlings to hive minigame
     - added head 1
     - added hands
