@@ -14,6 +14,7 @@
 
 5.1.24
 - added grass floor to dreamcore sim
+- removed bodycam vingette from immersive levels
 
 ----------------------------------------------------------
 
