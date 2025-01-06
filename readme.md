@@ -30,6 +30,7 @@ Fixes<br>
 - <i>adjusted nav menu position</i>
 - <i>adjusted side bar position</i>
 - <i>fixed a bug that caused recycler to be constantly reset</i>
+- <i>fixed a bug that caused recycler to continue adding materials when full</i>
 ----------------------------------------------------------
 
 5.1.24
