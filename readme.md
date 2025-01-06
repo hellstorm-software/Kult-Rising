@@ -14,6 +14,7 @@
 
 6.1.24
 - added caustics to hive level
+- added side bar UI to hive
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
