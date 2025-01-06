@@ -17,6 +17,7 @@
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
+- <i>adjusted color of ppfx in hive</i>
 ----------------------------------------------------------
 5.1.24
 - added grass floor to dreamcore sim
