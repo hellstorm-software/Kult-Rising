@@ -15,6 +15,8 @@
 6.1.24
 - added caustics to hive level
 
+Fixes<br>
+- <i>fixed an issue that caused drones to not be selected when clicked</i>
 ----------------------------------------------------------
 5.1.24
 - added grass floor to dreamcore sim
