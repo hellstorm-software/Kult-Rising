@@ -24,6 +24,7 @@
     - updated fuel ui icon
 - added functionality to clicker upgrade
 - added bonus VEK pickups to hivling food collection
+- began adding hive ship
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
