@@ -17,6 +17,7 @@
 - added side bar UI to hive
 - moved bottom UI buttons to side bar
 - added background to side bar
+- updated clicker UI text to reflect hive level
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
