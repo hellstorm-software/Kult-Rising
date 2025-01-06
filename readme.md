@@ -20,6 +20,7 @@
 - updated clicker UI text to reflect hive level
 - implemented recycling clicker
 - linked hive collection to recycler
+- updated hive gamemode ui
 - updated fuel ui icon 
 
 Fixes<br>
