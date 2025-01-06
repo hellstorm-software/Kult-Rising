@@ -29,6 +29,7 @@
     - integrated clicker game save state to UI
     - added planets to hive level
 - added underwater vfx to hive level
+- added post process fx to hive
 
 Fixes<br>
 - <i>fixed an issue that caused a light vingette to appear on immersive levels</i>
