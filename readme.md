@@ -20,6 +20,7 @@
 - updated clicker UI text to reflect hive level
 - implemented recycling clicker
 - linked hive collection to recycler
+- updated fuel ui icon 
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
