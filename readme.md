@@ -23,6 +23,7 @@ Fixes<br>
 - <i>fixed an issue that caused achievement button to not function</i>
 - <i>made side bar icons smaller</i>
 - made nav menu smaller
+- adjusted nav menu position
 ----------------------------------------------------------
 
 5.1.24
