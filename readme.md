@@ -19,7 +19,7 @@
 - added background to side bar
 - updated clicker UI text to reflect hive level
 - implemented recycling clicker
-- linked hive collection to clicker
+- linked hive collection to recycler
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
@@ -29,6 +29,7 @@ Fixes<br>
 - <i>made nav menu smaller</i>
 - <i>adjusted nav menu position</i>
 - <i>adjusted side bar position</i>
+- <i>fixed a bug that caused recycler to be constantly reset</i>
 ----------------------------------------------------------
 
 5.1.24
