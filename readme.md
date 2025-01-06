@@ -21,6 +21,7 @@ Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
 - <i>adjusted color of ppfx in hive</i>
 - <i>fixed an issue that caused achievement button to not function</i>
+- <i>made side bar icons smaller</i>
 ----------------------------------------------------------
 5.1.24
 - added grass floor to dreamcore sim
