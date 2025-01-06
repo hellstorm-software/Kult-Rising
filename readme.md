@@ -24,6 +24,7 @@ Fixes<br>
 - <i>made side bar icons smaller</i>
 - <i>made nav menu smaller</i>
 - <i>adjusted nav menu position</i>
+- <i>adjusted side bar position</i>
 ----------------------------------------------------------
 
 5.1.24
