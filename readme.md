@@ -21,7 +21,8 @@
 - implemented recycling clicker
 - linked hive collection to recycler
 - updated hive gamemode ui
-    - updated fuel ui icon 
+    - updated fuel ui icon
+- added functionality to clicker upgrade
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
