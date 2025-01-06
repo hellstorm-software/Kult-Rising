@@ -16,6 +16,7 @@
 - added caustics to hive level
 - added side bar UI to hive
 - moved bottom UI buttons to side bar
+- added background to side bar
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
