@@ -22,8 +22,8 @@ Fixes<br>
 - <i>adjusted color of ppfx in hive</i>
 - <i>fixed an issue that caused achievement button to not function</i>
 - <i>made side bar icons smaller</i>
-- made nav menu smaller
-- adjusted nav menu position
+- <i>made nav menu smaller</i>
+- <i>adjusted nav menu position</i>
 ----------------------------------------------------------
 
 5.1.24
