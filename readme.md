@@ -33,6 +33,7 @@
     - added legs
     - added head
     - added glowing eyes
+    - added drill bit
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
