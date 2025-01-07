@@ -28,6 +28,7 @@
     - added ground base
     - added elevator
 - adjusted min/max zoom distance
+- added drone body
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
