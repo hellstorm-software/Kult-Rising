@@ -18,6 +18,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused an extra drone to spawn on reload</i>
+- <i>fixed a bug where if only 2 drones were saved, only 1 would be spawned</i>
 ----------------------------------------------------------
 6.1.24
 - added caustics to hive level
