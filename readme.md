@@ -26,6 +26,7 @@
 - added bonus VEK pickups to hivling food collection
 - began adding hive ship
     - added ground base
+    - added elevator
 - adjusted min/max zoom distance
 
 Fixes<br>
