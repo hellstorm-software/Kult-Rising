@@ -28,6 +28,7 @@
     - added ground base
     - added elevator
 - adjusted min/max zoom distance
+- updated hive drone models
 - added drone body
 
 Fixes<br>
