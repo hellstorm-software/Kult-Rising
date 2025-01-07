@@ -31,6 +31,7 @@
 - updated hive drone models
     - added drone body
     - added legs
+    - added head
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
