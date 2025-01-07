@@ -22,6 +22,7 @@
 - added VEK counter to menu screen
 - added underwater base to menu screen
 - added afk value from hive game to menu screen
+- fixed an error that caused VEK counter to increase exponentially
 
 Fixes<br>
 - <i>fixed a bug that caused an extra drone to spawn on reload</i>
