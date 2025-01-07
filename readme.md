@@ -32,6 +32,7 @@
     - added drone body
     - added legs
     - added head
+    - added glowing eyes
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
