@@ -37,6 +37,7 @@
 - updated hive ship UI
     - changed color scheme
 - updated drone menu UI
+    - changed color scheme
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
