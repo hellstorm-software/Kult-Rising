@@ -16,6 +16,8 @@
 - implemented afk value to hive gamemode
 - added drones to saves system
 
+Fixes<br>
+- <i>fixed a bug that caused an extra drone to spawn on reload</i>
 ----------------------------------------------------------
 6.1.24
 - added caustics to hive level
