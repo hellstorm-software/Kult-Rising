@@ -34,6 +34,7 @@
     - added head
     - added glowing eyes
     - added drill bit
+- updated hive ship UI
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
