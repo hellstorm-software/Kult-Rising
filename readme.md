@@ -12,6 +12,10 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+7.1.24
+- implemented afk value to hive gamemode
+
+----------------------------------------------------------
 6.1.24
 - added caustics to hive level
 - added side bar UI to hive
