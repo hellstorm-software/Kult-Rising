@@ -29,7 +29,8 @@
     - added elevator
 - adjusted min/max zoom distance
 - updated hive drone models
-- added drone body
+    - added drone body
+    - added legs
 
 Fixes<br>
 - <i>fixed an issue that caused drones to not be selected when clicked</i>
