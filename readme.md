@@ -25,6 +25,7 @@
 - added functionality to clicker upgrade
 - added bonus VEK pickups to hivling food collection
 - began adding hive ship
+    - added ground base
 - adjusted min/max zoom distance
 
 Fixes<br>
