@@ -17,6 +17,7 @@
 - added drones to save system
 - added giant chain to hive
     - added bodies to chain
+- added ants to menu screen
 
 Fixes<br>
 - <i>fixed a bug that caused an extra drone to spawn on reload</i>
