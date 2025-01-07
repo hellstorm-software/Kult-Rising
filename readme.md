@@ -14,6 +14,7 @@
 
 7.1.24
 - implemented afk value to hive gamemode
+- added drones to saves system
 
 ----------------------------------------------------------
 6.1.24
