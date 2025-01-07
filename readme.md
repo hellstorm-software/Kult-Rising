@@ -50,6 +50,7 @@ Fixes<br>
 - <i>fixed a bug that caused recycler to be constantly reset</i>
 - <i>fixed a bug that caused recycler to continue adding materials when full</i>
 - <i>adjusted hive post processing color</i>
+- <i>fixed a bug that caused some buttons to turn the wrong color on hover</i>
 ----------------------------------------------------------
 
 5.1.24
