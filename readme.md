@@ -21,6 +21,7 @@
 
 Fixes<br>
 - <i>fixed a bug that caused mouse inputs to break when switching back to base controller</i>
+- <i>fixed a bug that caused fps character to shoot when not being used</i>
 ----------------------------------------------------------
 7.1.24
 - implemented afk value to hive gamemode
