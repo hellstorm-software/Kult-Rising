@@ -19,6 +19,7 @@
     - added shooting functionality
     - added aiming functionality
 - added ability to switch from fps view back into ship view
+- added switch icon to sidebar
 
 Fixes<br>
 - <i>fixed a bug that caused mouse inputs to break when switching back to base controller</i>
