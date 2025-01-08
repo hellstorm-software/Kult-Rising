@@ -16,6 +16,7 @@
 8.1.24
 - moved switch from ship view to player view into sidebar button
 - began combining core character controller with fps character controller
+    - added shooting functionality
 
 ----------------------------------------------------------
 7.1.24
