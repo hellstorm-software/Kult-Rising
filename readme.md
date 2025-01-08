@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+
+8.1.24
+- moved switch from ship view to player view into sidebar button
+
+----------------------------------------------------------
 7.1.24
 - implemented afk value to hive gamemode
 - added drones to save system
