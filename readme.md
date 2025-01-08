@@ -23,6 +23,7 @@
 - added underwater base to menu screen
 - added afk value from hive game to menu screen
 - fixed an error that caused VEK counter to increase exponentially
+- added ability to switch to FPS character on hive level
 
 Fixes<br>
 - <i>fixed a bug that caused an extra drone to spawn on reload</i>
