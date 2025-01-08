@@ -18,6 +18,7 @@
 - began combining core character controller with fps character controller
     - added shooting functionality
     - added aiming functionality
+- added ability to switch from fps view back into ship view
 
 Fixes<br>
 - <i>fixed a bug that caused mouse inputs to break when switching back to base controller</i>
