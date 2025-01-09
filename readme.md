@@ -37,6 +37,7 @@
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
 - <i>fixed a bug that caused side bar to break</i>
+- <i>fixed a bug that caused sym 2 to shoot while controlling sym 1</i>
 ----------------------------------------------------------
 
 8.1.25
