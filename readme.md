@@ -34,6 +34,7 @@
     - added new sym spawn
     - added switch to new sym
     - added move sym to spawn location
+    - added switch back and forth between sym 1 & 2
 
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
