@@ -1,0 +1,445 @@
+/* styles.css */
+body {
+  background-color: black;
+  color: #bababa;
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between; 
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+#terminal {
+  width: 70%;
+  height: 90%;
+  margin-left: .25%;
+  border: 1px solid #5100ff;
+  overflow-y: scroll;
+  scrollbar-width: thin; 
+  scrollbar-color: #fe5746 black;
+}
+
+/* For WebKit browsers (Chrome, Safari, newer Edge) */
+#terminal::-webkit-scrollbar {
+  width: 12px; 
+}
+
+#terminal::-webkit-scrollbar-track {
+  background: black;
+}
+
+#terminal::-webkit-scrollbar-thumb {
+  background: #fe5746;
+  border-radius: 6px;
+}
+
+#terminal::-webkit-scrollbar-thumb:hover {
+  background: darkred;
+}
+
+#input {
+  width: 70%;
+  margin-left: .25%;
+  margin-top: -2%;
+  border: none;
+  background-color: black;
+  color: green;
+  font-family: monospace;
+  margin-top: -3%;
+  min-height: 20px;
+}
+
+#chatBox {
+  width: 29%;
+  border: none;
+  margin-top: 21.5%;
+  background-color: black;
+  font-family: monospace;
+  border: 1px solid #5100ff;
+  min-height: 100px;
+  height: 45%;
+}
+
+#chat {
+  border: none;
+  background-color: black;
+  color: green;
+  font-family: monospace;
+  min-height: 100px;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: #fe5746 black;
+}
+
+/* For WebKit browsers (Chrome, Safari, newer Edge) */
+#chat::-webkit-scrollbar {
+  width: 12px;
+}
+
+#chat::-webkit-scrollbar-track {
+  background: black;
+}
+
+#chat::-webkit-scrollbar-thumb {
+  background: #fe5746;
+  border-radius: 6px;
+}
+
+#chat::-webkit-scrollbar-thumb:hover {
+  background: darkred; 
+}
+
+#status {
+  width: 29%;
+  border: none;
+  margin-left: -29.6%;
+  background-color: black;
+  color: green;
+  font-family: monospace;
+  border: 1px solid #5100ff;
+  min-height: 100px;
+  height: 15%;
+  overflow-y: scroll;
+  scrollbar-width: thin; 
+  scrollbar-color: #fe5746 black;
+}
+
+/* For WebKit browsers (Chrome, Safari, newer Edge) */
+#status::-webkit-scrollbar {
+  width: 12px;
+}
+
+#status::-webkit-scrollbar-track {
+  background: black;
+}
+
+#status::-webkit-scrollbar-thumb {
+  background: #fe5746;
+  border-radius: 6px;
+}
+
+#status::-webkit-scrollbar-thumb:hover {
+  background: darkred; 
+}
+
+.red-text {
+  color: #8a1e56;
+}
+
+.discord-text {
+	color: #5e4dff;
+}
+
+.violet-text {
+	color: #8500eb;
+}
+
+.username-text {
+	color: #00c8d6;
+}
+
+.create-text {
+	color: #bd00d6;
+}
+
+.yellow-text {
+	color: #d4c600;
+}
+
+.blue-code-text {
+	color: #0091ff;
+}
+
+.matrix-textc {
+	color: #d6cb51;
+}
+
+.ky-text {
+	color: #fe5746;
+}
+
+.console-text {
+	color: #5180d6;
+}
+
+.mud-text {
+	color: #a6ddff;
+}
+
+.ti-text {
+	color: #70ffba;
+}
+
+.green-text {
+	color: green;
+}
+
+.link {
+  color: #ff6803; /* Custom color for links */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.link:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+.orange-text {
+  color: #d96c23;
+}
+
+.lYellow-text {
+  color: #f2ec94;
+}
+
+.baba-text {
+	color: #bababa;
+}
+
+@keyframes glitch {
+  0% {
+    text-shadow: 1px 1px #ff00c1, -1px -1px #00ffe2;
+  }
+  20% {
+    text-shadow: -2px -2px #ff00c1, 2px 2px #00ffe2;
+  }
+  40% {
+    text-shadow: 1px 1px #ff00c1, -1px -1px #00ffe2;
+  }
+  60% {
+    text-shadow: 3px 3px #ff00c1, -3px -3px #00ffe2;
+  }
+  80% {
+    text-shadow: -1px -1px #ff00c1, 1px 1px #00ffe2;
+  }
+  100% {
+    text-shadow: 2px 2px #ff00c1, -2px -2px #00ffe2;
+  }
+}
+
+.glitch-text {
+  animation: glitch 0.1s infinite alternate;
+  display: inline-block;
+  white-space: pre-wrap;
+}
+
+.hidden-text {
+  visibility: hidden;
+}
+
+.info-bar {
+    position: relative;
+    top: 100px;
+    right: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: right;
+}
+
+.info-bar p {
+    margin: 0;
+	font-family: 'Courier New', monospace;
+	font-size: 14px;
+}
+
+.info-bar a {
+    margin: 0;
+	font-family: 'Courier New', monospace;
+	font-size: 14px;
+	color: rgba(270, 270, 270, 0.8);
+	text-decoration: none;
+}
+
+.info-bar a:hover {
+	text-decoration: underline;
+	margin-bottom: -15px;
+}
+
+.room-text {
+	color: #8500eb;
+}
+
+.code-green {
+	color: #04ff00;
+}
+
+.script-text {
+	color: #d4c600;
+}
+
+.create-text {
+	color: #bd00d6;
+}
+
+.username-text {
+	color: #00c8d6;
+}
+
+.matrix-text {
+	color: #b603fc;
+}
+
+.anomevo-text {
+	color: #fcb603;
+}
+
+.red-text2 {
+	color: #fc0303;
+}
+
+.combat-screen {
+	margin-top: -890px;
+	background-color: #000;
+	z-index: 0;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+    display: none;
+}
+
+.matrix-container {
+  position: relative;
+  width: 100%;
+  height: 400px; /* Adjust this to your div size */
+  background-color: black;
+}
+
+.matrix-text {
+  color: #00ff00;
+  font-family: 'Courier', monospace;
+  font-size: 16px;
+  position: relative;
+  top: -100px; /* Start off-screen */
+  animation: fall linear infinite;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(100vh); /* Ensure the text falls off the bottom of the screen */
+  }
+}
+
+.white-text {
+  color: white;
+}
+
+.glitch-div,
+.glitch-div:after {
+  width: 175px;
+  height: 76px;
+  line-height: 76px;
+  background: linear-gradient(45deg, transparent 5%, #000 5%);
+  border: 0;
+  color: #fff;
+  letter-spacing: 1px;
+  box-shadow: 6px 0px 0px #000;
+  outline: transparent;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.glitch-div:after {
+  --slice-0: inset(50% 50% 50% 50%);
+  --slice-1: inset(80% -6px 0 0);
+  --slice-2: inset(50% -6px 30% 0);
+  --slice-3: inset(10% -6px 85% 0);
+  --slice-4: inset(40% -6px 43% 0);
+  --slice-5: inset(80% -6px 5% 0);
+  
+  content: 'SXLAR';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, transparent 3%, #5100ff 3%, #5100ff 5%, #f24437 5%);
+  text-shadow: -3px -3px 0px #F8F005, 3px 3px 0px #00E6F6;
+  clip-path: var(--slice-0);
+  
+  /* Loop the animation infinitely */
+  animation: glitch 1s infinite;
+  animation-timing-function: steps(2, end);
+}
+
+@keyframes glitch {
+  0% {
+    clip-path: var(--slice-1);
+    transform: translate(-20px, -10px);
+  }
+  10% {
+    clip-path: var(--slice-3);
+    transform: translate(10px, 10px);
+  }
+  20% {
+    clip-path: var(--slice-1);
+    transform: translate(-10px, 10px);
+  }
+  30% {
+    clip-path: var(--slice-3);
+    transform: translate(0px, 5px);
+  }
+  40% {
+    clip-path: var(--slice-2);
+    transform: translate(-5px, 0px);
+  }
+  50% {
+    clip-path: var(--slice-3);
+    transform: translate(5px, 0px);
+  }
+  60% {
+    clip-path: var(--slice-4);
+    transform: translate(5px, 10px);
+  }
+  70% {
+    clip-path: var(--slice-2);
+    transform: translate(-10px, 10px);
+  }
+  80% {
+    clip-path: var(--slice-5);
+    transform: translate(20px, -10px);
+  }
+  90% {
+    clip-path: var(--slice-1);
+    transform: translate(-10px, 0px);
+  }
+  100% {
+    clip-path: var(--slice-1);
+    transform: translate(0);
+  }
+}
+
+@media (min-width: 768px) {
+  .glitch-div,
+  .glitch-div:after {
+    width: 50px;
+    height: 20px;
+    line-height: 10px;
+  }
+}
+
+.timestamp {
+  color: gray;
+  font-size: 0.9em;
+}
+
+.username {
+  font-weight: bold;
+  color: blue;
+}
+
+#chat p {
+  margin-bottom: 5px;
+}
