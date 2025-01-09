@@ -12,8 +12,12 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+9.1.25
+- updated navbox text to reflect hive level
 
-8.1.24
+----------------------------------------------------------
+
+8.1.25
 - moved switch from ship view to player view into sidebar button
 - began combining core character controller with fps character controller
     - added shooting functionality
@@ -25,7 +29,8 @@ Fixes<br>
 - <i>fixed a bug that caused mouse inputs to break when switching back to base controller</i>
 - <i>fixed a bug that caused fps character to shoot when not being used</i>
 ----------------------------------------------------------
-7.1.24
+
+7.1.25
 - implemented afk value to hive gamemode
 - added drones to save system
 - added giant chain to hive
@@ -45,7 +50,7 @@ Fixes<br>
 - <i>adjusted brightness of the lower lights on menu screen</i>
 ----------------------------------------------------------
 
-6.1.24
+6.1.25
 - added caustics to hive level
 - added side bar UI to hive
 - moved bottom UI buttons to side bar
@@ -86,7 +91,7 @@ Fixes<br>
 - <i>fixed a bug that caused some buttons to turn the wrong color on hover</i>
 ----------------------------------------------------------
 
-5.1.24
+5.1.25
 - added grass floor to dreamcore sim
 - removed bodycam vingette from immersive levels
 - added grass foliage to dreamcore sim
