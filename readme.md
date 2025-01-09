@@ -21,6 +21,7 @@
 - updated sidebar UI
     - added inventory icon
     - added mail icon
+    - added contacts icon
 
 ----------------------------------------------------------
 
