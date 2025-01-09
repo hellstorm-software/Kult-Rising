@@ -24,6 +24,7 @@
     - added contacts icon
     - updated ore stats icon
     - changed old stats icon to market icon
+    - added console icon
 
 ----------------------------------------------------------
 
