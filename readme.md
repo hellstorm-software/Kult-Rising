@@ -30,6 +30,8 @@
     - added VEK button
     - added skills button
 
+Fixes<br>
+- <i>fixed a bug that caused interact input to break</i>
 ----------------------------------------------------------
 
 8.1.25
