@@ -19,12 +19,13 @@
     - added lift
     - added functionality to lift
 - updated sidebar UI
-    - added inventory icon
-    - added mail icon
-    - added contacts icon
+    - added inventory button
+    - added mail button
+    - added contacts button
     - updated ore stats icon
-    - changed old stats icon to market icon
-    - added console icon
+    - changed market button icon to old stats icon
+    - added console button
+    - added UI button
 
 ----------------------------------------------------------
 
