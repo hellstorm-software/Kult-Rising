@@ -16,6 +16,7 @@
 - updated navbox text to reflect hive level
 - readded functionality to navbox
 - began adding floor E to hive level
+    - added lift
 - updated sidebar UI
 - 
 
