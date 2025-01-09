@@ -19,7 +19,7 @@
     - added lift
     - added functionality to lift
 - updated sidebar UI
-- 
+    - added inventory icon
 
 ----------------------------------------------------------
 
