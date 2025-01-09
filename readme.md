@@ -14,6 +14,7 @@
 
 9.1.25
 - updated navbox text to reflect hive level
+- readded functionality to navbox
 
 ----------------------------------------------------------
 
