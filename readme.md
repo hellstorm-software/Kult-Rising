@@ -28,6 +28,7 @@
     - added UI button
     - added phone button
     - added VEK button
+    - added skills button
 
 ----------------------------------------------------------
 
