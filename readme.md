@@ -29,7 +29,8 @@
     - added phone button
     - added VEK button
     - added skills button
- - implemented full HUD into floor 7 level 
+ - implemented full HUD into floor 7 level
+ - began building simSwitch functionality
 
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
