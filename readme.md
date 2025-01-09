@@ -32,6 +32,7 @@
  - implemented full HUD into floor 7 level
  - began building symSwitch functionality
     - added new sym spawn
+    - added switch to new sym
 
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
