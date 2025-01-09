@@ -33,6 +33,7 @@
  - began building symSwitch functionality
     - added new sym spawn
     - added switch to new sym
+    - added move sym to spawn location
 
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
