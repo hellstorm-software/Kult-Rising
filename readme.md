@@ -17,6 +17,7 @@
 - readded functionality to navbox
 - began adding floor E to hive level
     - added lift
+    - added functionality to lift
 - updated sidebar UI
 - 
 
