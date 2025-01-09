@@ -26,6 +26,7 @@
     - changed market button icon to old stats icon
     - added console button
     - added UI button
+    - added phone button
 
 ----------------------------------------------------------
 
