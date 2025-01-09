@@ -22,6 +22,7 @@
     - added inventory icon
     - added mail icon
     - added contacts icon
+    - updated ore stats icon
 
 ----------------------------------------------------------
 
