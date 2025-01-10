@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+10.1.25
+- changed spice model to proper mesh
+
+----------------------------------------------------------
+
 9.1.25
 - updated navbox text to reflect hive level
 - readded functionality to navbox
