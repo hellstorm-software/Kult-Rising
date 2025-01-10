@@ -20,6 +20,7 @@ Fixes<br>
 - <i>removed extra health bar</i>
 - <i>removed extra stamina bar</i>
 - <i>removed weapon info bar from base view</i>
+- <i>adjusted position of health/mana bars</i>
 
 ----------------------------------------------------------
 
