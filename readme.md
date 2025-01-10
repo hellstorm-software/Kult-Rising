@@ -35,7 +35,7 @@
     - added switch to new sym
     - added move sym to spawn location
     - added switch back and forth between sym 1 & 2
-- display arms now correlate the sym being used
+- display arms now reflect which sym is being used
 
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
