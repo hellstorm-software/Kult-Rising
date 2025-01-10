@@ -19,6 +19,7 @@ Fixes<br>
 - <i>fixed an issue that caused spice crystals to be too small</i>
 - <i>removed extra health bar</i>
 - <i>removed extra stamina bar</i>
+- <i>removed weapon info bar from base view</i>
 
 ----------------------------------------------------------
 
