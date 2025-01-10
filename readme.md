@@ -39,6 +39,7 @@
 - made it so sidebar turns of while in character mode
 - added sidebar to inventory UI
 - added switch back to base mode functionality to side bar
+- added functionality to navbar button 
 
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
