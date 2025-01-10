@@ -42,6 +42,7 @@ Fixes<br>
 - <i>fixed a bug that caused side bar to break</i>
 - <i>fixed a bug that caused sym 2 to shoot while controlling sym 1</i>
 - <i>fixed a bug that broke mouse inputs when opening inventory while in base view</i>
+- <i>fixed a bug that broke mouse inputs when opening inventory while in character view</i>
 ----------------------------------------------------------
 
 8.1.25
