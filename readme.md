@@ -46,6 +46,7 @@ Fixes<br>
 - <i>fixed a bug that broke mouse inputs when opening inventory while in base view</i>
 - <i>fixed a bug that broke mouse inputs when opening inventory while in character view</i>
 - <i>fixed an issue with sidebar toggle turning on extra widgets</i>
+- <i>changed nav menu to only work while in base mode</i>
 ----------------------------------------------------------
 
 8.1.25
