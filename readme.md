@@ -38,7 +38,7 @@
 - display arms now reflect which sym is being used
 - made it so sidebar turns of while in character mode
 - added sidebar to inventory UI
-- added switch back to base view functionality to side bar
+- added switch back to base mode functionality to side bar
 
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
@@ -48,6 +48,7 @@ Fixes<br>
 - <i>fixed a bug that broke mouse inputs when opening inventory while in character view</i>
 - <i>fixed an issue with sidebar toggle turning on extra widgets</i>
 - <i>changed nav menu to only work while in base mode</i>
+- <i>fixed an issue where inventory would stay open when switching back to base mode</i>
 ----------------------------------------------------------
 
 8.1.25
