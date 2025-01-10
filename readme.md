@@ -37,6 +37,7 @@
     - added switch back and forth between sym 1 & 2
 - display arms now reflect which sym is being used
 - made it so sidebar turns of while in character mode
+- added sidebar to inventory UI
 
 Fixes<br>
 - <i>fixed a bug that caused interact input to break</i>
