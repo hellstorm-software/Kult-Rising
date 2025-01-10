@@ -50,6 +50,7 @@ Fixes<br>
 - <i>fixed an issue with sidebar toggle turning on extra widgets</i>
 - <i>changed nav menu to only work while in base mode</i>
 - <i>fixed an issue where inventory would stay open when switching back to base mode</i>
+- <i>fixed an issue where hive menus wouldn't respond to mouse clicks</i>
 ----------------------------------------------------------
 
 8.1.25
