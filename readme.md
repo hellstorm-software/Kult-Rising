@@ -14,6 +14,7 @@
 
 10.1.25
 - changed spice model to proper mesh
+- added functionality to help button
 
 Fixes<br>
 - <i>fixed an issue that caused spice crystals to be too small</i>
