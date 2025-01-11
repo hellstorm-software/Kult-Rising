@@ -16,6 +16,7 @@
 - changed spice model to proper mesh
 - added functionality to help button
 - added city building area
+- began building city entrance
 
 Fixes<br>
 - <i>fixed an issue that caused spice crystals to be too small</i>
