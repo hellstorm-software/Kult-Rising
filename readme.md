@@ -17,6 +17,7 @@
     - added spawn new controller
 - began adding phone UI
     - added container
+    - added bg image
 
 ----------------------------------------------------------
 
