@@ -25,6 +25,7 @@ Fixes<br>
 - <i>removed weapon info bar from base view</i>
 - <i>adjusted position of health/mana bars</i>
 - <i>fixed a bug that caused perpetual errors in editor while in base view of demo mode</i>
+- <i>added range to edge detection</i>
 
 ----------------------------------------------------------
 
