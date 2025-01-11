@@ -18,6 +18,7 @@
 - began adding phone UI
     - added container
     - added bg image
+    - added filler text
 
 ----------------------------------------------------------
 
