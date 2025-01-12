@@ -19,6 +19,7 @@
     - added container
     - added bg image
     - added filler text
+- rearranged UI
 
 ----------------------------------------------------------
 
