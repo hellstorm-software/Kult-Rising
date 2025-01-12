@@ -27,6 +27,7 @@
 - added PFP BG
 - added simple commands console
 - linked console to side bar
+- added tooltip text to sidebar
 
 ----------------------------------------------------------
 
