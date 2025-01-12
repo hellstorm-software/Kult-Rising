@@ -21,6 +21,7 @@
     - added filler text
 - rearranged UI
     - moved navbox to bottom right
+    - moved clicker upgrade on top of clicker display
 
 ----------------------------------------------------------
 
