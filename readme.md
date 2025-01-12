@@ -20,6 +20,7 @@
     - added bg image
     - added filler text
 - rearranged UI
+    - moved navbox to bottom right
 
 ----------------------------------------------------------
 
