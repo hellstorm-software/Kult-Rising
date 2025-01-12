@@ -25,6 +25,7 @@
     - removed padding from VEK and clicker displays
 - added PFP border
 - added PFP BG
+- added simple commands console
 
 ----------------------------------------------------------
 
