@@ -23,6 +23,7 @@
     - moved navbox to bottom right
     - moved clicker upgrade on top of clicker display
     - removed padding from VEK and clicker displays
+- added PFP border
 
 ----------------------------------------------------------
 
