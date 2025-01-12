@@ -24,6 +24,7 @@
     - moved clicker upgrade on top of clicker display
     - removed padding from VEK and clicker displays
 - added PFP border
+- added PFP BG
 
 ----------------------------------------------------------
 
