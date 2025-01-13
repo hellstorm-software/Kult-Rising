@@ -22,6 +22,7 @@
     - built poolrooms door
     - added skybox
     - added skylight
+    - added first slide
 - added additional trees
 
 Fixes
