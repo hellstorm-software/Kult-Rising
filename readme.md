@@ -19,6 +19,7 @@
 - added static controllers for lift recall
 - began building poolrooms dungeon
     - built entrance
+- added additional trees
 
 ----------------------------------------------------------
 
