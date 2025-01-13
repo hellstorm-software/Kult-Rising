@@ -22,6 +22,9 @@
     - built poolrooms door
 - added additional trees
 
+Fixes
+- <i>removed redundant flashlights from character model</i>
+
 ----------------------------------------------------------
 
 11.1.25
