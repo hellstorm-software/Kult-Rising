@@ -16,6 +16,7 @@
 - began adding location title cards
     - added title card widget
     - added title card trigger
+    - text now dynamically populates depending on which level you enter
 
 ----------------------------------------------------------
 
