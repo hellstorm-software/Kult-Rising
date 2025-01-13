@@ -20,6 +20,7 @@
 - began building poolrooms dungeon
     - built entrance
     - built poolrooms door
+    - added skybox
 - added additional trees
 
 Fixes
