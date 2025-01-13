@@ -21,6 +21,7 @@
     - built entrance
     - built poolrooms door
     - added skybox
+    - added skylight
 - added additional trees
 
 Fixes
