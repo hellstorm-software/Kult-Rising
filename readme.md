@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+13.1.25
+- began adding location title cards
+
+----------------------------------------------------------
+
 12.1.25
 - added character respawn point
 - added character respawn logic
