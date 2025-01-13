@@ -21,6 +21,7 @@
     - added level sub-title
     - added level difficulty
 - added spawn point to poolrooms dungeon
+- finished basic structure of poolrooms cluster 1
 
 Fixes
 - <i>fixed a bug that caused mouse inputs to not register outside Floor 7</i>
