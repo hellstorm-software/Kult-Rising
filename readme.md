@@ -14,6 +14,7 @@
 
 13.1.25
 - began adding location title cards
+- added title card widget
 
 ----------------------------------------------------------
 
