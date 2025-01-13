@@ -15,6 +15,7 @@
 12.1.25
 - added character respawn point
 - added character respawn logic
+- added out of bounds area
 
 ----------------------------------------------------------
 
