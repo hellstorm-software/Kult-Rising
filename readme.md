@@ -20,6 +20,7 @@
 
 Fixes
 - <i>fixed a bug that caused mouse inputs to not register outside Floor 7</i>
+- <i>added logic to prevent level title from triggering multiple times</i>
 
 ----------------------------------------------------------
 
