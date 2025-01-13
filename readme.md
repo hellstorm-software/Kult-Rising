@@ -17,6 +17,10 @@
     - added title card widget
     - added title card trigger
     - text now dynamically populates depending on which level you enter
+    - added level title
+    - added level sub-title
+    - added level difficulty
+- added spawn point to poolrooms dungeon
 
 Fixes
 - <i>fixed a bug that caused mouse inputs to not register outside Floor 7</i>
