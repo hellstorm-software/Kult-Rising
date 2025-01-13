@@ -18,6 +18,7 @@
 - added out of bounds area
 - added static controllers for lift recall
 - began building poolrooms dungeon
+- built entrance
 
 ----------------------------------------------------------
 
