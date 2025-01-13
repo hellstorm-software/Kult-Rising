@@ -16,6 +16,7 @@
 - added character respawn point
 - added character respawn logic
 - added out of bounds area
+- added static controllers for lift recall
 
 ----------------------------------------------------------
 
