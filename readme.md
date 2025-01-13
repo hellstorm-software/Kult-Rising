@@ -18,6 +18,9 @@
     - added title card trigger
     - text now dynamically populates depending on which level you enter
 
+Fixes
+- <i>fixed a bug that caused mouse inputs to not register outside Floor 7</i>
+
 ----------------------------------------------------------
 
 12.1.25
