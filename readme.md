@@ -21,6 +21,7 @@
 - added textures to base in Floor 7
     - added cement floor and ceiling
     - added black walls
+- extended length of giant chain
 
 Fixes
 - <i>fixed an issue that caused Floor 7 to load in the wrong input mode</i>
