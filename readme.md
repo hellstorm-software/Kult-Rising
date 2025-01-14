@@ -17,6 +17,7 @@
     - textured arcade entrance
     - textured theme park entrance
 - added sprinting functionality
+- added charged jump
 
 Fixes
 - <i>fixed an issue that caused Floor 7 to load in the wrong input mode</i>
