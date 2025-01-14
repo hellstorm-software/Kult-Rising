@@ -19,6 +19,7 @@
 - added sprinting functionality
 - added charged jump
 - added textures to base in Floor 7
+    - added cement floor and ceiling
 
 Fixes
 - <i>fixed an issue that caused Floor 7 to load in the wrong input mode</i>
