@@ -17,6 +17,8 @@
     - textured arcade entrance
     - textured theme park entrance
 
+Fixes
+- <i>fixed an issue that caused Floor 7 to load in the wrong input mode</i>
 ----------------------------------------------------------
 
 13.1.25
