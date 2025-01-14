@@ -14,6 +14,7 @@
 
 14.1.25
 - added more textures to SCP-x3008
+    - textured arcade entrance
 
 ----------------------------------------------------------
 
