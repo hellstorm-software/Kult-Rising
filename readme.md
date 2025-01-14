@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+14.1.25
+- added more textures to SCP-x3008
+
+----------------------------------------------------------
+
 13.1.25
 - began adding location title cards
     - added title card widget
