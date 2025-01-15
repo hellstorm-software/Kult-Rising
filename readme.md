@@ -24,6 +24,7 @@
 - extended length of giant chain
 - added action mode toggle
 - began building out hotbar switching system
+- added xp barrel
 
 Fixes
 - <i>fixed an issue that caused Floor 7 to load in the wrong input mode</i>
