@@ -24,6 +24,7 @@
 - added switch to gun character from console (this is temporary until the gunman and main controllers are merged)
 - set character turn direction on switch
 - increased lean amount
+- added hand sockets to main character
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
