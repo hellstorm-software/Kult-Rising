@@ -16,6 +16,7 @@
 - began adding grappling system
     - added grapple function
     - added air boost
+    - added ability to grappel to solid objects
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
