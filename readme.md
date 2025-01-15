@@ -20,6 +20,7 @@
     - added model for swinging character
     - added display model for when character not in use
     - added sockets for grapples
+    - added retract ability to grappel towards a target
 - added skyscrapers to Floor 7
 - added switch to gun character from console (this is temporary until the gunman and main controllers are merged)
 - set character turn direction on switch
@@ -36,6 +37,7 @@ Fixes
 - <i>fixed an issue with the console causing gunman to not fire</i>
 - <i>fixed an issue where fps console would only work once</i>
 - <i>fixed an issue where fps console hitbox was misaligned</i>
+- <i>fixed an issue where grappeling towards a target would increase acceleration indefinitely</i>
 ----------------------------------------------------------
 
 14.1.25
