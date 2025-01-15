@@ -27,6 +27,7 @@ Fixes
 - <i>fixed a bug that caused perpetual air boost</i>
 - <i>fixed an issue with the console causing gunman to not fire</i>
 - <i>fixed an issue where fps console would only work once</i>
+- <i>fixed an issue where fps console hitbox was misaligned</i>
 ----------------------------------------------------------
 
 14.1.25
