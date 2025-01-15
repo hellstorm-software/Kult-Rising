@@ -23,6 +23,7 @@
     - added black walls
 - extended length of giant chain
 - added action mode toggle
+- began building out hotbar switching system
 
 Fixes
 - <i>fixed an issue that caused Floor 7 to load in the wrong input mode</i>
