@@ -25,6 +25,7 @@
 - set character turn direction on switch
 - increased lean amount
 - added hand sockets to main character
+- added head socket to main character
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
