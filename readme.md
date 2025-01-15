@@ -18,6 +18,7 @@
     - added air boost
     - added ability to grappel to solid objects
     - added model for swinging character
+- added skyscrapers to Floor 7
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
