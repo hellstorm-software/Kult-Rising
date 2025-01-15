@@ -26,6 +26,7 @@ Fixes
 - <i>fixed a bug that caused air boost to override jump while on ground in some instances</i>
 - <i>fixed a bug that caused perpetual air boost</i>
 - <i>fixed an issue with the console causing gunman to not fire</i>
+- <i>fixed an issue where fps console would only work once</i>
 ----------------------------------------------------------
 
 14.1.25
