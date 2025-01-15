@@ -30,6 +30,7 @@ Fixes
 - <i>fixed an issue that caused Floor 7 to load in the wrong input mode</i>
 - <i>fixed an issue that caused a slight delay in jump input</i>
 - <i>fixed a bug where jumping while falling caused permanent jump boost</i>
+- <i>optimized and cleaned up player controller (server)</i>
 ----------------------------------------------------------
 
 13.1.25
