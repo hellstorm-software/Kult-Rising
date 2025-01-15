@@ -14,6 +14,7 @@
 
 15.1.25
 - began adding grappling system
+    - addle grapple function
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
