@@ -15,6 +15,8 @@
 15.1.25
 - began adding grappling system
 
+Fixes
+- <i>fixed a bug that caused grapple to not fire</i>
 ----------------------------------------------------------
 
 14.1.25
