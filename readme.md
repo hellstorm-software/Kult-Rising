@@ -19,6 +19,7 @@
     - added ability to grappel to solid objects
     - added model for swinging character
     - added display model for when character not in use
+    - added sockets for grapples
 - added skyscrapers to Floor 7
 - added switch to gun character from console (this is temporary until the gunman and main controllers are merged)
 - set character turn direction on switch
