@@ -15,6 +15,7 @@
 15.1.25
 - began adding grappling system
     - added grapple function
+    - added air boost
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
