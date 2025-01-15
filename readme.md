@@ -30,6 +30,7 @@
 - added sea mines to Floor 7
 - duplicated hub level to keep a smaller one for less optimized machines
 - began adding car controller to Floor 7
+- began building a second "island" on floor 7
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
