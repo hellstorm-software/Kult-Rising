@@ -17,6 +17,7 @@
     - added grapple function
     - added air boost
     - added ability to grappel to solid objects
+    - added model for swinging character
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
