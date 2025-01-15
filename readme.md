@@ -31,6 +31,7 @@ Fixes
 - <i>fixed an issue that caused a slight delay in jump input</i>
 - <i>fixed a bug where jumping while falling caused permanent jump boost</i>
 - <i>optimized and cleaned up player controller (server)</i>
+- <i>optimized and cleaned up player controller (client)</i>
 ----------------------------------------------------------
 
 13.1.25
