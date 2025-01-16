@@ -32,6 +32,7 @@
 - began adding car controller to Floor 7
 - began building a second "island" on floor 7
 - made momentum carry over when switching from mobility sym to main sym
+- began adding sym switching menu
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
