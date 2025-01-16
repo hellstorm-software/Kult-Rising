@@ -16,6 +16,8 @@
 - added slot UI to sym switcher
 - condensed and optimized player actor blueprint
 
+Fixes
+- <i>temporarily removed top down view until controller is built</i>
 ----------------------------------------------------------
 
 15.1.25
