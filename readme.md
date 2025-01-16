@@ -31,6 +31,7 @@
 - duplicated hub level to keep a smaller one for less optimized machines
 - began adding car controller to Floor 7
 - began building a second "island" on floor 7
+- made momentum carry over when switching from mobility sym to main sym
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
