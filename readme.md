@@ -13,7 +13,7 @@
 <h2>[JAN]</h2>
 
 16.1.26
-- added slot UI to sym switcher
+- added slot UI to sym swapper
 - condensed and optimized player actor blueprint
 - added base functionality to sym swapper
 
