@@ -34,6 +34,7 @@
 - made momentum carry over when switching from mobility sym to main sym
 - began adding sym switching menu
     - added container
+    - added toggle on while in inventory
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
