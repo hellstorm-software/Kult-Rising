@@ -14,6 +14,7 @@
 
 16.1.26
 - added slot UI to sym switcher
+- condensed and optimized player actor blueprint
 
 ----------------------------------------------------------
 
