@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+16.1.26
+- added slot UI to sym switcher
+
+----------------------------------------------------------
+
 15.1.25
 - began adding grappling system
     - added grapple function
