@@ -35,7 +35,7 @@
 - began adding sym switching menu
     - added container
     - added toggle on while in inventory
-- began adding OPP sniper
+- began adding OP sniper
 
 Fixes
 - <i>fixed a bug that caused grapple to not fire</i>
