@@ -18,6 +18,7 @@
     - added SCP-x007-1
 - updated world meta
 - updated "what is sxlaris"
+- updated SCP-x003
 
 ----------------------------------------------------------
 
