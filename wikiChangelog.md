@@ -16,3 +16,4 @@
 - updated wiki description
 - added SCP-x007
     - added SCP-x007-1
+- updated world meta
