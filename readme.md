@@ -12,7 +12,12 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
-16.1.26
+17.1.25
+- began building the Kollector's Library
+
+----------------------------------------------------------
+
+16.1.25
 - added slot UI to sym swapper
 - condensed and optimized player actor blueprint
 - added base functionality to sym swapper
