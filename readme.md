@@ -13,6 +13,7 @@
 <h2>[JAN]</h2>
 
 17.1.25
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 - began building the Kollector's Library
 
 ----------------------------------------------------------
