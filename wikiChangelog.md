@@ -37,6 +37,7 @@
 - added discord hyperlink to homepage
 - changed site theme
 - added NAI category
+- added glimmer article
 
 ----------------------------------------------------------
 
