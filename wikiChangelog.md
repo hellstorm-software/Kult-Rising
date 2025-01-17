@@ -18,3 +18,8 @@
     - added SCP-x007-1
 - updated world meta
 - updated "what is sxlaris"
+
+----------------------------------------------------------
+
+16.1.25
+- added Curtain Detective Agency
