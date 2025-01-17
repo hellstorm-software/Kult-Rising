@@ -34,6 +34,7 @@
 - edited backrooms flavor text
 - flipped backrooms and why x on home page
 - rewroded x designation flavor text
+- added discord hyperlink to homepage
 
 ----------------------------------------------------------
 
