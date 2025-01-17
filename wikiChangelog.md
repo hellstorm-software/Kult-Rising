@@ -14,3 +14,4 @@
 
 17.1.25
 - updated wiki description
+- added SCP-x007
