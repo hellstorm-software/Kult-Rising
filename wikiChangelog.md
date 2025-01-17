@@ -23,3 +23,4 @@
 
 16.1.25
 - added Curtain Detective Agency
+- updated The Agency
