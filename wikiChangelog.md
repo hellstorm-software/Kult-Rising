@@ -38,6 +38,7 @@
 - changed site theme
 - added NAI category
 - added glimmer article
+- added CZ article
 
 ----------------------------------------------------------
 
