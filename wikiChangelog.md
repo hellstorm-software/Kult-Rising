@@ -22,6 +22,7 @@
 - added SCP banner to home page
 - added Foundation exerpt to home page
 - added Backrooms exerpt to home page
+- renamed factions to groups of interest
 
 ----------------------------------------------------------
 
