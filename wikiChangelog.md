@@ -31,6 +31,7 @@
 - updated article type of "the curtains"
 - updated GoI article tags
 - added x explanation to homepage
+- edited backrooms flavor text
 
 ----------------------------------------------------------
 
