@@ -27,6 +27,7 @@
 - added Foundation banner image to home page
 - added Backrooms banner image to home page
 - rewrote intro text
+- added hyperlinks to homepage
 
 ----------------------------------------------------------
 
