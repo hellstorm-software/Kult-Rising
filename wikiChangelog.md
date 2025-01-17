@@ -39,6 +39,7 @@
 - added NAI category
 - added glimmer article
 - added CZ article
+- added public timeline
 
 ----------------------------------------------------------
 
