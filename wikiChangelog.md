@@ -6,7 +6,7 @@
 <p style="font-size: smaller;">
     Info: <a href="https://hellstorm-software.github.io/SCP-Convergence/convergence/convergence.html" target="_blank">https://hellstorm-software.github.io/KultRising.html</a><br>
     this game is liscenced under CC BY-SA 3.0<br>
-    Sxlaris Wiki: [https://scp-wiki.wikidot.com](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland)<br>
+    Sxlaris Wiki: https://scp-wiki.wikidot.com](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland<br>
 </p>
 
 ----------------------------------------------------------
