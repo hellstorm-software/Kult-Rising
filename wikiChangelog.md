@@ -29,6 +29,7 @@
 - rewrote intro text
 - added hyperlinks to homepage
 - updated article type of "the curtains"
+- updated GoI article tags
 
 ----------------------------------------------------------
 
