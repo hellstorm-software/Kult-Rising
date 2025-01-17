@@ -41,6 +41,7 @@
 - added CZ article
 - added public timeline
 - added hyperlinks to timeline
+- added knights templar article
 
 ----------------------------------------------------------
 
