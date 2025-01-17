@@ -21,6 +21,7 @@
 - updated SCP-x003
 - added SCP banner to home page
 - added Foundation exerpt to home page
+- added Backrooms exerpt to home page
 
 ----------------------------------------------------------
 
