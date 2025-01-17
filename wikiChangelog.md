@@ -40,6 +40,7 @@
 - added glimmer article
 - added CZ article
 - added public timeline
+- added hyperlinks to timeline
 
 ----------------------------------------------------------
 
