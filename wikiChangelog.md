@@ -30,6 +30,7 @@
 - added hyperlinks to homepage
 - updated article type of "the curtains"
 - updated GoI article tags
+- added x explanation to homepage
 
 ----------------------------------------------------------
 
