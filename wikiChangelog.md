@@ -23,6 +23,7 @@
 - added Foundation exerpt to home page
 - added Backrooms exerpt to home page
 - renamed factions to groups of interest
+- added GoI description
 
 ----------------------------------------------------------
 
