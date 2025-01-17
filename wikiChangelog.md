@@ -20,6 +20,7 @@
 - updated "what is sxlaris"
 - updated SCP-x003
 - added SCP banner to home page
+- added Foundation exerpt to home page
 
 ----------------------------------------------------------
 
