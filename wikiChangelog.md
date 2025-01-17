@@ -12,14 +12,5 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
-16.1.26
-- added slot UI to sym swapper
-- condensed and optimized player actor blueprint
-- added base functionality to sym swapper
-
-Fixes
-- <i>temporarily removed top down view until controller is built</i>
-----------------------------------------------------------
-
-15.1.25
-- began adding grappling system
+17.1.25
+- updated wiki description
