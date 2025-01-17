@@ -25,6 +25,7 @@
 - renamed factions to groups of interest
 - added GoI description
 - added Foundation banner image to home page
+- added Backrooms banner image to home page
 
 ----------------------------------------------------------
 
