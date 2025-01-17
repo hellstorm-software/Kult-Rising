@@ -28,6 +28,7 @@
 - added Backrooms banner image to home page
 - rewrote intro text
 - added hyperlinks to homepage
+- updated article type of "the curtains"
 
 ----------------------------------------------------------
 
