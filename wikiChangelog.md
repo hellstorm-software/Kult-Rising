@@ -32,6 +32,7 @@
 - updated GoI article tags
 - added x explanation to homepage
 - edited backrooms flavor text
+- flipped backrooms and why x on home page
 
 ----------------------------------------------------------
 
