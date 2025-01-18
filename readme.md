@@ -20,6 +20,7 @@
     - added folding tables
     - added screens
     - added laptops
+    - added computer cases
 
 ----------------------------------------------------------
 
