@@ -16,6 +16,7 @@
 - added locations of interest category
 - added locations of interest article
 - added featured article to homepage
+- added classifications to locations of interest article
 
 ----------------------------------------------------------
 
