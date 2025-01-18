@@ -27,6 +27,7 @@
     - added PCs
     - added "hacking devices"
     - added SCP-x173 article
+    - added SCP-173
 
 ----------------------------------------------------------
 
