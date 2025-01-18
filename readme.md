@@ -19,6 +19,7 @@
     - built hackerspace hallway
     - added folding tables
     - added screens
+    - added laptops
 
 ----------------------------------------------------------
 
