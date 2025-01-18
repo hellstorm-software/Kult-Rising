@@ -18,6 +18,7 @@
     - built hackerspace lift
     - built hackerspace hallway
     - added folding tables
+    - added screens
 
 ----------------------------------------------------------
 
