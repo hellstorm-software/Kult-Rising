@@ -25,7 +25,7 @@
     - added screens to monitors
     - added tarps
     - added PCs
-    - 
+    - added "hacking devices"
 
 ----------------------------------------------------------
 
