@@ -23,6 +23,7 @@
     - added computer cases
     - added lights
     - added screens to monitors
+    - added tarps
 
 ----------------------------------------------------------
 
