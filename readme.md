@@ -26,6 +26,7 @@
     - added tarps
     - added PCs
     - added "hacking devices"
+    - added SCP-x173 article
 
 ----------------------------------------------------------
 
