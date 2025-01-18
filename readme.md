@@ -15,6 +15,7 @@
 17.1.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 - began building the Kollector's Library
+    - built hackerspace lift
 
 ----------------------------------------------------------
 
