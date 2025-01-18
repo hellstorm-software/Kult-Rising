@@ -18,10 +18,11 @@
     - built hackerspace lift
     - built hackerspace hallway
     - added folding tables
-    - added screens
+    - added monitors
     - added laptops
     - added computer cases
     - added lights
+    - added screens to monitors
 
 ----------------------------------------------------------
 
