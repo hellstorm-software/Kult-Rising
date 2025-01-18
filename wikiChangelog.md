@@ -19,6 +19,7 @@
 - added classifications to locations of interest article
 - updated CC BY-SA wording on homepage
 - added SCP-x666 article
+- updated SCP article formatting
 
 ----------------------------------------------------------
 
