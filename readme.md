@@ -17,6 +17,7 @@
 - began building the Kollector's Library
     - built hackerspace lift
     - built hackerspace hallway
+    - added folding tables
 
 ----------------------------------------------------------
 
