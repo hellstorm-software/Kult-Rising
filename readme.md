@@ -21,6 +21,7 @@
     - added screens
     - added laptops
     - added computer cases
+    - added lights
 
 ----------------------------------------------------------
 
