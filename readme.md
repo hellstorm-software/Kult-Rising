@@ -27,7 +27,8 @@
     - added PCs
     - added "hacking devices"
     - added SCP-x173 article
-    - added SCP-173
+    - added SCP-173 article
+    - added hyperlinks for SCP-173 and SCP-x173 on homepage
 
 ----------------------------------------------------------
 
