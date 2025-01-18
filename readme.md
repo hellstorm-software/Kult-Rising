@@ -24,6 +24,8 @@
     - added lights
     - added screens to monitors
     - added tarps
+    - added PCs
+    - 
 
 ----------------------------------------------------------
 
