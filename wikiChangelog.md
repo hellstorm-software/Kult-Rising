@@ -15,6 +15,7 @@
 18.1.25
 - added locations of interest category
 - added locations of interest article
+- added featured article to homepage
 
 ----------------------------------------------------------
 
