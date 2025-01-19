@@ -15,6 +15,7 @@
 19.1.25
 - symSwitch ui now closes after selecting a new sym
 - updated mobility sym model
+- added necessary sockets to new skeleton
 
 Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
