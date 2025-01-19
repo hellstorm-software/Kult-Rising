@@ -21,6 +21,7 @@
 - began adding "dungeon crawler" enemy
     - added model
     - added ai
+    - added drop table
 
 Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
