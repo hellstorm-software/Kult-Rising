@@ -20,6 +20,7 @@
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 - began adding "dungeon crawler" enemy
     - added model
+    - added ai
 
 Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
