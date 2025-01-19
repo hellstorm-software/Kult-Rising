@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+19.1.25
+- symSwitch ui now closes after selecting a new sym
+
+----------------------------------------------------------
+
 18.1.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
