@@ -17,6 +17,7 @@
 - updated mobility sym model
 - added necessary sockets to new skeleton
 - changed textures on mobility sym
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
 Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
