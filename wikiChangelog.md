@@ -21,6 +21,7 @@
 - added SCP-x666 article
 - updated SCP article formatting
 - added third party content/cc by-sa license page
+- updated article tags
 
 ----------------------------------------------------------
 
