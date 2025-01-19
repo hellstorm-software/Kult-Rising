@@ -18,6 +18,7 @@
 - added necessary sockets to new skeleton
 - changed textures on mobility sym
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- began adding "dungeon crawler" enemy
 
 Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
