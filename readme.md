@@ -16,6 +16,7 @@
 - symSwitch ui now closes after selecting a new sym
 - updated mobility sym model
 - added necessary sockets to new skeleton
+- changed textures on mobility sym
 
 Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
