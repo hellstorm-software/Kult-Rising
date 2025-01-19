@@ -15,6 +15,8 @@
 19.1.25
 - symSwitch ui now closes after selecting a new sym
 
+Fixes
+- <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
 ----------------------------------------------------------
 
 18.1.25
