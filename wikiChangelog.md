@@ -20,6 +20,7 @@
 - updated CC BY-SA wording on homepage
 - added SCP-x666 article
 - updated SCP article formatting
+- added third party content/cc by-sa license page
 
 ----------------------------------------------------------
 
