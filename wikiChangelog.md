@@ -14,6 +14,7 @@
 
 19.1.25
 - added patreon link to homepage
+- reformatted discord and patreon links on homepage
 
 ----------------------------------------------------------
 
