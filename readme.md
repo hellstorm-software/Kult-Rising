@@ -16,6 +16,7 @@
 - increased zombies speed
 - added ability to shoot zombies
 - added unlimited ammo to fps sym
+- added respawn point for hoard mode
 
 Fixes
 - <i>fixed zombie hitbox</i>
