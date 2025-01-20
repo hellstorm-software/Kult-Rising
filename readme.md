@@ -24,6 +24,7 @@
     - added drop table
 - began adding hoard gamemode
     - added console to start game
+    - added wave 1 zombie spawns
 
 Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
