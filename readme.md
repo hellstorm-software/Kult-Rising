@@ -17,6 +17,8 @@
 - added ability to shoot zombies
 - 
 
+Fixes
+- <i>fixed zombie hitbox</i>
 ----------------------------------------------------------
 
 19.1.25
