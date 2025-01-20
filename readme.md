@@ -27,6 +27,7 @@ Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
 - <i>fixed meshes with improper collisions</i>
 - <i>fixed an issue that caused main sym to not be able to attack in dungeons</i>
+- <i>fixed an issue that caused dungeon crawlers to spawn in ground</i>
 ----------------------------------------------------------
 
 18.1.25
