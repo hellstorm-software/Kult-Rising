@@ -28,6 +28,7 @@ Fixes
 - <i>fixed meshes with improper collisions</i>
 - <i>fixed an issue that caused main sym to not be able to attack in dungeons</i>
 - <i>fixed an issue that caused dungeon crawlers to spawn in ground</i>
+- <i>adjust helmet position of dungeon crawlers</i>
 ----------------------------------------------------------
 
 18.1.25
