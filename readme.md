@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+20.1.25
+- increased zombies speed
+
+----------------------------------------------------------
+
 19.1.25
 - symSwitch ui now closes after selecting a new sym
 - updated mobility sym model
@@ -22,7 +27,7 @@
     - added model
     - added ai
     - added drop table
-- began adding hoard gamemode
+- began adding hoard gamemode on Floor 7
     - added console to start game
     - added wave 1 zombie spawns
     - gave zombies unlimited agro range
