@@ -14,6 +14,8 @@
 
 20.1.25
 - increased zombies speed
+- added ability to shoot zombies
+- 
 
 ----------------------------------------------------------
 
