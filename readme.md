@@ -15,7 +15,7 @@
 20.1.25
 - increased zombies speed
 - added ability to shoot zombies
-- 
+- added unlimited ammo to fps sym
 
 Fixes
 - <i>fixed zombie hitbox</i>
