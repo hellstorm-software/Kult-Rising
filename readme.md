@@ -25,6 +25,7 @@
 - began adding hoard gamemode
     - added console to start game
     - added wave 1 zombie spawns
+    - gave zombies unlimited agro range
 
 Fixes
 - <i>fixed an issue where switching syms while in inventory would jam cameras on the main sym</i>
