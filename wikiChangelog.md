@@ -21,6 +21,7 @@
     - filled out information for all sections
     - added hyperlinks
     - reformatted explanation and credits
+    - changed formatting for section fronts from bold to underlined
 
 ----------------------------------------------------------
 
