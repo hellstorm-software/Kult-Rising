@@ -27,7 +27,8 @@
 - updated SCP info header
 - updated SCP-x002-0 with new formatting
 - rewrote sections of SCP-x002-0
-- reworded TPC page
+- reworded TPC article
+- added keter pronunciation article
 
 ----------------------------------------------------------
 
