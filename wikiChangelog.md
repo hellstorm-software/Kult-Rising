@@ -13,7 +13,7 @@
 <h2>[JAN]</h2>
 
 21.1.25
-- began building Modified Anomaly Classification System (MACS)
+- began building [Modified Anomaly Classification System (MACS)](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/classification-system-guide-article)
     - added clearance levels
     - added containment classes
     - added disruption classes
