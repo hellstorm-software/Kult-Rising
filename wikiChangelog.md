@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+21.1.25
+- began building Modified Anomaly Classification System (MACS)
+
+----------------------------------------------------------
+
 20.1.25
 - began reformatting articles
 - moved sxlaris SCPs into "Series S" category
