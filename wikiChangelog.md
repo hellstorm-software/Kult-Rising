@@ -19,6 +19,7 @@
     - added disruption classes
     - added threat index
     - filled out information for all sections
+    - added hyperlinks
 
 ----------------------------------------------------------
 
