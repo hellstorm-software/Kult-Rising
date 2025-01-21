@@ -17,6 +17,7 @@
     - added clearance levels
     - added containment classes
     - added disruption classes
+    - added threat index
 
 ----------------------------------------------------------
 
