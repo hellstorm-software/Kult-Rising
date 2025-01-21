@@ -26,6 +26,7 @@
     - hyperlinked new section
 - updated SCP info header
 - updated SCP-x002-0 with new formatting
+- rewrote sections of SCP-x002-0
 
 ----------------------------------------------------------
 
