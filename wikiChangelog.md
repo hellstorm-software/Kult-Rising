@@ -22,6 +22,7 @@
     - added hyperlinks
     - reformatted explanation and credits
     - changed formatting for section fronts from bold to underlined
+- added new intro section to homepage
 
 ----------------------------------------------------------
 
