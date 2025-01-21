@@ -14,6 +14,7 @@
 
 21.1.25
 - began building Modified Anomaly Classification System (MACS)
+    - added clearance levels
 
 ----------------------------------------------------------
 
