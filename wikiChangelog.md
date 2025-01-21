@@ -25,6 +25,7 @@
 - added new intro section to homepage
     - hyperlinked new section
 - updated SCP info header
+- updated SCP-x002-0 with new formatting
 
 ----------------------------------------------------------
 
