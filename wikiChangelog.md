@@ -15,6 +15,7 @@
 20.1.25
 - began reformatting articles
 - moved sxlaris SCPs into "Series S" category
+- added featured articles to "SCPs" category
 
 ----------------------------------------------------------
 
