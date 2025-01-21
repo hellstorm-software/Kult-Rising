@@ -18,6 +18,7 @@
 - added unlimited ammo to fps sym
 - added respawn point for hoard mode
 - respawn point now resets after ending hoard mode
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
 Fixes
 - <i>fixed zombie hitbox</i>
