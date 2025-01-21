@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+20.1.25
+- began reformatting articles
+
+----------------------------------------------------------
+
 19.1.25
 - added patreon link to homepage
 - reformatted discord and patreon links on homepage
