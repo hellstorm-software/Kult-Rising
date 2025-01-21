@@ -18,6 +18,7 @@
     - added containment classes
     - added disruption classes
     - added threat index
+    - filled out information for all sections
 
 ----------------------------------------------------------
 
