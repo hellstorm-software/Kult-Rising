@@ -16,6 +16,7 @@
 - began building Modified Anomaly Classification System (MACS)
     - added clearance levels
     - added containment classes
+    - added disruption classes
 
 ----------------------------------------------------------
 
