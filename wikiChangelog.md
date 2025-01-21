@@ -17,6 +17,7 @@
 - moved sxlaris SCPs into "Series S" category
 - added featured articles to "SCPs" category
 - updated SCP-x002-0
+- fixed hyperlinks on homepage
 
 ----------------------------------------------------------
 
