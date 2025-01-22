@@ -31,6 +31,8 @@
 - added keter pronunciation article
 - added banner to [SCP-x001](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-x001-7C-sxlaris-proposal-article)
 - reformatted SCP-x001
+- added author credits to SCP-x001
+- 
 
 ----------------------------------------------------------
 
