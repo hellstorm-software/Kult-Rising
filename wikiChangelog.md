@@ -24,6 +24,7 @@
     - added hazards
     - added colonies
     - added addendums
+    - added credits
 
 ----------------------------------------------------------
 
