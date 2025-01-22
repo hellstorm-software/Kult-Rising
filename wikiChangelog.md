@@ -23,6 +23,7 @@
     - added description
     - added hazards
     - added colonies
+    - added addendums
 
 ----------------------------------------------------------
 
