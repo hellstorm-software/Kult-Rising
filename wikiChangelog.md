@@ -25,6 +25,7 @@
     - added colonies
     - added addendums
     - added credits
+- added SCP-x000
 
 ----------------------------------------------------------
 
