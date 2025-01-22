@@ -22,6 +22,7 @@
     - added containment procedures
     - added description
     - added hazards
+    - added colonies
 
 ----------------------------------------------------------
 
