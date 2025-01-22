@@ -33,6 +33,7 @@
     - added author
 - added [The Kollector PoI](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-kollector-article)
 - updated author credits for SCP-x002-0
+- updated author credits for SCP-x002-37
 
 ----------------------------------------------------------
 
