@@ -21,6 +21,7 @@
     - added header
     - added containment procedures
     - added description
+    - added hazards
 
 ----------------------------------------------------------
 
