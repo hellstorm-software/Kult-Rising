@@ -29,7 +29,8 @@
 - rewrote sections of SCP-x002-0
 - reworded TPC article
 - added keter pronunciation article
-- added banner to SCP-x001
+- added banner to [SCP-x001](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-x001-7C-sxlaris-proposal-article)
+- reformatted SCP-x001
 
 ----------------------------------------------------------
 
