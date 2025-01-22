@@ -29,6 +29,7 @@
 - rewrote sections of SCP-x002-0
 - reworded TPC article
 - added keter pronunciation article
+- added banner to SCP-x001
 
 ----------------------------------------------------------
 
