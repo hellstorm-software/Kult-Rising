@@ -19,6 +19,7 @@
 - added list of floors to SCP-x002
 - added [SCP-x002-37](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/level-37-7C-the-poolrooms-article)
     - added header
+    - added containment procedures
 
 ----------------------------------------------------------
 
