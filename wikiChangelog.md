@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+22.1.25
+- updated SCP-x3008 header
+
+----------------------------------------------------------
+
 21.1.25
 - began building [Modified Anomaly Classification System (MACS)](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/classification-system-guide-article)
     - added clearance levels
