@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+21.1.25
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+
+----------------------------------------------------------
+
 20.1.25
 - increased zombies speed
 - added ability to shoot zombies
