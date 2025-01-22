@@ -25,12 +25,13 @@
     - added colonies
     - added addendums
     - added credits
-- added SCP-x000
+- added [SCP-x000](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-x000-7C-the-convergence-article)
     - added header
     - added containment procedures
     - added description
     - added addendums
     - added author
+- added [kollector PoI](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-kollector-article)
 
 ----------------------------------------------------------
 
