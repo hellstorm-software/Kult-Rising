@@ -31,7 +31,7 @@
     - added description
     - added addendums
     - added author
-- added [kollector PoI](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-kollector-article)
+- added [The Kollector PoI](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-kollector-article)
 
 ----------------------------------------------------------
 
