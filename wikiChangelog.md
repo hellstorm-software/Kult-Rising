@@ -27,6 +27,7 @@
     - added credits
 - added SCP-x000
     - added header
+    - added description
 
 ----------------------------------------------------------
 
