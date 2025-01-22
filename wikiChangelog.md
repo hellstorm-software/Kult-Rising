@@ -30,6 +30,7 @@
     - added containment procedures
     - added description
     - added addendums
+    - added author
 
 ----------------------------------------------------------
 
