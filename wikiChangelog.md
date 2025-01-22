@@ -15,6 +15,7 @@
 22.1.25
 - updated SCP-x3008 header
 - updated SCP-x3008 formatting
+- updated SCP-x002
 
 ----------------------------------------------------------
 
