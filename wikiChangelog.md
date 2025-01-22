@@ -16,6 +16,7 @@
 - updated SCP-x3008 header
 - updated SCP-x3008 formatting
 - updated SCP-x002
+- added list of floors to SCP-x002
 
 ----------------------------------------------------------
 
