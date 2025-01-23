@@ -15,6 +15,9 @@
 22.1.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 - built all levels (lighting and mesh)
+
+Fixes
+- <i>removed unused levels</i>
 ----------------------------------------------------------
 
 21.1.25
