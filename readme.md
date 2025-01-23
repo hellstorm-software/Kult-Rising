@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+23.1.25
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+
+----------------------------------------------------------
+
 22.1.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 - built all levels (lighting and mesh)
