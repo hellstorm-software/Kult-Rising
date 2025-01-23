@@ -17,6 +17,7 @@
 - built all levels (lighting and mesh)
 
 Fixes
+- <i>fixed all build/lighting errors</i>
 - <i>removed unused levels</i>
 ----------------------------------------------------------
 
