@@ -24,6 +24,7 @@ Fixes
 - <i>fixed an issue that caused recycler widget to initiate off screen</i>
 - <i>fixed an issue that caused main sym to not dissapear after switching</i>
 - <i>fixed a bug that caused recycler logic to not load</i>
+- <i>fixed VEK saving logic</i>
 ----------------------------------------------------------
 
 23.1.25
