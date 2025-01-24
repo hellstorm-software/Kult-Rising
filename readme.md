@@ -22,6 +22,7 @@
 
 Fixes
 - <i>fixed an issue that caused recycler widget to initiate off screen</i>
+- <i>fixed an issue that caused main sym to not dissapear after switching</i>
 ----------------------------------------------------------
 
 23.1.25
