@@ -15,6 +15,7 @@
 24.1.25
 - began mergin HUD widgets
     - added side bar
+    - added recycler
 - changed how player controller is loaded
 
 ----------------------------------------------------------
