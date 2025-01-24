@@ -27,6 +27,7 @@ Fixes
 - <i>fixed VEK saving logic</i>
 - <i>fixed drone saving logic</i>
 - <i>fixed a bug that caused 1 less drone to spawn than the amount saved</i>
+- <i>changed the direction player starts facing</i>
 ----------------------------------------------------------
 
 23.1.25
