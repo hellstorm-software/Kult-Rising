@@ -16,6 +16,7 @@
 - began mergin HUD widgets
     - added side bar
     - added recycler
+    - added recycler logic
 - changed how player controller is loaded
 
 Fixes
