@@ -17,6 +17,7 @@
     - added side bar
     - added recycler
     - added recycler logic
+    - added side bar logic
 - changed how player controller is loaded
 
 Fixes
