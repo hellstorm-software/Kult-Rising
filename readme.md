@@ -18,6 +18,8 @@
     - added recycler
 - changed how player controller is loaded
 
+Fixes
+- <i>fixed an issue that caused recycler widget to initiate off screen</i>
 ----------------------------------------------------------
 
 23.1.25
