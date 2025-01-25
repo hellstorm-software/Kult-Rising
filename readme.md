@@ -19,6 +19,7 @@
     - added recycler logic
     - added side bar logic
 - changed how player controller is loaded
+- increased drone price to 25 spice
 
 Fixes
 - <i>fixed an issue that caused recycler widget to initiate off screen</i>
