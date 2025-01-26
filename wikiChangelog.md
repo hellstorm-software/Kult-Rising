@@ -24,6 +24,7 @@
     - expanded containment procedure
     - added old containment procedure in attatched document
     - added victim medical report
+    - added "godhand" mention
 
 ----------------------------------------------------------
 
