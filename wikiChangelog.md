@@ -21,6 +21,7 @@
     - added new containment procedure
     - expanded new containment procedure
     - reworded containment procedure
+    - expanded containment procedure
 
 ----------------------------------------------------------
 
