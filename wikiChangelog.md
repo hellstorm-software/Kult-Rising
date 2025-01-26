@@ -14,6 +14,7 @@
 
 26.1.25
 - changed the name of CZ to Mutazyne
+  - fixed hyperlinks
 
 ----------------------------------------------------------
 
