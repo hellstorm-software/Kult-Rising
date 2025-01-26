@@ -19,6 +19,7 @@
 - began adding Serum S-14 article
     - added creation and purpose
     - added side effects
+    - added effects
 
 ----------------------------------------------------------
 
