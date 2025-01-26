@@ -22,6 +22,7 @@
     - expanded new containment procedure
     - reworded containment procedure
     - expanded containment procedure
+    - added old containment procedure in attatched document
 
 ----------------------------------------------------------
 
