@@ -18,6 +18,7 @@
     - added containment procedures
     - added addendums
     - edited containment procedure wording
+    - added new containment procedure
 
 ----------------------------------------------------------
 
