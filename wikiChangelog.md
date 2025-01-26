@@ -20,6 +20,7 @@
     - edited containment procedure wording
     - added new containment procedure
     - expanded new containment procedure
+    - reworded containment procedure
 
 ----------------------------------------------------------
 
