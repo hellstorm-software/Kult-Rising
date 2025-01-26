@@ -16,6 +16,7 @@
 - changed the name of CZ to Mutazyne
   - fixed hyperlinks
 - reworded glimmer article
+- began adding Serum S-14 article
 
 ----------------------------------------------------------
 
