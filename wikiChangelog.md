@@ -20,6 +20,7 @@
     - added creation and purpose
     - added side effects
     - added effects
+- added author credits to all NAI articles
 
 ----------------------------------------------------------
 
