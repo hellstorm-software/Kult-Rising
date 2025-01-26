@@ -13,6 +13,7 @@
 <h2>[JAN]</h2>
 
 25.1.25
+- began adding [SCP-x014](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-x014-7C-placeholder-article)
 
 ----------------------------------------------------------
 
