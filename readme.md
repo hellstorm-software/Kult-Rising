@@ -24,7 +24,8 @@
     - added close button to widget
     - adjusted size of control panel screen
     - lowered control panel screen
-- began building overworld chunk 1 
+- began building overworld chunk 1
+    - added terrain
 
 Fixes
 - <i>fixed a bug that caused HUD elements to not update</i>
