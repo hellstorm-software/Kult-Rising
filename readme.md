@@ -15,6 +15,8 @@
 26.1.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
+Fixes
+- <i>fixed a bug that caused HUD elements not to update</i>
 ----------------------------------------------------------
 
 25.1.25
