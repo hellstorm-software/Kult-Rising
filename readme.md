@@ -21,8 +21,9 @@
     - added functionality to door open
 
 Fixes
-- <i>fixed a bug that caused HUD elements not to update</i>
+- <i>fixed a bug that caused HUD elements to not update</i>
 - <i>fixed zombie hitbox</i>
+- <i>fixed a bug that caused elevator door to not close</i>
 ----------------------------------------------------------
 
 25.1.25
