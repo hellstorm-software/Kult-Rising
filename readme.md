@@ -23,6 +23,7 @@
     - added widget to floor controller
     - added close button to widget
     - adjusted size of control panel screen
+    - lowered control panel screen
 
 Fixes
 - <i>fixed a bug that caused HUD elements to not update</i>
