@@ -18,7 +18,8 @@
 - began adding elevator
     - added elevator door
     - added door opener
-    - added functionality to door open
+    - added functionality to door opener
+    - added floor controller
 
 Fixes
 - <i>fixed a bug that caused HUD elements to not update</i>
