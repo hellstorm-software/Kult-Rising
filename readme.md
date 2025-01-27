@@ -28,6 +28,7 @@ Fixes
 - <i>fixed zombie hitbox</i>
 - <i>fixed a bug that caused elevator door to not close</i>
 - <i>fixed a bug that caused elevator door to not stop closing</i>
+- <i>fixed a bug that caused cursor to not dissapear when closing elevator floor UI</i>
 ----------------------------------------------------------
 
 25.1.25
