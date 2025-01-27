@@ -18,6 +18,7 @@
 
 Fixes
 - <i>fixed a bug that caused HUD elements not to update</i>
+- <i>fixed zombie hitbox</i>
 ----------------------------------------------------------
 
 25.1.25
