@@ -24,6 +24,7 @@ Fixes
 - <i>fixed a bug that caused HUD elements to not update</i>
 - <i>fixed zombie hitbox</i>
 - <i>fixed a bug that caused elevator door to not close</i>
+- <i>fixed a bug that caused elevator door to not stop closing</i>
 ----------------------------------------------------------
 
 25.1.25
