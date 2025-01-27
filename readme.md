@@ -26,6 +26,7 @@
     - lowered control panel screen
 - began building overworld chunk 1
     - added terrain
+    - added border
 
 Fixes
 - <i>fixed a bug that caused HUD elements to not update</i>
