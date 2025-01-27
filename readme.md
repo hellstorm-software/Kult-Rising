@@ -14,6 +14,7 @@
 
 26.1.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- added second sym switch keybind
 
 Fixes
 - <i>fixed a bug that caused HUD elements not to update</i>
