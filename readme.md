@@ -18,6 +18,7 @@
 - began adding elevator
     - added elevator door
     - added door opener
+    - added functionality to door open
 
 Fixes
 - <i>fixed a bug that caused HUD elements not to update</i>
