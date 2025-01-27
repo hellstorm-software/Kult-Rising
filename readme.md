@@ -20,6 +20,7 @@
     - added door opener
     - added functionality to door opener
     - added floor controller
+    - added widget to floor controller
 
 Fixes
 - <i>fixed a bug that caused HUD elements to not update</i>
