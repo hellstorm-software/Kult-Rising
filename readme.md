@@ -17,6 +17,7 @@
 - added second sym switch keybind
 - began adding elevator
     - added elevator door
+    - added door opener
 
 Fixes
 - <i>fixed a bug that caused HUD elements not to update</i>
