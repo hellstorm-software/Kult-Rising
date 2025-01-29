@@ -29,6 +29,7 @@
     - added SCP-140 section
 - added [SCP-140](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-140-7C-an-incomplete-chronicle-article)
     - added containment procedures
+    - added description
 
 ----------------------------------------------------------
 
