@@ -14,6 +14,7 @@
 
 29.1.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- began adding dash attack
 
 ----------------------------------------------------------
 
