@@ -16,6 +16,7 @@
 - added [blank SCP template](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/blank-scp-template-article)
 - edited SCP-x666
     - reworded description
+- began making SCP-x013
 
 ----------------------------------------------------------
 
