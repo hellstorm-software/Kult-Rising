@@ -21,6 +21,7 @@
 - began adding crawler character
     - removed WASD functionality
     - trimmed extra code
+    - added movement on mouse drag
       
 Fixes
 - <i>fixed a bug that caused out of bounds box to not function</i>
