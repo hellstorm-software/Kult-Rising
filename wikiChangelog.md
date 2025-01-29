@@ -17,6 +17,7 @@
 - edited SCP-x666
     - reworded description
 - began making SCP-x013
+    - added containment procedures
 
 ----------------------------------------------------------
 
