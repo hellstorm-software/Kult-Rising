@@ -26,6 +26,7 @@
 - began filling out Daevite page
     - added summary
     - added history
+    - added SCP-140 section
 
 ----------------------------------------------------------
 
