@@ -18,6 +18,8 @@
     - added dash on left click
     - increased dash amount
       
+Fixes
+- <i>fixed a bug that caused out of bounds box to not function</i>
 ----------------------------------------------------------
 
 28.1.25
