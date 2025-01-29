@@ -25,6 +25,7 @@
 - fixed author section on blank scp template
 - began filling out Daevite page
     - added summary
+    - added history
 
 ----------------------------------------------------------
 
