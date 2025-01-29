@@ -19,6 +19,7 @@
     - increased dash amount
     - changed dash to work on shift + LMB
 - began adding crawler character
+    - removed WASD functionality
       
 Fixes
 - <i>fixed a bug that caused out of bounds box to not function</i>
