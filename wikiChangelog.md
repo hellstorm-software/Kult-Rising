@@ -16,6 +16,7 @@
 - updated wording to SCP-x013 description
 - updated knights templar description
     - updated modern activity
+- added blank [CotSK page](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-children-of-the-scarlet-king-article)
 
 ----------------------------------------------------------
 
