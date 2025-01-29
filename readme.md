@@ -17,6 +17,7 @@
 - began adding dash attack
     - added dash on left click
     - increased dash amount
+    - changed dash to work on shift + LMB
 - began adding crawler character
       
 Fixes
