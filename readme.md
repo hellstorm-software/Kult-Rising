@@ -17,6 +17,7 @@
 - began adding dash attack
     - added dash on left click
     - increased dash amount
+- began adding crawler character
       
 Fixes
 - <i>fixed a bug that caused out of bounds box to not function</i>
