@@ -23,6 +23,7 @@
 - added blank [CotSK page](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-children-of-the-scarlet-king-article)
 - added blank [Daevite page](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-daevites-article)
 - fixed author section on blank scp template
+- began filling out Daevite page
 
 ----------------------------------------------------------
 
