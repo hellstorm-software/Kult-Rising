@@ -16,7 +16,8 @@
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 - began adding dash attack
     - added dash on left click
-
+    - increased dash amount
+      
 ----------------------------------------------------------
 
 28.1.25
