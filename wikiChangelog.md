@@ -15,6 +15,7 @@
 29.1.25
 - updated wording to SCP-x013 description
 - updated knights templar description
+    - updated modern activity
 
 ----------------------------------------------------------
 
