@@ -13,6 +13,7 @@
 <h2>[JAN]</h2>
 
 28.1.25
+- added [blank SCP template](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/blank-scp-template-article)
 - began adding SCP-x666
 
 ----------------------------------------------------------
