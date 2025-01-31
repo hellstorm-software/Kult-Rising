@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+30.1.25
+- began making omni-suit
+
+----------------------------------------------------------
+
 29.1.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 - began adding dash attack
