@@ -17,6 +17,7 @@
     - added chestplate (change)
     - added shoulder pauldrons
     - added leg pads (change)
+    - added gauntlet mounts
 
 ----------------------------------------------------------
 
