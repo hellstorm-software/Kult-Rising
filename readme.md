@@ -15,6 +15,7 @@
 30.1.25
 - began making omni-suit
     - added chestplate
+    - added shoulder pauldrons
 
 ----------------------------------------------------------
 
