@@ -18,6 +18,7 @@
     - added shoulder pauldrons
     - added leg pads (change)
     - added gauntlet mounts
+    - added shoulder straps
 
 ----------------------------------------------------------
 
