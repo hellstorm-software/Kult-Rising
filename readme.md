@@ -17,6 +17,7 @@
     - added textures
     - added models
     - added main hall
+    - addedd drop
 
 ----------------------------------------------------------
 <h2>[JAN]</h2>
