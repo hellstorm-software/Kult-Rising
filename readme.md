@@ -21,6 +21,9 @@
     - added big room
     - added wrap around
 
+Fixes
+- <i>fixed an issue with the lighting on level 0</i>
+
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 ----------------------------------------------------------
