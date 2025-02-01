@@ -19,6 +19,7 @@
     - added main hall
     - added drop
     - added big room
+    - added wrap around
 
 ----------------------------------------------------------
 <h2>[JAN]</h2>
