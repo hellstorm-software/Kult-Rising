@@ -15,6 +15,7 @@
 1.2.25
 - began adding backrooms level 0 (cluster 1)
     - added textures
+    - added models
 
 ----------------------------------------------------------
 <h2>[JAN]</h2>
