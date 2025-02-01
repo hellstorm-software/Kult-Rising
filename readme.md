@@ -18,6 +18,7 @@
     - added models
     - added main hall
     - added drop
+    - added big room
 
 ----------------------------------------------------------
 <h2>[JAN]</h2>
