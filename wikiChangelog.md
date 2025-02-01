@@ -12,6 +12,11 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+31.1.25
+- began adding [Omni-Suit article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/omni-suit-article)
+
+----------------------------------------------------------
+
 29.1.25
 - updated wording to SCP-x013 description
 - updated knights templar description
