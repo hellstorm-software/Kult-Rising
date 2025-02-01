@@ -15,6 +15,7 @@
 31.1.25
 - began adding organs
     - added polyp
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
 ----------------------------------------------------------
 
