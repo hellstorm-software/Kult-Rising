@@ -13,7 +13,7 @@
 <h2>[JAN]</h2>
 
 2.2.25
-- began adding ECHO System article
+- began adding [ECHO System article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/echo-system-article)
 
 ----------------------------------------------------------
 
