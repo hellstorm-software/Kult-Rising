@@ -17,6 +17,11 @@
 - finished sketch v.1 of Crimson King
 
 ----------------------------------------------------------
+
+31.1.25
+- finished v.1 of goblins design
+
+----------------------------------------------------------
 30.1.25
 - began designing the Crimson King
 - began designing omni-suits
