@@ -27,6 +27,7 @@
 
 Fixes
 - <i>fixed an issue with the lighting on level 0</i>
+- <i>fixed an issue that caused spice to save but not load</i>
 
 ----------------------------------------------------------
 <h2>[JAN]</h2>
