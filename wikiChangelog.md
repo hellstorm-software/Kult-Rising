@@ -17,6 +17,7 @@
     - added summary
     - added history
     - added capabilities
+    - restructured history and capabilities
 
 ----------------------------------------------------------
 
