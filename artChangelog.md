@@ -14,3 +14,4 @@
 
 29.1.25
 - began designing the Crimson King
+- began redesigning SCP-173
