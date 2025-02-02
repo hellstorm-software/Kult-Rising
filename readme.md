@@ -12,6 +12,13 @@
 ----------------------------------------------------------
 <h2>[FEB]</h2>
 
+----------------------------------------------------------
+
+2.2.25
+- updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
+
+----------------------------------------------------------
+
 2.1.25
 - updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
 
