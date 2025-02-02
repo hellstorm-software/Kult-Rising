@@ -19,6 +19,7 @@
     - added capabilities
     - restructured history and capabilities
     - added modern use
+    - reworded history
 
 ----------------------------------------------------------
 
