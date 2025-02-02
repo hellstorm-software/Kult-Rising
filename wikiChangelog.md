@@ -20,6 +20,7 @@
     - restructured history and capabilities
     - added modern use
     - reworded history
+    - added hyperlinks
 
 ----------------------------------------------------------
 
