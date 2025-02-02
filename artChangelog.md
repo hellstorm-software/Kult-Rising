@@ -14,6 +14,7 @@
 
 2.2.25
 - began redesigning SCP-173
+- finished sketch v.1 of Crimson King
 
 ----------------------------------------------------------
 30.1.25
