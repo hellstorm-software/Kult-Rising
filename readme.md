@@ -38,6 +38,7 @@ Fixes
 - began adding organs
     - added polyp
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
 
 ----------------------------------------------------------
 
