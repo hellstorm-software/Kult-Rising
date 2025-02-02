@@ -15,6 +15,8 @@
 2.1.25
 - updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
 
+----------------------------------------------------------
+
 1.2.25
 - began adding backrooms level 0 (cluster 1)
     - added textures
