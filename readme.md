@@ -13,7 +13,7 @@
 <h2>[FEB]</h2>
 
 2.1.25
-- updated art
+- updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
 
 1.2.25
 - began adding backrooms level 0 (cluster 1)
