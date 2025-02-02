@@ -22,6 +22,7 @@
     - added wrap around
 - began adding more stats to save system
     - added spice
+    - added scrap metal
 - added spice counter on top bar
 
 Fixes
