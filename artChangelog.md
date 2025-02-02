@@ -13,6 +13,11 @@
 <h2>[FEB]</h2>
 
 2.2.25
+- began designing Replikate v.1
+
+----------------------------------------------------------
+
+2.1.25
 - began redesigning SCP-173
 - finished sketch v.1 of Crimson King
 
