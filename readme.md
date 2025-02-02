@@ -13,7 +13,7 @@
 <h2>[FEB]</h2>
 
 2.1.25
-- added to art
+- updated art
 
 1.2.25
 - began adding backrooms level 0 (cluster 1)
