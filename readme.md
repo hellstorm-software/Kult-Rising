@@ -22,6 +22,7 @@
     - added wrap around
 - began adding more stats to save system
     - added spice
+- added spice counter on top bar
 
 Fixes
 - <i>fixed an issue with the lighting on level 0</i>
