@@ -16,5 +16,6 @@
 - began redesigning SCP-173
 
 ----------------------------------------------------------
-29.1.25
+30.1.25
 - began designing the Crimson King
+- began designing omni-suits
