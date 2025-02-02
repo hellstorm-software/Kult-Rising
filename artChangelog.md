@@ -13,3 +13,4 @@
 <h2>[FEB]</h2>
 
 29.1.25
+- began designing the Crimson King
