@@ -16,6 +16,7 @@
 - began adding [ECHO System article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/echo-system-article)
     - added summary
     - added history
+    - added capabilities
 
 ----------------------------------------------------------
 
