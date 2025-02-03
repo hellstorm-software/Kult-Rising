@@ -24,7 +24,7 @@
     - added containment procedures
     - added description
     - added author
-- began adding SCP-x1987
+- began adding [SCP-x1987](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-1987-7C-the-animatronics-article)
 
 ----------------------------------------------------------
 
