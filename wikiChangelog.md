@@ -16,10 +16,11 @@
 ----------------------------------------------------------
 
 2.3.25
-- added [MEG article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/major-explorer-group-meg-article)
+- began adding [MEG article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/major-explorer-group-meg-article)
     - added base description
     - added authors
     - added hyperlinks
+- began adding SCP-x1006 article
 
 ----------------------------------------------------------
 
