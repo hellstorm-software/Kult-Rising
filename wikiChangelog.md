@@ -22,6 +22,7 @@
     - reworded history
     - added hyperlinks
 - added [Async Research Institute](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/async-research-institute-article) article
+    - added summary
 
 ----------------------------------------------------------
 
