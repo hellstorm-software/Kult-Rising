@@ -15,6 +15,7 @@
 2.2.25
 - began designing Replikate v.1
 - modeled liver
+- modeled spleen
 
 ----------------------------------------------------------
 
