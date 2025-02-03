@@ -12,6 +12,9 @@
 ----------------------------------------------------------
 <h2>[JAN]</h2>
 
+2.3.25
+- added MEG article
+
 2.2.25
 - began adding [ECHO System article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/echo-system-article)
     - added summary
