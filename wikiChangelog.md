@@ -37,6 +37,9 @@
 
 ----------------------------------------------------------
 
+<h2>[JAN]</h2>
+
+----------------------------------------------------------
 31.1.25
 - began adding [Omni-Suit article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/omni-suit-article)
     - added description
