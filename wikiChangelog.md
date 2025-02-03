@@ -25,6 +25,7 @@
     - added summary
     - added authors
     - added hyperlinks
+    - reworded summary
 
 ----------------------------------------------------------
 
