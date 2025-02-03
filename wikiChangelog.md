@@ -19,6 +19,7 @@
 - added [MEG article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/major-explorer-group-meg-article)
     - added base description
     - added authors
+    - added hyperlinks
 
 ----------------------------------------------------------
 
