@@ -23,7 +23,7 @@
 
 2.1.25
 - began redesigning SCP-173
-- finished sketch v.1 of Crimson King
+- finished sketch v.1 of the Crimson King
 
 ----------------------------------------------------------
 
