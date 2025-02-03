@@ -17,6 +17,7 @@
 - modeled liver
 - modeled spleen
 - modeled kidney
+- modeled adrenal gland
 
 ----------------------------------------------------------
 
