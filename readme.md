@@ -15,6 +15,10 @@
 
 ----------------------------------------------------------
 
+3.2.25
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+
+----------------------------------------------------------
 2.2.25
 - updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
