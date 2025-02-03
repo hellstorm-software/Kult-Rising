@@ -23,6 +23,7 @@
 - began adding [SCP-x1006](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-x1006-7C-the-toys-article) article
     - added containment procedures
     - added description
+    - added author
 
 ----------------------------------------------------------
 
