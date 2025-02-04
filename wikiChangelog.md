@@ -14,8 +14,11 @@
 <h2>[FEB]</h2>
 
 ----------------------------------------------------------
+4.2.25
+- began adding [Foundation Departments](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/foundation-departments-category) (placeholders)
 
-2.3.25
+----------------------------------------------------------
+3.2.25
 - began adding [MEG article](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/major-explorer-group-meg-article)
     - added base description
     - added authors
