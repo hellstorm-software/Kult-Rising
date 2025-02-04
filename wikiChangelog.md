@@ -21,6 +21,7 @@
     - added [ethics committee](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/ethics-committee-article) container
     - added [antimemetics division](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/antimemetics-division-article) container
 - began creating the [Sxlaris Legends wiki](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland)
+    - added description
 
 ----------------------------------------------------------
 3.2.25
