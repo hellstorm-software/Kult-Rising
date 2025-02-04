@@ -16,6 +16,7 @@
 ----------------------------------------------------------
 4.2.25
 - began adding [Foundation Departments](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/foundation-departments-category) (placeholders)
+    - added replication division container
 
 ----------------------------------------------------------
 3.2.25
