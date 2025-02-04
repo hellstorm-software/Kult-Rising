@@ -27,6 +27,7 @@
     - added description
     - added addendum 1
     - added addendum 2
+    - added image
 
 ----------------------------------------------------------
 3.2.25
