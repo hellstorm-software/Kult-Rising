@@ -25,6 +25,7 @@
 - added [huggy wuggy article](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland/a/scp-nc-1170-7C-huggy-wuggy-article) (legends)
     - added containment procedures
     - added description
+    - added addendum 1
 
 ----------------------------------------------------------
 3.2.25
