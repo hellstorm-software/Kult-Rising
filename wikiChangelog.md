@@ -18,7 +18,7 @@
 - began adding [Foundation Departments](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/foundation-departments-category) (placeholders)
     - added [replication division](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/replication-division-article) container
     - added [05 Council](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/05-council-article) container
-    - added ethics comittee container
+    - added [ethics committee](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/ethics-committee-article) container
 
 ----------------------------------------------------------
 3.2.25
