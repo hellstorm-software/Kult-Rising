@@ -23,7 +23,8 @@
 - began creating the [Sxlaris Legends wiki](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland)
     - added description
 - added [huggy wuggy article](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland/a/scp-nc-1170-7C-huggy-wuggy-article) (legends)
-    - added special containment procedures
+    - added containment procedures
+    - added description
 
 ----------------------------------------------------------
 3.2.25
