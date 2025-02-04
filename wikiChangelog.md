@@ -26,6 +26,7 @@
     - added containment procedures
     - added description
     - added addendum 1
+    - added addendum 2
 
 ----------------------------------------------------------
 3.2.25
