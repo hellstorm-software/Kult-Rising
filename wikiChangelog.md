@@ -22,6 +22,7 @@
     - added [antimemetics division](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/antimemetics-division-article) container
 - began creating the [Sxlaris Legends wiki](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland)
     - added description
+    - added hyperlinks
 - added [huggy wuggy article](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland/a/scp-nc-1170-7C-huggy-wuggy-article) (legends)
     - added containment procedures
     - added description
