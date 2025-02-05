@@ -20,6 +20,7 @@
     - built small platforms
     - built connecting hallway
     - built main chamber
+    - built triangle hallway
 
 ----------------------------------------------------------
 
