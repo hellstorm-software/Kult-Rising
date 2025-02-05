@@ -17,6 +17,7 @@
 5.2.25
 - began adding core area of the poolrooms
     - built central platform
+    - built small platforms
 
 ----------------------------------------------------------
 
