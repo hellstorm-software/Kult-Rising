@@ -22,6 +22,7 @@
     - built main chamber
     - built triangle hallway
     - built starter room
+    - added lights
 
 ----------------------------------------------------------
 
