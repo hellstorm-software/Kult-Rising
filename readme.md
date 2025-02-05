@@ -14,6 +14,10 @@
 <h2>[FEB]</h2>
 
 ----------------------------------------------------------
+5.2.25
+- began adding core area of the poolrooms
+
+----------------------------------------------------------
 
 4.2.25
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
