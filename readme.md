@@ -18,6 +18,7 @@
 - began adding core area of the poolrooms
     - built central platform
     - built small platforms
+    - built connecting hallway
 
 ----------------------------------------------------------
 
