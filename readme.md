@@ -21,6 +21,7 @@
     - built connecting hallway
     - built main chamber
     - built triangle hallway
+    - built starter room
 
 ----------------------------------------------------------
 
