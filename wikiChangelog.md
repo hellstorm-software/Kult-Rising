@@ -22,7 +22,8 @@
         - added gender
         - added weight
         - added author
-    - added Wren ██████ 
+    - added Wren ██████
+    - added Deklan ████
 
 ----------------------------------------------------------
 4.2.25
