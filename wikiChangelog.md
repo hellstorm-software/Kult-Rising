@@ -27,6 +27,7 @@
 - added [Thaumaturgical Entities](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category) Section
     - added what are Thaumaturgical Entities article
     - added resonants article
+        - added summary
 - changed SCP-x3008 to [SCP-x002-14](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/level-14-7C-the-infinite-entertainment-complex-article)
 
 ----------------------------------------------------------
