@@ -18,6 +18,7 @@
 - began adding Persons of Interest [Watchlist](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/watchlist-category)
     - added Nico ███████
         - added height
+        - added age
 
 ----------------------------------------------------------
 4.2.25
