@@ -26,6 +26,7 @@
     - added Deklan ████
 - added [Thaumaturgical Entities](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category) Section
     - added what are Thaumaturgical Entities article
+    - added resonants article
 
 ----------------------------------------------------------
 4.2.25
