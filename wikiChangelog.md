@@ -24,7 +24,7 @@
         - added author
     - added Wren ██████
     - added Deklan ████
-- added Thaumaturgical Entities Section
+- added [Thaumaturgical Entities](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category) Section
 
 ----------------------------------------------------------
 4.2.25
