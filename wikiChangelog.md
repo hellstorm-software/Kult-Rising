@@ -22,6 +22,7 @@
         - added gender
         - added weight
         - added author
+    - added Wren ██████ 
 
 ----------------------------------------------------------
 4.2.25
