@@ -14,6 +14,10 @@
 <h2>[FEB]</h2>
 
 ----------------------------------------------------------
+6.2.25
+- began adding Persons of Interest Watchlist
+
+----------------------------------------------------------
 4.2.25
 - began adding [Foundation Departments](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/foundation-departments-category) (placeholders)
     - added [replication division](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/replication-division-article) container
