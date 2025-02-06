@@ -15,7 +15,7 @@
 
 ----------------------------------------------------------
 6.2.25
-- began adding Persons of Interest Watchlist
+- began adding Persons of Interest [Watchlist](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/watchlist-category)
 
 ----------------------------------------------------------
 4.2.25
