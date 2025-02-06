@@ -30,6 +30,7 @@
         - added summary
         - added side effects
         - added author
+        - added hyperlinks
 - changed SCP-x3008 to [SCP-x002-14](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/level-14-7C-the-infinite-entertainment-complex-article)
 
 ----------------------------------------------------------
