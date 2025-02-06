@@ -21,6 +21,7 @@
         - added age
         - added gender
         - added weight
+        - added author
 
 ----------------------------------------------------------
 4.2.25
