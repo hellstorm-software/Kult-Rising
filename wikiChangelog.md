@@ -24,6 +24,7 @@
         - added author
     - added Wren ██████
     - added Deklan ████
+- added Thaumaturgical Entities Section
 
 ----------------------------------------------------------
 4.2.25
