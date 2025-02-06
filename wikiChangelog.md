@@ -20,6 +20,7 @@
         - added height
         - added age
         - added gender
+        - added weight
 
 ----------------------------------------------------------
 4.2.25
