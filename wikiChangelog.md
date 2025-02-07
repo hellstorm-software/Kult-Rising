@@ -19,7 +19,7 @@
     - updated explanation article to reflect name change
 - added [Chronoshower](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/chronoshower--article) article
     - added summary
-- added Quartz article
+- added [Quartz](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/quartz-article) article
 
 ----------------------------------------------------------
 6.2.25
