@@ -24,6 +24,7 @@
     - added summary
     - added hyperlinks
     - added author
+- added condensed quartz sections to Resonants article
 
 ----------------------------------------------------------
 6.2.25
