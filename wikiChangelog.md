@@ -14,6 +14,10 @@
 <h2>[FEB]</h2>
 
 ----------------------------------------------------------
+7.2.25
+- renamed Thaumaturgical Entities to Thaumaturgical Manifestations
+
+----------------------------------------------------------
 6.2.25
 - began adding Persons of Interest [Watchlist](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/watchlist-category)
     - added Nico ███████
