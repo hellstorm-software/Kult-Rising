@@ -20,6 +20,7 @@
 - added [Chronoshower](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/chronoshower--article) article
     - added summary
 - added [Quartz](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/quartz-article) article
+    - added summary
 
 ----------------------------------------------------------
 6.2.25
