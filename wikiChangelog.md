@@ -15,7 +15,7 @@
 
 ----------------------------------------------------------
 7.2.25
-- renamed Thaumaturgical Entities to Thaumaturgical Manifestations
+- renamed Thaumaturgical Entities to [Thaumaturgical Manifestations](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category)
 
 ----------------------------------------------------------
 6.2.25
