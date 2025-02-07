@@ -25,6 +25,7 @@
     - added hyperlinks
     - added author
 - added condensed quartz sections to Resonants article
+    - added hyperlinks
 
 ----------------------------------------------------------
 6.2.25
