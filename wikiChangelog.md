@@ -22,6 +22,7 @@
 - added [Quartz](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/quartz-article) article
     - added summary
     - added hyperlinks
+    - added author
 
 ----------------------------------------------------------
 6.2.25
