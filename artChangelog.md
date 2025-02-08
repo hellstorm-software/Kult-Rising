@@ -13,11 +13,11 @@
 <h2>[FEB]</h2>
 
 7.2.25
-- designed a bio helmet
+- modeled another bio helmet
 
 ----------------------------------------------------------
 6.2.25
-- designed 6 bio helmets
+- modeled 6 bio helmets
 
 ----------------------------------------------------------
 2.2.25
