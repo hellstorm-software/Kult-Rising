@@ -16,6 +16,7 @@
 9.3.25
 - built out more of cluster 2
     - began building lower floor
+    - fixed collision issue with ground holes
 
 ----------------------------------------------------------
 9.2.25
