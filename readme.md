@@ -17,6 +17,7 @@
 - began building backrooms level 0 cluster 2
 - fixed a couple broken meshes
 - added drop hole
+- added ceiling tiles
 
 ----------------------------------------------------------
 8.2.25
