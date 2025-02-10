@@ -14,7 +14,7 @@
 <h2>[FEB]</h2>
 
 9.2.25
-- updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
+- began building backrooms level 0 cluster 2
 
 ----------------------------------------------------------
 8.2.25
