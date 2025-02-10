@@ -15,6 +15,7 @@
 
 9.3.25
 - built out more of cluster 2
+    - began building lower floor
 
 ----------------------------------------------------------
 9.2.25
