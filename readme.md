@@ -18,6 +18,7 @@
 - fixed a couple broken meshes
 - added drop hole
 - added ceiling tiles
+- built large chamber
 
 ----------------------------------------------------------
 8.2.25
