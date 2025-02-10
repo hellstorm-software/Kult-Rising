@@ -16,7 +16,7 @@
 9.3.25
 - built out more of cluster 2 of the yellowrooms
     - began building lower floor
-    - fixed collision issue with ground holes
+    - fixed collision issue with drop holes
     - expanded large chamber
         - added 3 outlets to large chamber
 
