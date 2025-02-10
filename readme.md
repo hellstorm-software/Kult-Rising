@@ -13,7 +13,7 @@
 
 <h2>[FEB]</h2>
 
-9.3.25
+10.2.25
 - built out more of cluster 2 of the yellowrooms
     - began building lower floor
     - fixed collision issue with drop holes
@@ -23,10 +23,11 @@
 ----------------------------------------------------------
 9.2.25
 - began building backrooms level 0 cluster 2
-- fixed a couple broken meshes
-- added drop hole
-- added ceiling tiles
-- built large chamber
+    - fixed a couple broken meshes
+    - added drop hole
+    - added ceiling tiles
+    - built large chamber
+- updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
 
 ----------------------------------------------------------
 8.2.25
