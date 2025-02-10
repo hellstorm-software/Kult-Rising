@@ -14,7 +14,7 @@
 <h2>[FEB]</h2>
 
 9.3.25
-- built out more of cluster 2
+- built out more of cluster 2 of the yellowrooms
     - began building lower floor
     - fixed collision issue with ground holes
     - expanded large chamber
