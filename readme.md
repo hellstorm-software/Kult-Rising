@@ -15,6 +15,7 @@
 
 9.2.25
 - began building backrooms level 0 cluster 2
+- fixed a couple broken meshes
 
 ----------------------------------------------------------
 8.2.25
