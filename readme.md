@@ -18,6 +18,7 @@
     - began building lower floor
     - fixed collision issue with ground holes
     - expanded large chamber
+        - added 3 outlets to large chamber
 
 ----------------------------------------------------------
 9.2.25
