@@ -35,7 +35,7 @@
     - added author
     - added coords
     - added desc
-- reworded homepage landing text (legends)
+- reworded [homepage](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland) landing text (legends)
 - extended homepage landing text (legends)
 ----------------------------------------------------------
 7.2.25
