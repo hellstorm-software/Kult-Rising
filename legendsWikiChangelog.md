@@ -15,4 +15,4 @@
 
 11.2.25
 - began adding minecraft seeds section
-    - began adding "mesa caverns" article
+    - began adding "[mesa caverns](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland/a/the-mesa-caverns-article)" article
