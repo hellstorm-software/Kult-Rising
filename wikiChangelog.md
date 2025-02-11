@@ -18,6 +18,7 @@
 - updated world meta
 - fixed spelling error in GOI category
 - began adding [GOI-728](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/broadcast-alliance-article) (Broadcast Alliance)
+- reordered GOIs
 
 ----------------------------------------------------------
 7.2.25
