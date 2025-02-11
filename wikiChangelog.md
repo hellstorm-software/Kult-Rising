@@ -17,6 +17,7 @@
 11.2.25
 - updated world meta
 - fixed spelling error in GOI category
+- began adding GOI-728 (Broadcast Alliance)
 
 ----------------------------------------------------------
 7.2.25
