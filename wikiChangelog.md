@@ -14,6 +14,10 @@
 <h2>[FEB]</h2>
 
 ----------------------------------------------------------
+11.2.25
+- updated world meta
+
+----------------------------------------------------------
 7.2.25
 - renamed Thaumaturgical Entities to [Thaumaturgical Manifestations](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category)
     - updated explanation article to reflect name change
