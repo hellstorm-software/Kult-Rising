@@ -19,6 +19,7 @@
 - fixed spelling error in GOI category
 - began adding [GOI-728](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/broadcast-alliance-article) (Broadcast Alliance)
 - reordered GOIs
+- fixed spelling error in The Daevites article
 
 ----------------------------------------------------------
 7.2.25
