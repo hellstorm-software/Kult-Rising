@@ -13,6 +13,9 @@
 
 <h2>[FEB]</h2>
 
+11.2.25
+- updated [legends wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/legendsWikiChangelog.md)
+
 10.2.25
 - built out more of cluster 2 of the yellowrooms
     - began building lower floor
