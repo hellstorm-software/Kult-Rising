@@ -24,6 +24,7 @@
 - added header to [SCP-140](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-140-7C-an-incomplete-chronicle-article)
 - added header to [SCP-x216](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-x216-7C-the-labyrinth-location)
     - fixed header placement
+    - fixed formatting
 ----------------------------------------------------------
 7.2.25
 - renamed Thaumaturgical Entities to [Thaumaturgical Manifestations](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category)
