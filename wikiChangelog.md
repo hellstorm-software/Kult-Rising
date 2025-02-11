@@ -19,8 +19,8 @@
 - fixed spelling error in GOI category
 - began adding [GOI-728](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/broadcast-alliance-article) (Broadcast Alliance)
 - reordered GOIs
-- fixed spelling error in The Daevites article
-
+- fixed spelling error in [The Daevites article
+](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-daevites-article)
 ----------------------------------------------------------
 7.2.25
 - renamed Thaumaturgical Entities to [Thaumaturgical Manifestations](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category)
