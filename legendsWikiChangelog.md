@@ -19,5 +19,6 @@
     - added images
     - added main cavern
     - added secondary cavern
+    - added images for secondary cavern
 - reworded homepage landing text
 - extended homepage landing text
