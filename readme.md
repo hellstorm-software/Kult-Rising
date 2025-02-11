@@ -23,6 +23,7 @@
     - expanded large chamber
         - added 3 outlets to large chamber
 - updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
 ----------------------------------------------------------
 9.2.25
