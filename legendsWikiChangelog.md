@@ -18,5 +18,6 @@
     - began adding "[mesa caverns](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland/a/the-mesa-caverns-article)" article
     - added images
     - added main cavern
+    - added secondary cavern
 - reworded homepage landing text
 - extended homepage landing text
