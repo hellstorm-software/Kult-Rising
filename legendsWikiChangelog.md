@@ -21,5 +21,6 @@
     - added secondary cavern
     - added images for secondary cavern
     - added author
+    - added coords
 - reworded homepage landing text
 - extended homepage landing text
