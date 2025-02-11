@@ -22,6 +22,7 @@
     - fixed collision issue with drop holes
     - expanded large chamber
         - added 3 outlets to large chamber
+- updated [art](https://github.com/hellstorm-software/Kult-Rising/blob/main/artChangelog.md)
 
 ----------------------------------------------------------
 9.2.25
