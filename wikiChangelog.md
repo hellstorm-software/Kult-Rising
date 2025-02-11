@@ -25,6 +25,7 @@
 - added header to [SCP-x216](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-x216-7C-the-labyrinth-location)
     - fixed header placement
     - fixed formatting
+    - added author
 ----------------------------------------------------------
 7.2.25
 - renamed Thaumaturgical Entities to [Thaumaturgical Manifestations](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category)
