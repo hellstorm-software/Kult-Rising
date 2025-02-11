@@ -21,7 +21,7 @@
 - reordered GOIs
 - fixed spelling error in [The Daevites article
 ](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-daevites-article)
-- added header to SCP-140
+- added header to [SCP-140](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/scp-140-7C-an-incomplete-chronicle-article)
 ----------------------------------------------------------
 7.2.25
 - renamed Thaumaturgical Entities to [Thaumaturgical Manifestations](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category)
