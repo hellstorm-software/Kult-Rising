@@ -37,7 +37,7 @@
     - added desc
 - reworded [homepage](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland) landing text (legends)
 - extended homepage landing text (legends)
-- began creating Sxlar Labs wiki
+- began creating [Sxlar Labs](https://www.worldanvil.com/w/sxlar-labs-sxlar-wasteland) wiki
 ----------------------------------------------------------
 7.2.25
 - renamed Thaumaturgical Entities to [Thaumaturgical Manifestations](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category)
