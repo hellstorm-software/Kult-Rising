@@ -26,6 +26,17 @@
     - fixed header placement
     - fixed formatting
     - added author
+- began adding minecraft seeds section (legends)
+    - began adding "[mesa caverns](https://www.worldanvil.com/w/sxlaris-legends-sxlar-wasteland/a/the-mesa-caverns-article)" article
+    - added images
+    - added main cavern
+    - added secondary cavern
+    - added images for secondary cavern
+    - added author
+    - added coords
+    - added desc
+- reworded homepage landing text (legends)
+- extended homepage landing text (legends)
 ----------------------------------------------------------
 7.2.25
 - renamed Thaumaturgical Entities to [Thaumaturgical Manifestations](https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/c/thaumaturgical-entities-category)
