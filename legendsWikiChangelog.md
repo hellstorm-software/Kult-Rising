@@ -15,4 +15,4 @@
 
 11.2.25
 - began adding minecraft seeds section
-    - began adding mesa caverns article
+    - began adding "mesa caverns" article
