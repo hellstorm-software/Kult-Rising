@@ -15,6 +15,7 @@
 10.2.25
 - modeled an uncanny helmet
 
+----------------------------------------------------------
 9.2.25
 - modeled V. 1 of spider creature
 
