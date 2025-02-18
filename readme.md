@@ -17,6 +17,7 @@
 - fixed level 7 station model
     - began adding animations
         - lowered speed
+        - adjusted speed
 
 ----------------------------------------------------------
 
