@@ -19,6 +19,7 @@
         - lowered speed
         - adjusted speed
     - retextured station
+    - added light strips
 
 ----------------------------------------------------------
 
