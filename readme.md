@@ -22,6 +22,7 @@
     - added light strips
     - added back and forth rotation to center piece
         - adjusted timings
+        - added pause
 
 ----------------------------------------------------------
 
