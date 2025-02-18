@@ -13,8 +13,15 @@
 
 <h2>[FEB]</h2>
 
+18.2.25
+- fixed level 7 station model
+
+----------------------------------------------------------
+
 11.2.25
 - updated [legends wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/legendsWikiChangelog.md)
+
+----------------------------------------------------------
 
 10.2.25
 - built out more of cluster 2 of the yellowrooms
