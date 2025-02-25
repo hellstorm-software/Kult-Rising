@@ -15,6 +15,7 @@
 
 25.2.25
 - began creating Level Climb
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
 ----------------------------------------------------------
 
