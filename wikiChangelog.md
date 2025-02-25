@@ -21,6 +21,9 @@
     - added Series 2 [page](http://sxlaris.wikidot.com/scp-series-2)
     - added dimension-x theme
     - added series s slots to Series 1 and 2 pages
+ 
+Fixes
+_- adjusted hyperlinks to default to series S instead of Generic_
 
 ----------------------------------------------------------
 11.2.25
