@@ -22,7 +22,7 @@
     - added dimension-x theme
     - added series s slots to Series 1 and 2 pages
  
-Fixes
+Fixes<br>
 _- adjusted hyperlinks to default to series S instead of Generic_
 
 ----------------------------------------------------------
