@@ -18,6 +18,7 @@
 25.2.25
 - began construction of the [wikidot site](http://sxlaris.wikidot.com/main)
     - added Series 1 [page](http://sxlaris.wikidot.com/scp-series)
+    - added Series 2 [page](http://sxlaris.wikidot.com/scp-series-2)
 
 ----------------------------------------------------------
 11.2.25
