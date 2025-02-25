@@ -22,8 +22,8 @@
     - added dimension-x theme
     - added series s slots to Series 1 and 2 pages
  
-Fixes<br>
-_- adjusted hyperlinks to default to series S instead of Generic_
+Fixes
+- <i>adjusted hyperlinks to default to series S instead of Generic</i>
 
 ----------------------------------------------------------
 11.2.25
