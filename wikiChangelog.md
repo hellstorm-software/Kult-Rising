@@ -21,6 +21,7 @@
     - added Series 2 [page](http://sxlaris.wikidot.com/scp-series-2)
     - added dimension-x theme
     - added series s slots to Series 1 and 2 pages
+    - added SCP-x002 [page](http://sxlaris.wikidot.com/scp-x002)
  
 Fixes
 - <i>adjusted hyperlinks to default to series S instead of Generic</i>
