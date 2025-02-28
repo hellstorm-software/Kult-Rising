@@ -24,6 +24,7 @@
 27.2.25
 - updated dimension-x theme
 - added Kult Rising [Entity list](http://sxlaris.wikidot.com/kult-rising:entities)
+- added KR Passive [Entity List](http://sxlaris.wikidot.com/kult-rising:passive-entities)
 
 ----------------------------------------------------------
 
