@@ -18,6 +18,7 @@
 28.2.25
 - added container article for [GOIs](http://sxlaris.wikidot.com/groups-of-interest)
     - added container article for all default GOIs
+    - added [SCP-173 article](http://sxlaris.wikidot.com/scp-173)
 
 ----------------------------------------------------------
 
