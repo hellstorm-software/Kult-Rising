@@ -29,6 +29,7 @@
     - added multiplayer setup
     - added menu and lobby system
     - merged bodycam project into SCP: Legion project
+    - removed head sway when aiming
 
 ----------------------------------------------------------
 
