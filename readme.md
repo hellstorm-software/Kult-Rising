@@ -18,6 +18,7 @@
 - merged new Kult Rising project file with SCP: Legion Project file
     - added idle game mode as lobby
     - added random weapon box to SCP: Legion level
+    - added boss zombie
 
 ----------------------------------------------------------
 
