@@ -20,6 +20,8 @@
     - added random weapon box to SCP: Legion level
     - added boss zombie
 
+Fixes
+- <i>fixed a bug that broke panel interaction on merge</i>
 ----------------------------------------------------------
 
 27.2.25
