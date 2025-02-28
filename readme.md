@@ -33,6 +33,7 @@
     - built primary room of containment site KN-008-Z
     - added zombie barriers
     - added purchasable doors
+    - added random perks on zombie deaths
 
 ----------------------------------------------------------
 
