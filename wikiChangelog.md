@@ -23,6 +23,7 @@
 - added [timeline page](http://sxlaris.wikidot.com/timeline)
 - added Kult Rising [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
 - added KR [FAQ](http://sxlaris.wikidot.com/kult-rising)
+- added KR [items page](http://sxlaris.wikidot.com/kult-rising:items)
 ----------------------------------------------------------
 
 27.2.25
