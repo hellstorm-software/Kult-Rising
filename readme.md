@@ -13,6 +13,15 @@
 
 <h2>[FEB]</h2>
 
+
+28.2.25
+
+----------------------------------------------------------
+
+26.2.26
+- overhauled entire project file, trimed 70GB of content
+
+----------------------------------------------------------
 25.2.25
 - began creating Level Climb
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
