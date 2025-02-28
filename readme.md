@@ -25,6 +25,7 @@
     - removed extra levels from level select
     - added the tower to level select
     - added sandbox to level select
+- began adding basic melee combat
 
 Fixes
 - <i>fixed a bug that broke idle switch panel on the merge</i>
