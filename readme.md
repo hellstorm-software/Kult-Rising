@@ -21,6 +21,7 @@
     - added random weapon box to SCP: Legion level
     - added boss zombie
     - re-added menu screen
+    - re-added menu music
 
 Fixes
 - <i>fixed a bug that broke idle switch panel on the merge</i>
