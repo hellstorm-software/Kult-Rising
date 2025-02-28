@@ -26,6 +26,7 @@
     - added zombie spawning logic
     - added 4 hitscan weapons
     - added 3 projectile weapons
+    - added multiplayer setup
 
 ----------------------------------------------------------
 
