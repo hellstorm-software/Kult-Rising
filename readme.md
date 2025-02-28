@@ -4,9 +4,9 @@
 [![Last Commit](https://img.shields.io/github/last-commit/hellstorm-software/Kult-Rising?color=f204ff&label=&style=for-the-badge&display_timestamp=committer)](https://github.com/hellstorm-software/Convergence-Changelog/pulse/monthly "Last activity")
 
 <p style="font-size: smaller;">
-    Info: <a href="https://hellstorm-software.github.io/SCP-Convergence/convergence/convergence.html" target="_blank">https://hellstorm-software.github.io/KultRising.html</a><br>
+    Info: <a href="http://sxlaris.wikidot.com/kult-rising" target="_blank">http://sxlaris.wikidot.com/kult-rising</a><br>
     this game is liscenced under <a href="https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/licensing-and-third-party-content-article"> CC BY-SA</a><br>
-    Sxlaris Wiki: https://www.worldanvil.com/w/sxlaris-sxlar-wasteland<br>
+    Sxlaris Wiki: http://sxlaris.wikidot.com/<br>
 </p>
 
 ----------------------------------------------------------
