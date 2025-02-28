@@ -24,6 +24,8 @@
     - removed all 3 syms
     - swapped for immersive character
     - added panel to switch back to idle view
+- **SUCESSFULLY COOKED GAME**
+- **SUCCESSFULLY PACKAGED GAME**
 
 ----------------------------------------------------------
 25.2.25
