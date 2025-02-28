@@ -26,6 +26,7 @@
     - added the tower to level select
     - added sandbox to level select
 - began adding basic melee combat
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
 Fixes
 - <i>fixed a bug that broke idle switch panel on the merge</i>
@@ -47,6 +48,7 @@ Fixes
     - added zombie barriers
     - added purchasable doors
     - added random power ups on zombie deaths
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
 
 ----------------------------------------------------------
 
