@@ -46,6 +46,7 @@ Fixes
     - added zombie barriers
     - added purchasable doors
     - added random power ups on zombie deaths
+    - updated pooltile textures
 
 ----------------------------------------------------------
 
