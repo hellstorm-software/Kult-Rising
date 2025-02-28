@@ -16,7 +16,8 @@
 ----------------------------------------------------------
 
 28.2.25
-- added container for [GOIs](http://sxlaris.wikidot.com/groups-of-interest)
+- added container article for [GOIs](http://sxlaris.wikidot.com/groups-of-interest)
+    - added container article for all default GOIs
 
 ----------------------------------------------------------
 
