@@ -46,7 +46,6 @@ Fixes
     - added zombie barriers
     - added purchasable doors
     - added random power ups on zombie deaths
-    - updated pooltile textures
 
 ----------------------------------------------------------
 
@@ -56,6 +55,7 @@ Fixes
     - removed all 3 syms
     - swapped for immersive character
     - added panel to switch back to idle view
+ - updated pooltile textures
 - **SUCESSFULLY COOKED GAME**
 - **SUCCESSFULLY PACKAGED GAME**
 
