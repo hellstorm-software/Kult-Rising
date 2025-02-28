@@ -22,6 +22,7 @@
 - overhauled entire project file, trimed 70GB of content
 - merged idle game into new project file
     - removed all 3 syms
+    - swapped for immersive character
 
 ----------------------------------------------------------
 25.2.25
