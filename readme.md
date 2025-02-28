@@ -21,6 +21,7 @@
 26.2.26
 - overhauled entire project file, trimed 70GB of content
 - merged idle game into new project file
+    - removed all 3 syms
 
 ----------------------------------------------------------
 25.2.25
