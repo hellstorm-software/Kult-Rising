@@ -28,6 +28,7 @@
 
 Fixes
 - <i>fixed a bug that broke idle switch panel on the merge</i>
+- <i>fixed a bug that caused a pawn to spawn on the menu screen instead of a camera actor</i>
 ----------------------------------------------------------
 
 27.2.25
