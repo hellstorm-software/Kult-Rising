@@ -21,7 +21,7 @@
     - added boss zombie
 
 Fixes
-- <i>fixed a bug that broke panel interaction on merge</i>
+- <i>fixed a bug that broke idle switch panel interaction on the merge</i>
 ----------------------------------------------------------
 
 27.2.25
