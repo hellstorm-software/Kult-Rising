@@ -24,7 +24,8 @@
 - began building out SCP: Legion Project file
     - added zombie AI
     - added zombie spawning logic
-    - added 3 hitscan weapons
+    - added 4 hitscan weapons
+    - added 3 projectile weapons
 
 ----------------------------------------------------------
 
