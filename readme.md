@@ -22,6 +22,7 @@
 
 27.2.25
 - began building out SCP: Legion Project file
+    - added zombie AI
 
 ----------------------------------------------------------
 
