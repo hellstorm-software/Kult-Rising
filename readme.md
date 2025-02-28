@@ -27,6 +27,7 @@
     - added 4 hitscan weapons
     - added 3 projectile weapons
     - added multiplayer setup
+    - added menu and lobby system
 
 ----------------------------------------------------------
 
