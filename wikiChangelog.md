@@ -28,6 +28,7 @@
 - added KR Passive [Entity List](http://sxlaris.wikidot.com/kult-rising:passive-entities)
 - added KR Neutral [Entity List](http://sxlaris.wikidot.com/kult-rising:neutral-entities)
 - added KR Hostile [Entity List](http://sxlaris.wikidot.com/kult-rising:hostile-entities)
+- added [licensing and third party content article](http://sxlaris.wikidot.com/licensing-and-third-party-content)
 ----------------------------------------------------------
 
 25.2.25
