@@ -15,6 +15,11 @@
 
 ----------------------------------------------------------
 
+28.2.25
+- added container for [GOIs](http://sxlaris.wikidot.com/groups-of-interest)
+
+----------------------------------------------------------
+
 27.2.25
 - updated dimension-x theme
 
