@@ -28,6 +28,7 @@
     - added 3 projectile weapons
     - added multiplayer setup
     - added menu and lobby system
+    - merged bodycam project into SCP: Legion project
 
 ----------------------------------------------------------
 
