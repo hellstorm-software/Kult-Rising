@@ -22,6 +22,7 @@
     - added boss zombie
     - re-added menu screen
     - re-added menu music
+    - removed extra levels from level select
 
 Fixes
 - <i>fixed a bug that broke idle switch panel on the merge</i>
