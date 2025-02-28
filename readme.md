@@ -31,6 +31,7 @@
     - merged bodycam project into SCP: Legion project
     - removed head sway when aiming
     - built primary room of containment site KN-008-Z
+    - added zombie barriers
 
 ----------------------------------------------------------
 
