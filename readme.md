@@ -15,6 +15,7 @@
 
 
 28.2.25
+- merged new Kult Rising project file with SCP: Legion Project file
 
 ----------------------------------------------------------
 
