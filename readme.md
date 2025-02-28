@@ -23,6 +23,7 @@
 - merged idle game into new project file
     - removed all 3 syms
     - swapped for immersive character
+    - added panel to switch back to idle view
 
 ----------------------------------------------------------
 25.2.25
