@@ -20,6 +20,11 @@
 
 ----------------------------------------------------------
 
+27.2.25
+- began building out SCP: Legion Project file
+
+----------------------------------------------------------
+
 26.2.26
 - overhauled entire project file, trimed 70GB of content
 - merged idle game into new project file
