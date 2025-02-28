@@ -30,6 +30,7 @@
 - adjusted main menu HUD
 - added character select
 - added multiplayer option to menu screen
+- added button sounds to menu screen
 
 Fixes
 - <i>fixed a bug that broke idle switch panel on the merge</i>
