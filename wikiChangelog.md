@@ -15,6 +15,11 @@
 
 ----------------------------------------------------------
 
+27.2.25
+- updated dimension-x theme
+
+----------------------------------------------------------
+
 25.2.25
 - began construction of the [wikidot site](http://sxlaris.wikidot.com/main)
     - added Series 1 [page](http://sxlaris.wikidot.com/scp-series)
