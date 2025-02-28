@@ -5,8 +5,8 @@
 
 <p style="font-size: smaller;">
     Info: <a href="http://sxlaris.wikidot.com/kult-rising" target="_blank">http://sxlaris.wikidot.com/kult-rising</a><br>
-    this game is a licensed trademark of [Sxlar Wasteland](https://sxlarwasteland.com)
-    the LORE of this game is liscenced under <a href="https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/licensing-and-third-party-content-article"> CC BY-SA</a><br>
+    this game is a licensed trademark of <a href="https://sxlarwasteland.com">Sxlar Wasteland</a> <br>
+    the **LORE** of this game is liscenced under <a href="http://sxlaris.wikidot.com/licensing-and-third-party-content"> CC BY-SA</a><br>
     Sxlaris Wiki: http://sxlaris.wikidot.com/<br>
 </p>
 
