@@ -27,6 +27,7 @@
     - added sandbox to level select
 - began adding basic melee combat
 - updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- adjusted main menu HUD
 
 Fixes
 - <i>fixed a bug that broke idle switch panel on the merge</i>
