@@ -15,7 +15,7 @@
 <h2>[FEB]</h2>
 
 1.3.25
-- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 
 ----------------------------------------------------------
 
@@ -30,7 +30,7 @@
     - added the tower to level select
     - added sandbox to level select
 - began adding basic melee combat
-- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 - adjusted main menu HUD
 - added character select
 - added multiplayer option to menu screen
@@ -56,7 +56,7 @@ Fixes
     - added zombie barriers
     - added purchasable doors
     - added random power ups on zombie deaths
-- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 
 ----------------------------------------------------------
 
@@ -73,7 +73,7 @@ Fixes
 ----------------------------------------------------------
 25.2.25
 - began creating Level Climb
-- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+- updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 
 ----------------------------------------------------------
 
