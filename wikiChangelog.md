@@ -15,6 +15,10 @@
 
 ----------------------------------------------------------
 
+1.3.25
+- added games section to [header](http://sxlaris.wikidot.com/nav:top)
+
+----------------------------------------------------------
 28.2.25
 - added container article for [GOIs](http://sxlaris.wikidot.com/groups-of-interest)
     - added container article for all default GOIs
