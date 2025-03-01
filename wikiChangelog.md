@@ -16,7 +16,7 @@
 ----------------------------------------------------------
 
 1.3.25
-- added games section to [header](http://sxlaris.wikidot.com/nav:top)
+- added games section to [top bar](http://sxlaris.wikidot.com/nav:top)
 - removed individual entities from series IV on the top bar and replaced it with series IV, V, VI, VII, VIII, IX
 
 ----------------------------------------------------------
