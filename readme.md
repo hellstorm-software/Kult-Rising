@@ -14,6 +14,10 @@
 
 <h2>[FEB]</h2>
 
+1.3.25
+- updated [wiki](https://github.com/hellstorm-software/Kult-Rising/blob/main/wikiChangelog.md)
+
+----------------------------------------------------------
 
 28.2.25
 - merged new Kult Rising project file with SCP: Legion Project file
