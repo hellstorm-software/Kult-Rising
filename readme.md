@@ -20,6 +20,7 @@
     - began building backrooms cluster 3
     - adjusted player spawn locations
     - finished backrooms cluster 3
+    - added and merged backrooms cluster 2 map into sandbox map
 - updated menu screen
     - added point light to camera actor
     - added censor material to SCP-096's head
