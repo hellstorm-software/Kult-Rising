@@ -18,6 +18,7 @@
 - updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 - began building out sandbox level
     - began building backrooms cluster 3
+        - built main hall
     - adjusted player spawn locations
     - finished backrooms cluster 3
     - added and merged backrooms cluster 2 map into sandbox map
