@@ -19,6 +19,7 @@
 - began building out sandbox level
 - updated menu screen
     - added point light to camera actor
+    - added censor material to SCP-096's head
 
 Fixes
 - <i>fixed a bug that broke camera movement on menu</i>
