@@ -21,6 +21,8 @@
     - added point light to camera actor
     - added censor material to SCP-096's head
     - added kitsune model
+    - fixed sky color
+    - fixed lighting
 
 Fixes
 - <i>fixed a bug that broke camera movement on menu</i>
