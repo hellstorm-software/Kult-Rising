@@ -28,7 +28,7 @@
     - changed water blueprint
 
 Fixes
-- <i>fixed a bug that broke camera movement on menu</i>
+- <i>fixed a bug that broke camera movement on menu screen</i>
 ----------------------------------------------------------
 
 <h2>[FEB]</h2>
