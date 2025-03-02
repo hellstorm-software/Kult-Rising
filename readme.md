@@ -18,12 +18,14 @@
 - updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 - began building out sandbox level
     - began building backrooms cluster 3
+    - adjusted player spawn locations
 - updated menu screen
     - added point light to camera actor
     - added censor material to SCP-096's head
     - added kitsune model
     - fixed sky color
     - fixed lighting
+    - changed water blueprint
 
 Fixes
 - <i>fixed a bug that broke camera movement on menu</i>
