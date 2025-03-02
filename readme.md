@@ -27,6 +27,7 @@
     - fixed lighting
     - changed water blueprint
 - adjusted menu screen UI
+    - menu music now plays in character select
 
 Fixes
 - <i>fixed a bug that broke camera movement on menu screen</i>
