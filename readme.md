@@ -18,6 +18,7 @@
 - updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 - began building out sandbox level
 - updated menu screen
+    - added point light to camera actor
 
 Fixes
 - <i>fixed a bug that broke camera movement on menu</i>
