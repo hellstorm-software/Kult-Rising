@@ -36,6 +36,7 @@
 - adjusted menu screen UI
     - menu music now plays in character select
     - sandbox level in level select now links to the correct level
+- adjusted player crouch height to fit cluster 2 map design
 
 Fixes
 - <i>fixed a bug that broke camera movement on menu screen</i>
