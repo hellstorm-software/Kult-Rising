@@ -19,6 +19,8 @@
 - began building out sandbox level
 - updated menu screen
 
+Fixes
+- <i>fixed a bug that broke camera movement on menu</i>
 ----------------------------------------------------------
 
 28.2.25
