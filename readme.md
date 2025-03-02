@@ -17,6 +17,7 @@
 1.3.25
 - updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 - began building out sandbox level
+    - began building backrooms cluster 3
 - updated menu screen
     - added point light to camera actor
     - added censor material to SCP-096's head
