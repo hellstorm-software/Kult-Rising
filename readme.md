@@ -12,7 +12,7 @@
 
 ----------------------------------------------------------
 
-<h2>[FEB]</h2>
+<h2>[MAR]</h2>
 
 1.3.25
 - updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
@@ -29,6 +29,10 @@
 
 Fixes
 - <i>fixed a bug that broke camera movement on menu</i>
+----------------------------------------------------------
+
+<h2>[FEB]</h2>
+
 ----------------------------------------------------------
 
 28.2.25
@@ -193,6 +197,7 @@ Fixes
 - <i>fixed an issue that caused spice to save but not load</i>
 
 ----------------------------------------------------------
+
 <h2>[JAN]</h2>
 
 ----------------------------------------------------------
