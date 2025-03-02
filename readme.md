@@ -16,6 +16,8 @@
 
 1.3.25
 - updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
+- began building out sandbox level
+- updated menu screen
 
 ----------------------------------------------------------
 
