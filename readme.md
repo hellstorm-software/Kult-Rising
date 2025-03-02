@@ -26,6 +26,7 @@
     - fixed sky color
     - fixed lighting
     - changed water blueprint
+- adjusted menu screen UI
 
 Fixes
 - <i>fixed a bug that broke camera movement on menu screen</i>
