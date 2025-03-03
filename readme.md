@@ -20,6 +20,7 @@
     - coneected bottom floor to top
     - fix a collision issue with the pits
     - fixed lighting issues
+    - added slight fog
 - added right and left lean (Q and E)
 - slide key is now (Shift + E)
 - adjusted HUD
