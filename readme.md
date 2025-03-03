@@ -22,6 +22,7 @@
     - fixed lighting issues
     - added slight fog
     - added lights to poolroom areas
+    - closed in all open walls
 - added right and left lean (Q and E)
 - slide key is now (Shift + E)
 - adjusted HUD
