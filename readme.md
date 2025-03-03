@@ -24,6 +24,7 @@
 
 2.3.25
 - began adding slide mechanics
+    - removed friction while sliding
 - jumping while sliding now gives a speed boost
 - sliding on an incline gives a speed boost
 - fixed some backrooms terrain errors
