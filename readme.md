@@ -21,6 +21,7 @@
     - fix a collision issue with the pits
 - added right and left lean (Q and E)
 - slide key is now (Shift + E)
+- moved health/stamina to top left
 
 ----------------------------------------------------------
 
