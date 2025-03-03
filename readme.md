@@ -23,6 +23,7 @@
 - slide key is now (Shift + E)
 - adjusted HUD
     - moved health/stamina to top left
+    - moved wave counter to top right
 
 ----------------------------------------------------------
 
