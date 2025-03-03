@@ -25,6 +25,7 @@
     - moved health/stamina to top left
     - moved wave counter to top right
     - changed health bar color to red (changes to orange and yellow as health goes down)
+- increased speed boost from slide + jump
 
 ----------------------------------------------------------
 
