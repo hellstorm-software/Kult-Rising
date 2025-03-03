@@ -17,7 +17,8 @@
 
 3.3.25
 - finished most of backrooms sandbox (90%)
-- added right and left lean
+- added right and left lean (Q and E)
+- slide key is now (Shift + E)
 
 ----------------------------------------------------------
 
