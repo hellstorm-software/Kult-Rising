@@ -17,6 +17,7 @@
 
 3.3.25
 - finished most of backrooms sandbox (90%)
+    - coneected bottom floor to top
 - added right and left lean (Q and E)
 - slide key is now (Shift + E)
 
