@@ -14,6 +14,12 @@
 
 <h2>[MAR]</h2>
 
+
+2.3.25
+- began adding slide mechanics
+
+----------------------------------------------------------
+
 1.3.25
 - updated [wiki](https://github.com/Kyphxr/Sxlaris-Wiki-Contributions/blob/main/README.md)
 - began building out sandbox level
