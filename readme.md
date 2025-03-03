@@ -17,6 +17,7 @@
 
 2.3.25
 - began adding slide mechanics
+- jumping while sliding now gives a speed boost
 
 ----------------------------------------------------------
 
