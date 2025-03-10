@@ -21,6 +21,7 @@
     - added character 1 cosmetics display
 - updated idle game
     - added poolroom environment
+    - added water to floor
 
 3.3.25
 - finished backrooms sandbox
