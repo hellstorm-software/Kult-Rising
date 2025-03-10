@@ -30,6 +30,7 @@
     - added folding tables
     - added monitors
     - added rudimentary camera system
+    - added shelving
 
 3.3.25
 - finished backrooms sandbox
