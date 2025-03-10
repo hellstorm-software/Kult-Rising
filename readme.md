@@ -31,6 +31,7 @@
     - added monitors
     - added rudimentary camera system
     - added shelving
+    - added claw machine
 
 3.3.25
 - finished backrooms sandbox
