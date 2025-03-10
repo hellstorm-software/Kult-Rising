@@ -22,6 +22,7 @@
 - updated idle game
     - added poolroom environment
     - added water to floor
+    - added additional resource spawn nodes
 
 3.3.25
 - finished backrooms sandbox
