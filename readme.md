@@ -20,6 +20,7 @@
     - added SCP-R-7475-J display
     - added character 1 cosmetics display
 - updated idle game
+    - added poolroom environment
 
 3.3.25
 - finished backrooms sandbox
