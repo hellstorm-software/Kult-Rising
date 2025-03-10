@@ -25,6 +25,7 @@
     - added additional resource spawn nodes
     - updated lighting
     - changed tower lights to a dimmer material
+    - added skybox
 
 3.3.25
 - finished backrooms sandbox
