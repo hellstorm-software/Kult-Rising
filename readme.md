@@ -27,6 +27,7 @@
     - changed tower lights to a dimmer material
     - added skybox
 - began building Site-814 office
+    - added folding tables
 
 3.3.25
 - finished backrooms sandbox
