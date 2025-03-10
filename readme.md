@@ -23,6 +23,7 @@
     - added poolroom environment
     - added water to floor
     - added additional resource spawn nodes
+    - updated lighting
 
 3.3.25
 - finished backrooms sandbox
