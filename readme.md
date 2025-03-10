@@ -19,6 +19,7 @@
     - added SCP-096 display
     - added SCP-R-7475-J display
     - added character 1 cosmetics display
+- updated idle game
 
 3.3.25
 - finished backrooms sandbox
