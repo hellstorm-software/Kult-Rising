@@ -29,6 +29,7 @@
 - began building Site-814 office
     - added folding tables
     - added monitors
+    - added rudimentary camera system
 
 3.3.25
 - finished backrooms sandbox
