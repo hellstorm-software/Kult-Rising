@@ -18,6 +18,7 @@
 - added displays to sandbox level
     - added SCP-096 display
     - added SCP-R-7475-J display
+    - added character 1 cosmetics display
 
 3.3.25
 - finished backrooms sandbox
