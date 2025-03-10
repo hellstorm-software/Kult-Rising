@@ -28,6 +28,7 @@
     - added skybox
 - began building Site-814 office
     - added folding tables
+    - added monitors
 
 3.3.25
 - finished backrooms sandbox
