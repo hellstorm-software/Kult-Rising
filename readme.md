@@ -17,6 +17,7 @@
 11.3.25
 - added a separate backrooms level built off of the sandbox
 - fixed an issue in the tower causing the lift to not bring the player back up
+- re-added sprinting functionality
 
 ----------------------------------------------------------
 
