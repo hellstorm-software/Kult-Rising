@@ -15,11 +15,12 @@
 <h2>[MAR]</h2>
 
 11.3.25
-- added a separate backrooms level built off of the sandbox
+- added a separate backrooms level built off of the sandbox (cluster 3)
 - fixed an issue in the tower causing the lift to not bring the player back up
 - re-added sprinting functionality
 - created exploration gamemode
 - changed backrooms level to exploration mode
+- fixed lighting errors in backrooms cluster 3
 
 ----------------------------------------------------------
 
