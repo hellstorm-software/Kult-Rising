@@ -22,6 +22,7 @@
 - changed backrooms level to exploration mode
 - fixed lighting errors in backrooms cluster 3
 - added SCP-??? display to sandbox
+- added SCP-096 display to sandbox
 
 ----------------------------------------------------------
 
