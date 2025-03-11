@@ -19,6 +19,7 @@
 - fixed an issue in the tower causing the lift to not bring the player back up
 - re-added sprinting functionality
 - created exploration gamemode
+- changed backrooms level to exploration mode
 
 ----------------------------------------------------------
 
