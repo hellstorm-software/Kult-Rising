@@ -21,6 +21,7 @@
 - updated version on menu screen
 - disabled idle game (broken)
 - disabled idle game HUD button
+- added giant ████ to level 0 cluster 2
 
 ----------------------------------------------------------
 
