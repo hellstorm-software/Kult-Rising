@@ -20,6 +20,7 @@
 - added discord button to menu screen
 - updated version on menu screen
 - disabled idle game (broken)
+- disabled idle game HUD button
 
 ----------------------------------------------------------
 
