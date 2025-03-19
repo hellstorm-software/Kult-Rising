@@ -14,6 +14,11 @@
 
 <h2>[MAR]</h2>
 
+18.3.25
+- rebuilt backrooms level 0 cluster 2 and implemented it into the backrooms exploration mode
+
+----------------------------------------------------------
+
 11.3.25
 - added a separate backrooms level built off of the sandbox (cluster 3)
 - fixed an issue in the tower causing the lift to not bring the player back up
