@@ -19,6 +19,7 @@
 - began building backrooms level 1 cluster 1 (30%)
 - added discord button to menu screen
 - updated version on menu screen
+- disabled idle game (broken)
 
 ----------------------------------------------------------
 
