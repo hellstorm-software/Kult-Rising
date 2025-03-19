@@ -17,6 +17,7 @@
 18.3.25
 - rebuilt backrooms level 0 cluster 2 and implemented it into the backrooms exploration mode
 - began building backrooms level 1 cluster 1 (30%)
+- added discord button to menu screen
 
 ----------------------------------------------------------
 
