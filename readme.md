@@ -23,6 +23,7 @@
 - disabled idle game HUD button
 - added giant ████ to level 0 cluster 2
 - added giant ███ to level 1 cluster 1
+- removed claw machine from secret level (broken)
 
 ----------------------------------------------------------
 
