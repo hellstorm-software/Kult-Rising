@@ -19,6 +19,7 @@
 - added hazmat suit character models
 - added separate colors to hazmat suit
 - fixed camera error when loading into the game
+- finished cluster 6
 
 ----------------------------------------------------------
 
