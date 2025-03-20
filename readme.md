@@ -22,6 +22,7 @@
 - finished level 1 cluster 2
     - added second garage area
     - added pitfall area
+    - added 2 doors to cluster 7 (END)
 
 ----------------------------------------------------------
 
