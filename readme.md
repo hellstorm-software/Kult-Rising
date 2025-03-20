@@ -18,6 +18,7 @@
 20.3.25
 - added hazmat suit character models
 - added separate colors to hazmat suit
+- fixed camera error when loading into the game
 
 ----------------------------------------------------------
 
