@@ -15,6 +15,11 @@
 
 <h2>[MAR]</h2>
 
+19.3.25
+- fixed 2 broken doors (1 in level 0 and 1 in level 1)
+
+----------------------------------------------------------
+
 18.3.25
 - rebuilt backrooms level 0 cluster 2 and implemented it into the backrooms exploration mode
 - began building backrooms level 1 cluster 1 (30%)
