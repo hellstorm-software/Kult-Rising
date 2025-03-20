@@ -21,6 +21,7 @@
 - fixed camera error when loading into the game
 - finished level 1 cluster 2
     - added second garage area
+    - added pitfall area
 
 ----------------------------------------------------------
 
