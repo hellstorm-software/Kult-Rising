@@ -15,6 +15,11 @@
 
 <h2>[MAR]</h2>
 
+20.3.25
+- added hazmat suit character models
+
+----------------------------------------------------------
+
 19.3.25
 - fixed 2 broken doors (1 in level 0 and 1 in level 1)
 - adjust speed of giant ███ in level 1 cluster 1
