@@ -19,6 +19,7 @@
 - fixed 2 broken doors (1 in level 0 and 1 in level 1)
 - adjust speed of giant ███ in level 1 cluster 1
 - added text to roof of the tower explaining the camera bug
+- removed skin preview in sandbox
 
 ----------------------------------------------------------
 
