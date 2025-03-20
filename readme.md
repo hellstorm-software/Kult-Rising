@@ -20,6 +20,7 @@
 - adjust speed of giant ███ in level 1 cluster 1
 - added text to roof of the tower explaining the camera bug
 - removed skin preview in sandbox
+- launched v 0.1.6 on [itch](https://hellstorm-software.itch.io/kult-rising)
 
 ----------------------------------------------------------
 
