@@ -21,6 +21,7 @@
 - began building level 37 cluster 2
 - fixed the bug causing "E" to be the interact key in backrooms levels
 - fixed the bug causing the pause menu to not work on certain levels
+- added rudimentary zipline mechanic
 
 ----------------------------------------------------------
 
