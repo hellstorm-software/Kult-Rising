@@ -18,7 +18,7 @@
 ----------------------------------------------------------
 
 23.3.25
-- built level 37 cluster 2
+- began building level 37 cluster 2
 - fixed the bug causing "E" to be the interact key in backrooms levels
 
 ----------------------------------------------------------
