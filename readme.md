@@ -22,6 +22,7 @@
 - added Level: Open
     - moved the tower to level open
     - switched interactables to work with the proper character
+    - the lift to/from the tower now smoothly moves into place instead of teleporting
 
 ----------------------------------------------------------
 
