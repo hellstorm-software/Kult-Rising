@@ -21,6 +21,7 @@
 - added VEK counter to scoreboard
 - added Level: Open
     - moved the tower to level open
+    - switched interactables to work with the proper character
 
 ----------------------------------------------------------
 
