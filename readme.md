@@ -25,6 +25,7 @@
     - the lift to/from the tower now smoothly moves into place instead of teleporting
 - remade more robust save system
     - added video settings
+    - added mouse settings
 
 ----------------------------------------------------------
 
