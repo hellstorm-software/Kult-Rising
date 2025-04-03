@@ -20,6 +20,7 @@
 4.2.25
 - added VEK counter to scoreboard
 - added Level: Open
+    - moved the tower to level open
 
 ----------------------------------------------------------
 
