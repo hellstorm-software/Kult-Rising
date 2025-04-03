@@ -26,7 +26,8 @@
 - remade more robust save system
     - added video settings
     - added mouse settings
-    - added VEK 
+    - added VEK
+- added recoil to starting rifle
 
 ----------------------------------------------------------
 
