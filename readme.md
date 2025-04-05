@@ -23,6 +23,7 @@
     - zombies will always be level 5
 - added rudimentary selling system
     - added remove item from inventory
+    - now adds VEK to inventory
 - began adding weapon drop system
 
 ----------------------------------------------------------
