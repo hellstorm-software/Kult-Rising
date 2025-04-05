@@ -29,6 +29,7 @@
     - added scoreboard updating
 - began adding weapon drop system
 - began adding F3 screen to main game
+    - shows scoreboard
 
 ----------------------------------------------------------
 
