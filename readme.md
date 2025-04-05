@@ -20,6 +20,7 @@
 5.4.25
 - began adding poolrooms cluster 3 (10%)
 - added zombies to Level Ω
+    - zombies will always be level 5
 
 ----------------------------------------------------------
 
