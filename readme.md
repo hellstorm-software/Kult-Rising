@@ -22,6 +22,7 @@
 - added zombies to Level Ω
     - zombies will always be level 5
     - increased navigation area
+    - added 2 spawn zones
 - added rudimentary selling system
     - added remove item from inventory
     - now adds VEK to inventory
