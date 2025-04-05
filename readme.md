@@ -28,6 +28,7 @@
     - now adds VEK to inventory
     - added scoreboard updating
 - began adding weapon drop system
+- began adding F3 screen to main game
 
 ----------------------------------------------------------
 
