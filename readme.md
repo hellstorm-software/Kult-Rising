@@ -24,6 +24,7 @@
 - added rudimentary selling system
     - added remove item from inventory
     - now adds VEK to inventory
+    - added scoreboard updating
 - began adding weapon drop system
 
 ----------------------------------------------------------
