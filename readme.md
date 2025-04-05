@@ -21,6 +21,7 @@
 - began adding poolrooms cluster 3 (10%)
 - added zombies to Level Ω
     - zombies will always be level 5
+- added rudimentary selling system
 
 ----------------------------------------------------------
 
