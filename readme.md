@@ -32,6 +32,7 @@
 - began building scrap retrieval system
     - added testing scrap item
     - began adding scrap vendor
+- began making showcase/demo level
 
 ----------------------------------------------------------
 
