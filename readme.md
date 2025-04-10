@@ -19,6 +19,7 @@
 
 9.4.25
 - began integrating survival game kit
+    - added the lift on level open to the new interactable
 
 ----------------------------------------------------------
 
