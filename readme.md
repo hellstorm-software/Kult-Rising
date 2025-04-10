@@ -30,6 +30,7 @@
     - added separate discord button
 - began building scrap retrieval system
     - added testing scrap item
+    - began adding scrap vendor
 
 ----------------------------------------------------------
 
