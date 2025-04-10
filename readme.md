@@ -23,6 +23,7 @@
     - removed zombies from level open
     - added old mesh to new player model (anims need retargeted)
     - integrated building mechanics
+    - added a backpack to level open
 
 ----------------------------------------------------------
 
