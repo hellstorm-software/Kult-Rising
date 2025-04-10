@@ -21,6 +21,7 @@
 - began integrating survival game kit
     - added the lift on level open to the new interactable
     - removed zombies from level open
+    - added old mesh to new player model (anims need retargeted)
 
 ----------------------------------------------------------
 
