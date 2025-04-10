@@ -26,6 +26,7 @@
     - added a backpack to level open
 - remade menu screen
     - updated button styling and fonts
+    - added social links
 
 ----------------------------------------------------------
 
