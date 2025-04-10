@@ -27,7 +27,8 @@
 - remade menu screen
     - updated button styling and fonts
     - added social links
-    - added separate discord button 
+    - added separate discord button
+- began building scrap retrieval system
 
 ----------------------------------------------------------
 
