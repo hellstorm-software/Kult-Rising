@@ -33,6 +33,7 @@
 
 6.4.25 - 8.4.25
 - began building level 37 cluster 3 (15%)
+- added stormy skies to level Ω
 
 ----------------------------------------------------------
 
