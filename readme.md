@@ -17,6 +17,14 @@
 
 ----------------------------------------------------------
 
+10.4.25
+- began building scrap retrieval system
+    - added testing scrap item
+    - began adding scrap vendor
+- began making showcase/demo level
+
+----------------------------------------------------------
+
 9.4.25
 - began integrating survival game kit
     - added the lift on level open to the new interactable
@@ -29,10 +37,6 @@
     - added social links
     - added separate discord button
     - added music and rain sound
-- began building scrap retrieval system
-    - added testing scrap item
-    - began adding scrap vendor
-- began making showcase/demo level
 
 ----------------------------------------------------------
 
