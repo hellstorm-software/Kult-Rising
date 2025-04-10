@@ -24,6 +24,7 @@
 - began making showcase/demo level
     - added grid material for scale
     - added pooltile wall for reference
+    - added wallpaper wall for reference
 
 ----------------------------------------------------------
 
