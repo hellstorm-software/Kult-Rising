@@ -22,6 +22,7 @@
     - added testing scrap item
     - began adding scrap vendor
 - began making showcase/demo level
+    - added grid material for scale
 
 ----------------------------------------------------------
 
