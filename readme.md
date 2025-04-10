@@ -20,10 +20,10 @@
 9.4.25
 - began integrating survival game kit
     - added the lift on level open to the new interactable
-    - removed zombies from level open
+    - removed zombies from level Ω
     - added old mesh to new player model (anims need retargeted)
     - integrated building mechanics
-    - added a backpack to level open
+    - added a backpack to level Ω
 - remade menu screen
     - updated button styling and fonts
     - added social links
