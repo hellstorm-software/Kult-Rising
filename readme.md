@@ -29,6 +29,7 @@
     - added social links
     - added separate discord button
 - began building scrap retrieval system
+    - added testing scrap item
 
 ----------------------------------------------------------
 
