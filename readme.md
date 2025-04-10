@@ -25,6 +25,7 @@
     - integrated building mechanics
     - added a backpack to level open
 - remade menu screen
+    - updated button styling and fonts
 
 ----------------------------------------------------------
 
