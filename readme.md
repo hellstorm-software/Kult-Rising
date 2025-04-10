@@ -28,6 +28,7 @@
     - updated button styling and fonts
     - added social links
     - added separate discord button
+    - added music and rain sound
 - began building scrap retrieval system
     - added testing scrap item
     - began adding scrap vendor
