@@ -26,6 +26,7 @@
     - added pooltile wall for reference
     - added wallpaper wall for reference
     - added plaster wall for reference
+    - added linoleum wall for reference
 
 ----------------------------------------------------------
 
