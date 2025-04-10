@@ -27,6 +27,7 @@
 - remade menu screen
     - updated button styling and fonts
     - added social links
+    - added separate discord button 
 
 ----------------------------------------------------------
 
