@@ -21,6 +21,7 @@
 - added CCTV camera
     - CCTVs can now be remote accessed
 - reintegrated zipline with new character
+- added drug framework
 
 ----------------------------------------------------------
 
