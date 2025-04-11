@@ -23,6 +23,7 @@
 - reintegrated zipline with new character
 - added drug framework
     - added weed item
+    - added lsd item
 
 ----------------------------------------------------------
 
