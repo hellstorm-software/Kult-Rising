@@ -32,6 +32,7 @@
     - added major core
     - added elevator descend button with minor core check
     - added extract button with major core check
+- ADS in third person will now zoom in to a first person aiming
 
 ----------------------------------------------------------
 
