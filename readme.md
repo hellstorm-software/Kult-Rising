@@ -30,6 +30,7 @@
 - added to scrap framework
     - added minor core
     - added major core
+    - added elevator descend button with minor core check
 
 ----------------------------------------------------------
 
