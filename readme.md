@@ -19,6 +19,7 @@
 
 11.4.25
 - added CCTV camera
+    - CCTVs can now be remote accessed
 
 ----------------------------------------------------------
 
