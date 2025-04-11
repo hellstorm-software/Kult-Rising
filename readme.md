@@ -26,6 +26,7 @@
     - added lsd item
     - added meth item
     - added coke item
+    - added drug vendor
 
 ----------------------------------------------------------
 
