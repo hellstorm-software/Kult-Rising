@@ -17,6 +17,11 @@
 
 ----------------------------------------------------------
 
+11.4.25
+- added CCTV camera
+
+----------------------------------------------------------
+
 10.4.25
 - began building scrap retrieval system
     - added testing scrap item
