@@ -27,11 +27,12 @@
     - added meth item
     - added coke item
     - added drug vendor
+- added to scrap framework
 
 ----------------------------------------------------------
 
 10.4.25
-- began building scrap retrieval system
+- began building scrap retrieval framework
     - added testing scrap item
     - began adding scrap vendor
 - began making showcase/demo level
