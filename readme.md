@@ -33,6 +33,7 @@
     - added elevator descend button with minor core check
     - added extract button with major core check
 - ADS in third person will now zoom in to a first person aiming
+    - exiting ADS will now return to your original POV (FPS/TPS)
 
 ----------------------------------------------------------
 
