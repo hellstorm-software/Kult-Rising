@@ -28,6 +28,7 @@
     - added coke item
     - added drug vendor
 - added to scrap framework
+    - added minor core
 
 ----------------------------------------------------------
 
