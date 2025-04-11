@@ -25,6 +25,7 @@
     - added weed item
     - added lsd item
     - added meth item
+    - added coke item
 
 ----------------------------------------------------------
 
