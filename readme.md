@@ -34,6 +34,7 @@
     - added extract button with major core check
 - ADS in third person will now zoom in to a first person aiming
     - exiting ADS will now return to your original POV (FPS/TPS)
+    - fixed a bug that caused POV to not return to third person on certain occasions
 
 ----------------------------------------------------------
 
