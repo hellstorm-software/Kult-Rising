@@ -31,6 +31,7 @@
     - added minor core
     - added major core
     - added elevator descend button with minor core check
+    - added extract button with major core check
 
 ----------------------------------------------------------
 
