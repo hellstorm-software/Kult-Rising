@@ -24,6 +24,7 @@
 - added drug framework
     - added weed item
     - added lsd item
+    - added meth item
 
 ----------------------------------------------------------
 
