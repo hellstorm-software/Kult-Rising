@@ -29,6 +29,7 @@
     - added drug vendor
 - added to scrap framework
     - added minor core
+    - added major core
 
 ----------------------------------------------------------
 
