@@ -24,6 +24,7 @@
 - added stationary teleporter
 - fixed an issue that blocked ADS while in the air (shooting in the air is still broken)
 - began reintegrating swinging character
+    - integrated new enhanced input system
 
 ----------------------------------------------------------
 
