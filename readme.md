@@ -20,6 +20,7 @@
 12.4.25
 - reintegrated bodycam post process effects on first person mode
     - fixed an issue that caused post proccessing effects to stack every time POV was changed
+    - fixed an issue where focal distance made the retical unusable
 
 ----------------------------------------------------------
 
