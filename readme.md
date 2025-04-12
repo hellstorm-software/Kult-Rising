@@ -26,6 +26,7 @@
 - began reintegrating swinging sym
     - integrated new enhanced input system
     - added new mesh
+- properly integrated full save system
 
 ----------------------------------------------------------
 
