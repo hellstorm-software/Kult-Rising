@@ -23,7 +23,7 @@
     - fixed an issue where focal distance made the retical unusable
 - added stationary teleporter
 - fixed an issue that blocked ADS while in the air (shooting in the air is still broken)
-- began reintegrating swinging character
+- began reintegrating swinging sym
     - integrated new enhanced input system
     - added new mesh
 
