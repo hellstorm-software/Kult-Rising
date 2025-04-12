@@ -17,6 +17,11 @@
 
 ----------------------------------------------------------
 
+12.4.25
+- reintegrated bodycam post process effects on first person mode
+
+----------------------------------------------------------
+
 11.4.25
 - added CCTV camera
     - CCTVs can now be remote accessed
