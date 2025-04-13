@@ -28,8 +28,8 @@
     - began adding packaging station
     - added "baggie" item
     - added "jar" item
- 
-
+- added a level type check to character for loading purposes
+    
 ----------------------------------------------------------
 
 12.4.25
