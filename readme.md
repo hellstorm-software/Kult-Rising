@@ -24,7 +24,7 @@
 - updated showcase level
     - added serpents hand logo to vendor
     - nerfed swinging character boost amount
-
+    - added new models for drugs
 ----------------------------------------------------------
 
 12.4.25
