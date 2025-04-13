@@ -29,6 +29,7 @@
     - added "baggie" item
     - added "jar" item
 - added a level type check to character for loading purposes
+- integrated storage system
     
 ----------------------------------------------------------
 
