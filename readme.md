@@ -20,6 +20,7 @@
 13.4.25
 - began building level 37 cluster 4 (5%)
 - updated immersive mode to new character pawn
+- fixed a bug causing post processing fx to stack when ADS
 - updated showcase level
     - added serpents hand logo to vendor
     - nerfed swinging character boost amount
