@@ -19,6 +19,7 @@
 
 13.4.25
 - began building level 37 cluster 4 (5%)
+- updated immersive mode to new character pawn
 
 ----------------------------------------------------------
 
