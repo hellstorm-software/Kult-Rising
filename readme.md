@@ -27,6 +27,9 @@
     - added new models for drugs
     - began adding packaging station
     - added "baggie" item
+    - added "jar" item
+ 
+
 ----------------------------------------------------------
 
 12.4.25
