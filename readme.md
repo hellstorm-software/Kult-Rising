@@ -30,6 +30,7 @@
     - added "jar" item
 - added a level type check to character for loading purposes
 - integrated storage system
+- added harmful surface system (lava, acid, etc.)
     
 ----------------------------------------------------------
 
