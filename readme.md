@@ -21,7 +21,7 @@
 - began building level 37 cluster 4 (5%)
 - updated immersive mode to new character pawn
 - updated showcase level
-    - added serpents hand logo
+    - added serpents hand logo to vendor
     - 
 
 ----------------------------------------------------------
