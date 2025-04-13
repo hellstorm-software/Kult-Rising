@@ -22,7 +22,7 @@
 - updated immersive mode to new character pawn
 - updated showcase level
     - added serpents hand logo to vendor
-    - 
+    - nerfed swinging character boost amount
 
 ----------------------------------------------------------
 
