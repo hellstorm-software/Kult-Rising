@@ -25,6 +25,7 @@
     - added serpents hand logo to vendor
     - nerfed swinging character boost amount
     - added new models for drugs
+    - began adding packaging station
 ----------------------------------------------------------
 
 12.4.25
