@@ -26,6 +26,7 @@
     - nerfed swinging character boost amount
     - added new models for drugs
     - began adding packaging station
+    - added "baggie" item
 ----------------------------------------------------------
 
 12.4.25
