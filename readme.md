@@ -21,6 +21,7 @@
 - added minor core and major core 3D models
 - added USB model
 - added SSD model
+- began working on extraction map 1 (5%)
 
 ----------------------------------------------------------
 
