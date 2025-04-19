@@ -21,6 +21,7 @@
 - moved interactive door over to new interaction system
 - created a modular door system to remove clutter
 - added container for the credits on the menu screen
+- added post processing to the menu screen
 
 14.4.25-16.4.25
 - added minor core and major core 3D models
