@@ -17,6 +17,9 @@
 
 ----------------------------------------------------------
 
+18.4.25
+- moved interactive door over to new interaction system
+
 14.4.25-16.4.25
 - added minor core and major core 3D models
 - added USB model
