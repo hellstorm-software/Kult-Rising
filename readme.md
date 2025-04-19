@@ -25,6 +25,7 @@
 - added toggle for the post processing
 - added npc models to menu
 - rearranged menu geometry
+- replaced all the doors in all levels
 
 14.4.25-16.4.25
 - added minor core and major core 3D models
