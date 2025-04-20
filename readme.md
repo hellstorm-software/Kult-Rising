@@ -22,6 +22,7 @@
 - added gelato kush nug
 - added purple kush nug
 - added icon for weed nugs
+- added icon for ppsh
 
 ----------------------------------------------------------
 
