@@ -31,6 +31,7 @@
 - added 57-compact icon
 - added pure meth
 - added meth icons
+- added codeine
 - added lean
 
 ----------------------------------------------------------
