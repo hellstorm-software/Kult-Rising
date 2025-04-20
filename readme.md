@@ -27,6 +27,7 @@
 - added p500 pistol
 - added 57-Compact pistol
 - changed inventory size of pistols
+- added p500 icon
 
 ----------------------------------------------------------
 
