@@ -23,6 +23,7 @@
 - added AK-47
 - added USB item
 - added SSD item
+- added USD($) currency
 
 ----------------------------------------------------------
 
