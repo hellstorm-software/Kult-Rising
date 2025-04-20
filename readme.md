@@ -19,6 +19,7 @@
 
 20.4.25
 - added skyrunner OG nug
+- added gelato kush nug
 - added icon for weed nugs
 
 ----------------------------------------------------------
