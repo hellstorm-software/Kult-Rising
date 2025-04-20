@@ -21,7 +21,8 @@
 - packaged V 0.1.7
 - added PPSH
 - added AK-47
-- added USB
+- added USB item
+- added SSD item
 
 ----------------------------------------------------------
 
