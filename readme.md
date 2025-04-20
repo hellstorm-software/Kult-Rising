@@ -35,6 +35,7 @@
 - added lean
 - added all drug icons
 - added full stash to demo level
+- fixed a bug that caused certain levels to not load
 
 ----------------------------------------------------------
 
