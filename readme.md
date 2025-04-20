@@ -33,6 +33,7 @@
 - added meth icons
 - added codeine
 - added lean
+- added all drug icons
 
 ----------------------------------------------------------
 
