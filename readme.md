@@ -29,6 +29,8 @@
 - reordered backrooms exploration levels
 - added vhs interaction to new system
 
+----------------------------------------------------------
+
 14.4.25-16.4.25
 - added minor core and major core 3D models
 - added USB model
