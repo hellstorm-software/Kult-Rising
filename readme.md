@@ -26,6 +26,7 @@
 - added icon for ak47
 - added p500 pistol
 - added 57-Compact pistol
+- changed inventory size of pistols
 
 ----------------------------------------------------------
 
