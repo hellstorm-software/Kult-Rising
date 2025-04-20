@@ -24,6 +24,7 @@
 - added icon for weed nugs
 - added icon for ppsh
 - added icon for ak47
+- added p500 pistol
 
 ----------------------------------------------------------
 
