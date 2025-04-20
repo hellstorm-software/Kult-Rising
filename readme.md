@@ -30,6 +30,7 @@
 - added p500 icon
 - added 57-compact icon
 - added pure meth
+- added meth icons
 
 ----------------------------------------------------------
 
