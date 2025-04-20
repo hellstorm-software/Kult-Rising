@@ -34,6 +34,7 @@
 - added codeine
 - added lean
 - added all drug icons
+- added full stash to demo level
 
 ----------------------------------------------------------
 
