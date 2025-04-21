@@ -21,6 +21,7 @@
 - added zentrite alloy
 - added icons for spliff, joint, and blunt
 - adjusted inventory size of iron ingots
+adjusted inventory size of stone (2x2 -> 2x1)
 
 ----------------------------------------------------------
 
