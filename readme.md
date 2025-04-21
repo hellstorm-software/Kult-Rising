@@ -19,6 +19,7 @@
 
 21.4.25
 - added zentrite alloy
+- added icons for spliff, joint, and blunt
 
 ----------------------------------------------------------
 
