@@ -43,6 +43,7 @@
 - added full stash to demo level
 - fixed a bug that caused certain levels to not load
 - added small and regular wallets with their according icons
+- added spliffs, joints, doobies, and blunts
 
 ----------------------------------------------------------
 
