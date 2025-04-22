@@ -23,6 +23,7 @@
 - adjusted inventory size of iron ingots
 - adjusted inventory size of stone (2x2 -> 2x1)
 - began adding SCP-x014-3
+- fixed a bug that caused certain levels to not save
 
 ----------------------------------------------------------
 
