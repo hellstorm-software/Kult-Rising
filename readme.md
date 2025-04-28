@@ -23,6 +23,7 @@
 - added duffle bags with random spawning loot (6x3)
 - added a second island to level Ω
     - added pink poolrooms entrance
+- began building zentrite cluster of level Ω
 
 ----------------------------------------------------------
 
