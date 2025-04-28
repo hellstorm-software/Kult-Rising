@@ -21,6 +21,7 @@
 - added bodies with random spawning loot (3x5 + 1x3)
 - added computers with random spawning parts (4x2)
 - added duffle bags with random spawning loot (6x3)
+- added a second island to level Ω
 
 ----------------------------------------------------------
 
