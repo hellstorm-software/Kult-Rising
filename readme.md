@@ -20,6 +20,7 @@
 22.4.25-27.4.25
 - added bodies with random spawning loot
 - added computers with random spawning parts
+- added duffle bags with random spawning loot (6x3)
 
 ----------------------------------------------------------
 
