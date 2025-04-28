@@ -31,7 +31,8 @@
 - began overhauling [KR wiki hub 
 ](http://sxlaris.wikidot.com/kult-rising)
 - began overhauling [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
-- added VEK mesh (v. 1)
+- added VEK model (v. 1)
+- added USD model (v. 1)
 ----------------------------------------------------------
 
 21.4.25
