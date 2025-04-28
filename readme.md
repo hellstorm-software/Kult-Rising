@@ -24,6 +24,7 @@
 - added a second island to level Ω
     - added pink poolrooms entrance
 - began building zentrite cluster of level Ω
+    - blocked out the first village of the main island
 
 ----------------------------------------------------------
 
