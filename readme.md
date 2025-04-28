@@ -33,6 +33,7 @@
 - began overhauling [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
 - added VEK model (v. 1)
 - added USD model (v. 1)
+- expanded level 37 cluster 4 (7%)
 ----------------------------------------------------------
 
 21.4.25
