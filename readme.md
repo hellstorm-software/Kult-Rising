@@ -30,6 +30,7 @@
 - began overhauling [main site](https://hellstorm-software.github.io/theGrid/core/kultRising.html)
 - began overhauling [KR wiki hub 
 ](http://sxlaris.wikidot.com/kult-rising)
+- began overhauling [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
 ----------------------------------------------------------
 
 21.4.25
