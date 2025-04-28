@@ -24,6 +24,7 @@
 - added a second island to level Ω
     - added pink poolrooms entrance
     - added level save/switch system to pink entrance
+    - added teleporter from tower to island (temporary)
 - began building zentrite cluster of level Ω
     - blocked out the first village of the main island
 
