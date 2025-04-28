@@ -27,6 +27,7 @@
     - added teleporter from tower to island (temporary)
 - began building zentrite cluster of level Ω
     - blocked out the first village of the main island
+- began overhauling [main site](https://hellstorm-software.github.io/theGrid/core/kultRising.html)
 
 ----------------------------------------------------------
 
