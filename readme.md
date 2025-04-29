@@ -24,6 +24,7 @@
 - added SCP-018 (1x1)
 - added SCP-010 (3x2)
 - added SCP-500 (1x1)
+- reformatted sandbox level
 
 ----------------------------------------------------------
 
