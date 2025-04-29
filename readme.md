@@ -17,6 +17,11 @@
 
 ----------------------------------------------------------
 
+28.4.25
+- added SCP-127 (3x2)
+
+----------------------------------------------------------
+
 22.4.25-27.4.25
 - added bodies with random spawning loot (3x5 + 1x3)
 - added computers with random spawning parts (4x2)
