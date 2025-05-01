@@ -20,6 +20,7 @@
 1.5.25
 - adjusted Furnace size (2x2 -> 2x4)
 - added Shellbox Storage (4x3)
+- added to level 0 cluster 2
 
 ----------------------------------------------------------
 
