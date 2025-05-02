@@ -23,6 +23,7 @@
     - added small procedural room module
         - added 3 demo rooms
     - added large procedural room module
+        - added 3 demo rooms
 
 ----------------------------------------------------------
 
