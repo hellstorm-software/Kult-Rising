@@ -28,6 +28,7 @@
 - added to level 0 cluster 2 (100%)
     - added 2 new exits and ~ 8 new areas
 - fixed an issue causing lootable duffle bags to display the wrong name in the UI
+- fixed an issue causing lootable containers that were not chests to appear as chests on certain occasions
 
 ----------------------------------------------------------
 
