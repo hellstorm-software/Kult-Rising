@@ -24,6 +24,7 @@
         - added 3 demo rooms
     - added large procedural room module
         - added 3 demo rooms
+- removed dev items from lootable containers lootpool
 
 ----------------------------------------------------------
 
