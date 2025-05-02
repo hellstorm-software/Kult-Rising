@@ -19,6 +19,7 @@
 
 2.5.25
 - lootable bodies now spawn with random skins
+- began building procedural room system
 
 ----------------------------------------------------------
 
