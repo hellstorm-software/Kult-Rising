@@ -26,6 +26,7 @@
         - added 3 demo rooms
 - removed dev items from lootable containers lootpool
 - added to level 0 cluster 2 (100%)
+    - added 2 new exits and ~ 8 new areas
 
 ----------------------------------------------------------
 
