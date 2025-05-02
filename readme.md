@@ -29,6 +29,7 @@
     - added 2 new exits and ~ 8 new areas
 - fixed an issue causing lootable duffle bags to display the wrong name in the UI
 - fixed an issue causing lootable containers that were not chests to appear as chests on certain occasions
+- updated [website](https://hellstorm-software.github.io/theGrid/core/kultRising.html)
 
 ----------------------------------------------------------
 
