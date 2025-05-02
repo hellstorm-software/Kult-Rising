@@ -21,6 +21,7 @@
 - lootable bodies now spawn with random skins
 - began building procedural room system
     - added small procedural room module
+    - added large procedural room module
 
 ----------------------------------------------------------
 
