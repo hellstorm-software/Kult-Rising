@@ -41,6 +41,7 @@
     - added movement
     - added animations
 - added new water material
+- added reactive water material
 
 ----------------------------------------------------------
 
