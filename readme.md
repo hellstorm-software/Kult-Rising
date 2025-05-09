@@ -5,7 +5,7 @@
 
 <p style="font-size: smaller;">
     Info: <a href="http://sxlaris.wikidot.com/kult-rising" target="_blank">http://sxlaris.wikidot.com/kult-rising</a><br>
-    Roadmap: <a href="https://hellstorm-software.github.io/theGrid/core/kultRising.html" target="_blank">http://sxlaris.wikidot.com/kult-rising:roadmap</a><br>
+    Roadmap: <a href="https://hellstorm-software.github.io/theGrid/core/kultRising.html" target="_blank">http://sxlarwasteland.com/kult-rising</a><br>
     this game is a licensed trademark of <a href="https://sxlarwasteland.com">Sxlar Wasteland</a> <br>
     the <b>LORE</b> of this game is liscenced under <a href="http://sxlaris.wikidot.com/licensing-and-third-party-content"> CC BY-SA</a><br>
     Sxlaris Wiki: http://sxlaris.wikidot.com/<br>
