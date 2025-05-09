@@ -34,6 +34,7 @@
 - added Neon Garden wall meshes
 - added Neon Garden platform meshes
 - updated [website](https://hellstorm-software.github.io/theGrid/core/kultRising.html)
+- updated [wiki](http://sxlaris.wikidot.com/kult-rising)
 
 ----------------------------------------------------------
 
