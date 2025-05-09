@@ -29,10 +29,11 @@
     - added red EBrut materials
     - added green EBrut materials
     - added white EBrut materials
-- added Neon Garden doorway meshes
-- added Neon Garden crate and pallet meshes
-- added Neon Garden wall meshes
-- added Neon Garden platform meshes
+- added Neon Garden meshes
+    - added Neon Garden doorway meshes
+    - added Neon Garden crate and pallet meshes
+    - added Neon Garden wall meshes
+    - added Neon Garden platform meshes
 - updated [website](https://hellstorm-software.github.io/theGrid/core/kultRising.html)
 - updated [wiki](http://sxlaris.wikidot.com/kult-rising)
 
