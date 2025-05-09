@@ -45,6 +45,7 @@
 - fully blocked out test extraction level 1
     - added map geometry
     - added lighting
+    - added chests
 
 ----------------------------------------------------------
 
