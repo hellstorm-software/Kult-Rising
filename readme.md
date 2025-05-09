@@ -38,6 +38,7 @@
 - updated [wiki](http://sxlaris.wikidot.com/kult-rising)
 - added propane tank mesh
 - began adding idle AI to NPCs
+    - added movement
 
 ----------------------------------------------------------
 
