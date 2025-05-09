@@ -46,6 +46,7 @@
     - added map geometry
     - added lighting
     - added chests
+    - added elevators
 
 ----------------------------------------------------------
 
