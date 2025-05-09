@@ -42,7 +42,7 @@
     - added animations
 - added new water material
 - added reactive water material
-- fully blocked out test extraction level 1
+- fully blocked out test extraction level 1 (100%)
     - added map geometry
     - added lighting
     - added chests
