@@ -25,7 +25,7 @@
 - added purple EBrut materials
 - added red EBrut materials
 - added green EBrut materials
-- added EBrut doorways
+- added Neon Garden doorway meshes
 
 ----------------------------------------------------------
 
