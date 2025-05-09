@@ -40,6 +40,7 @@
 - began adding idle AI to NPCs
     - added movement
     - added animations
+- added new water material
 
 ----------------------------------------------------------
 
