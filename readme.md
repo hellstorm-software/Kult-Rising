@@ -20,6 +20,7 @@
 3.5.25 - 8.5.25
 - began blocking out cluster 1 of level 14 (15%)
 - added purple EBrut materials
+- added red EBrut materials
 
 ----------------------------------------------------------
 
