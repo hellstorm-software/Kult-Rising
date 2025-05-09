@@ -22,6 +22,7 @@
     - added terain with barriers
     - added giant automoton to The Fall
     - began blocking out POI-1(placeholder)(65%)
+- added EBrut materials
 - added purple EBrut materials
 - added red EBrut materials
 - added green EBrut materials
