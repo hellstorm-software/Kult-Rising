@@ -47,6 +47,7 @@
     - added lighting
     - added chests
     - added elevators
+    - added reactive water to lower levels
 
 ----------------------------------------------------------
 
