@@ -23,6 +23,7 @@
     - added giant automoton to The Fall
     - began blocking out POI-1(placeholder)(65%)
         - added the two main buildings and main street
+        - marked locations of smaller buildings
 - added EBrut materials
     - added purple EBrut materials
     - added red EBrut materials
