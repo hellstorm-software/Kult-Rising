@@ -21,7 +21,7 @@
 - began blocking out cluster 1 of level 14 (15%)
     - added terain with barriers
     - added giant automoton to The Fall
-    - began blocking out POI1(placeholder)(65%)
+    - began blocking out POI-1(placeholder)(65%)
 - added purple EBrut materials
 - added red EBrut materials
 - added green EBrut materials
