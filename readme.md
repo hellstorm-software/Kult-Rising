@@ -48,6 +48,7 @@
     - added chests
     - added elevators
     - added reactive water to lower levels
+    - added giant chest in center
 
 ----------------------------------------------------------
 
