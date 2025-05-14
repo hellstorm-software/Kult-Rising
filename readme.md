@@ -21,6 +21,7 @@
     - began creating POI-2(placeholder)
     - replace glass placeholder material with glass material
     - added destructable element blockouts
+    - added indestructable element blockouts
 - added reactive water system
     - integrated reactive system with existing water materials
     - created "stillwater" reactive material
