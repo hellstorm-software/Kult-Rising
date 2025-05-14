@@ -18,10 +18,11 @@
 
 9.5.25 - 14.5.25
 - blocked out more of cluster dz of level 14
+
 ----------------------------------------------------------
 
 3.5.25 - 8.5.25
-- began blocking out cluster 1 of level 14 (15%)
+- began blocking out cluster dz of level 14 (15%)
     - added terain with barriers
     - added giant automoton to The Fall
     - began blocking out POI-1(placeholder)(65%)
