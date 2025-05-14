@@ -21,6 +21,7 @@
 - added reactive water system
     - integrated reactive system with existing water materials
     - created "stillwater" reactive material
+    - created level 37 water reactive material
 
 ----------------------------------------------------------
 
