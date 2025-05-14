@@ -20,6 +20,7 @@
 - blocked out more of cluster dz of level 14 (17%)
     - began creating POI-2(placeholder)
     - replace glass placeholder material with glass material
+    - added destructable element blockouts
 - added reactive water system
     - integrated reactive system with existing water materials
     - created "stillwater" reactive material
