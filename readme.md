@@ -48,6 +48,7 @@
     - began adding SCP-x078 article
     - began adding SCP-x020 article
     - began adding SCP-x043 article
+    - began adding SCP-x051 article
 
 ----------------------------------------------------------
 
