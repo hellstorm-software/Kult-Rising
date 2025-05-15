@@ -41,6 +41,7 @@
 - began creating new ammo system (testing)
     - ammo types: rifle, pistol(light), shotgun shells
     - mags are loaded with bullets in inventory -> guns are loaded with mags in hand
+    - guns can also be loaded by hand without mags (each bullet loaded individually) much more slowly
 
 ----------------------------------------------------------
 
