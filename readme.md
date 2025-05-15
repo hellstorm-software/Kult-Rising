@@ -18,7 +18,7 @@
 
 9.5.25 - 15.5.25
 - blocked out more of cluster dz of level 14 (17%)
-    - began creating POI-2(placeholder)
+    - began creating POI-2(placeholder) (50%)
     - replace glass placeholder material with glass material
     - added destructable element blockouts
     - added indestructable element blockouts
