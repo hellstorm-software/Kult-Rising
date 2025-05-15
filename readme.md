@@ -28,6 +28,7 @@
     - created "stillwater" reactive material
     - created level 37 water reactive material
 - added SCP-127 functionality
+    - added skeletal mesh
 
 ----------------------------------------------------------
 
