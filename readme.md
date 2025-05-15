@@ -40,6 +40,7 @@
     - lowered fire rate
 - began creating new ammo system (testing)
     - ammo types: rifle, pistol(light), shotgun shells
+    - mags are loaded with bullets in inventory -> guns are loaded with mags in hand
 
 ----------------------------------------------------------
 
