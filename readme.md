@@ -61,6 +61,7 @@
     - began adding Level 94 article
     - began adding Level 88 article
     - began adding Level 19 article
+    - began adding Level FOG article
 
 ----------------------------------------------------------
 
