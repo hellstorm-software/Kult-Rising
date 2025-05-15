@@ -23,6 +23,7 @@
     - added destructable element blockouts
     - added indestructable element blockouts
     - added zipline to minor location
+    - began creating POI-3(placeholder) (30%)
 - added reactive water system
     - integrated reactive system with existing water materials
     - created "stillwater" reactive material
