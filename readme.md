@@ -60,6 +60,7 @@
     - began adding SCP-x027 article
     - began adding Level 94 article
     - began adding Level 88 article
+    - began adding Level 19 article
 
 ----------------------------------------------------------
 
