@@ -39,6 +39,7 @@
     - increased damage
     - lowered fire rate
 - began creating new ammo system (testing)
+    - ammo types: rifle, pistol(light), shotgun shells
 
 ----------------------------------------------------------
 
