@@ -33,6 +33,7 @@
     - increased fire rate
     - set to automatic fire by default
 - added AK-47 functionality
+- added OPP rifle functionality
 
 ----------------------------------------------------------
 
