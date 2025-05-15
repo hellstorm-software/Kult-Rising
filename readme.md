@@ -37,6 +37,7 @@
 - added OPP rifle functionality
     - added skeletal mesh
     - increased damage
+    - lowered fire rate
 
 ----------------------------------------------------------
 
