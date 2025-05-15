@@ -17,7 +17,7 @@
 ----------------------------------------------------------
 
 9.5.25 - 15.5.25
-- blocked out more of cluster dz of level 14 (17%)
+- blocked out more of cluster DS of level 14 (17%)
     - began creating POI-2(placeholder) (50%)
         - added destructable element blockouts
         - added indestructable element blockouts
@@ -66,7 +66,7 @@
 ----------------------------------------------------------
 
 3.5.25 - 8.5.25
-- began blocking out cluster dz of level 14 (15%)
+- began blocking out cluster DS of level 14 (15%)
     - added terain with barriers
     - added giant automoton to The Fall
     - began blocking out POI-1(placeholder)(65%)
