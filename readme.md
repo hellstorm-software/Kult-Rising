@@ -30,6 +30,7 @@
 - added SCP-127 functionality
     - added skeletal mesh
     - increased fire rate
+    - set to automatic fire by default
 
 ----------------------------------------------------------
 
