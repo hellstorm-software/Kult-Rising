@@ -32,6 +32,7 @@
     - added skeletal mesh
     - increased fire rate
     - set to automatic fire by default
+- added AK-47 functionality
 
 ----------------------------------------------------------
 
