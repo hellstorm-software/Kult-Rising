@@ -57,6 +57,7 @@
     - began adding SCP-x067 article
     - began adding SCP-x024 article
     - began adding SCP-x084 article
+    - began adding SCP-x027 article
 
 ----------------------------------------------------------
 
