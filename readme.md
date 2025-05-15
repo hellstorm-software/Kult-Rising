@@ -46,6 +46,7 @@
 - updated [wiki](http://sxlaris.wikidot.com/kult-rising)
     - began adding SCP-x079 article
     - began adding SCP-x078 article
+    - began adding SCP-x020 article
 
 ----------------------------------------------------------
 
