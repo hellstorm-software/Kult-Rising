@@ -19,11 +19,11 @@
 9.5.25 - 15.5.25
 - blocked out more of cluster dz of level 14 (17%)
     - began creating POI-2(placeholder) (50%)
-    - replace glass placeholder material with glass material
-    - added destructable element blockouts
-    - added indestructable element blockouts
-    - added zipline to minor location
+        - added destructable element blockouts
+        - added indestructable element blockouts
+        - added zipline to minor location
     - began creating POI-3(placeholder) (30%)
+    - replaced glass placeholder material with glass material
 - added reactive water system
     - integrated reactive system with existing water materials
     - created "stillwater" reactive material
