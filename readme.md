@@ -45,6 +45,7 @@
 - updated [website](https://hellstorm-software.github.io/theGrid/core/kultRising.html)
 - updated [wiki](http://sxlaris.wikidot.com/kult-rising)
     - began adding SCP-x079 article
+    - began adding SCP-x078 article
 
 ----------------------------------------------------------
 
