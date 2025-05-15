@@ -38,6 +38,7 @@
     - added skeletal mesh
     - increased damage
     - lowered fire rate
+- began creating new ammo system
 
 ----------------------------------------------------------
 
