@@ -97,6 +97,7 @@
         - added Baritone to [slot x033](http://sxlaris.wikidot.com/scp-x033)
         - added F.O.H.M to [slot x034](http://sxlaris.wikidot.com/scp-x034)
         - added Almond Water to [slot x040](http://sxlaris.wikidot.com/scp-x040)
+        - added Clyde to [slot x043](http://sxlaris.wikidot.com/scp-x043)
 
 ----------------------------------------------------------
 
