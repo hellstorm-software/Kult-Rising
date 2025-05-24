@@ -71,6 +71,7 @@
         - added Kolossal Swords
         - added War Hammers
             - added [SCP-x015](http://sxlaris.wikidot.com/scp-x015)
+            - added [Mjolnir](http://sxlaris.wikidot.com/mjolnir)
         - added Daggers
         - added Whips
 
