@@ -46,6 +46,7 @@
         - added Pistols
             - added [610-cK](http://sxlaris.wikidot.com/610-ck)
             - added [610-cKS](http://sxlaris.wikidot.com/610-cks)
+            - added [M1911](http://sxlaris.wikidot.com/m1911)
         - added Launchers
         - added Bows
         - added Straight Swords
