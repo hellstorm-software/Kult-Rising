@@ -96,6 +96,7 @@
         - added Venus Fly Spitters to slot [x027](http://sxlaris.wikidot.com/scp-x027)
         - added Baritone to [slot x033](http://sxlaris.wikidot.com/scp-x033)
         - added F.O.H.M to [slot x034](http://sxlaris.wikidot.com/scp-x034)
+        - added Almond Water to [slot x040](http://sxlaris.wikidot.com/scp-x040)
 
 ----------------------------------------------------------
 
