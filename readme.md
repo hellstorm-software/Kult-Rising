@@ -32,6 +32,7 @@
         - added Bolties
             - added [SR-84](http://sxlaris.wikidot.com/sr-84)
             - added [R-556](http://sxlaris.wikidot.com/r556)
+            - added [ow VIPER](http://sxlaris.wikidot.com/owvpr-215)
         - added DMRs
         - added Carbines
         - added Casters
