@@ -107,6 +107,7 @@
         - added Partygoers to [slot x067](http://sxlaris.wikidot.com/scp-x067)
         - added Mutazyne to [slot x078](http://sxlaris.wikidot.com/scp-x078)
         - added Compound S-14 to [slot x079](http://sxlaris.wikidot.com/scp-x079)
+        - added Pteranodons to [slot x081](http://sxlaris.wikidot.com/scp-x081)
 
 ----------------------------------------------------------
 
