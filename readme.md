@@ -25,6 +25,7 @@
         - dark accent: (36, 19, 14)[brown]
     - added [weapon hub](http://sxlaris.wikidot.com/weapon-hub)
         - added description
+        - added table of contents
 
 ----------------------------------------------------------
 
