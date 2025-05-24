@@ -48,6 +48,7 @@
             - added [610-cKS](http://sxlaris.wikidot.com/610-cks)
             - added [M1911](http://sxlaris.wikidot.com/m1911)
             - added [P500](http://sxlaris.wikidot.com/p500)
+            - added [DE-SH](http://sxlaris.wikidot.com/de-sh)
         - added Launchers
         - added Bows
         - added Straight Swords
