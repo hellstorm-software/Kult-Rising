@@ -40,6 +40,7 @@
             - added [drSR-50](http://sxlaris.wikidot.com/drsr-60)
         - added SMGs
             - added [SCP-127](http://sxlaris.wikidot.com/scp-127)
+                - ported article and image over from SCP wiki
         - added Carbines
             - added [ARN-220](http://sxlaris.wikidot.com/arn-220)
             - added [ow SAR](http://sxlaris.wikidot.com/owsar)
