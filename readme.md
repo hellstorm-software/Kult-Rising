@@ -30,6 +30,7 @@
             - added [AK-47](http://sxlaris.wikidot.com/ak-47)
             - added [AKM](http://sxlaris.wikidot.com/akm)
         - added Bolties
+            - added [SR-84](http://sxlaris.wikidot.com/sr-84)
         - added DMRs
         - added Carbines
         - added Casters
