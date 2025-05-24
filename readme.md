@@ -42,6 +42,7 @@
         - added Carbines
         - added Casters
             - added [Oak Wand](http://sxlaris.wikidot.com/oak-wand)
+            - added [Copper Wand](http://sxlaris.wikidot.com/copper-wand)
         - added Shotguns
             - added [M1982](http://sxlaris.wikidot.com/m1982)
         - added Pistols
