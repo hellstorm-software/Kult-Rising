@@ -30,6 +30,7 @@
         - added Bolties
         - added DMRs
         - added Carbines
+        - added Casters
 
 ----------------------------------------------------------
 
