@@ -40,6 +40,7 @@
         - added Curved Swords
         - added Katanas
         - added Kolossal Swords
+        - added War Hammers
 
 ----------------------------------------------------------
 
