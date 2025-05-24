@@ -82,6 +82,7 @@
     - updated Kult Rising [wiki page](http://sxlaris.wikidot.com/kult-rising)
         - added link to entity page
         - fixed an issue causing some of the boxes to link to the wrong pages
+    - updated home page
 
 ----------------------------------------------------------
 
