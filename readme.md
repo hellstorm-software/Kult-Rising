@@ -90,7 +90,8 @@
         - added moth jelly to [slot x006](http://sxlaris.wikidot.com/scp-x006)
         - added the Giant's Bird to [slot x015](http://sxlaris.wikidot.com/scp-x015)
         - added Megalodon to [slot x017](http://sxlaris.wikidot.com/scp-x017)
-        - added Bounce Pad to slot [x018](http://sxlaris.wikidot.com/scp-x018)
+        - added Bounce Pad to [slot x018](http://sxlaris.wikidot.com/scp-x018)
+        - added Glimmer to [slot x020](http://sxlaris.wikidot.com/scp-x020)
 
 ----------------------------------------------------------
 
