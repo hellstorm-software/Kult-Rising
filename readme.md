@@ -51,6 +51,7 @@
             - added [DE-SH](http://sxlaris.wikidot.com/de-sh)
             - added [DE-SHr](http://sxlaris.wikidot.com/de-shr)
         - added Launchers
+            - added [RPG-7 LR](http://sxlaris.wikidot.com/rpg-7lr)
         - added Bows
         - added Straight Swords
         - added Great Swords
