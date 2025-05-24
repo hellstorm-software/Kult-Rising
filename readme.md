@@ -76,6 +76,7 @@
             - added [VF7](http://sxlaris.wikidot.com/vf7)
         - added Whips
             - added [Woven Flame](http://sxlaris.wikidot.com/woven-flame)
+            - added [Black Rose](http://sxlaris.wikidot.com/black-rose-whip)
 
 ----------------------------------------------------------
 
