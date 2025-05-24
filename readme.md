@@ -33,6 +33,7 @@
         - added Casters
         - added Shotguns
         - added Pistols
+        - added Launchers
 
 ----------------------------------------------------------
 
