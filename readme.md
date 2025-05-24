@@ -31,6 +31,7 @@
         - added DMRs
         - added Carbines
         - added Casters
+        - added Shotguns
 
 ----------------------------------------------------------
 
