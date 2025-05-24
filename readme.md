@@ -55,6 +55,7 @@
             - added [SCP-x010](http://sxlaris.wikidot.com/scp-x010:weapon)
         - added Bows
             - added [Wooden Bow](http://sxlaris.wikidot.com/wooden-bow)
+            - added [Recurve Bow](http://sxlaris.wikidot.com/recurve-bow)
         - added Straight Swords
         - added Great Swords
         - added Curved Swords
