@@ -34,6 +34,7 @@
             - added [R-556](http://sxlaris.wikidot.com/r556)
             - added [ow VIPER](http://sxlaris.wikidot.com/owvpr-215)
             - added [Mosin Infantry rifle](http://sxlaris.wikidot.com/mosin-infantry)
+            - added [Mostin Sniper rifle](http://sxlaris.wikidot.com/mosin-sniper)
         - added DMRs
         - added Carbines
         - added Casters
