@@ -34,6 +34,7 @@
         - added Shotguns
         - added Pistols
         - added Launchers
+        - added Bows
 
 ----------------------------------------------------------
 
