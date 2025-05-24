@@ -67,6 +67,7 @@
         - added Great Swords
         - added Curved Swords
         - added Katanas
+            - added [Moonlit](http://sxlaris.wikidot.com/moonlit)
         - added Kolossal Swords
         - added War Hammers
         - added Daggers
