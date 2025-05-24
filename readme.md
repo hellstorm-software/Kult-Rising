@@ -75,6 +75,7 @@
         - added Daggers
             - added [VF7](http://sxlaris.wikidot.com/vf7)
         - added Whips
+            - added [Woven Flame](http://sxlaris.wikidot.com/woven-flame)
 
 ----------------------------------------------------------
 
