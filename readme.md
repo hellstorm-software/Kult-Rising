@@ -28,6 +28,7 @@
         - added table of contents
         - added ARs
         - added Bolties
+        - added DMRs
 
 ----------------------------------------------------------
 
