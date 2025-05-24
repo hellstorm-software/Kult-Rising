@@ -41,6 +41,7 @@
         - added Katanas
         - added Kolossal Swords
         - added War Hammers
+        - added Daggers
 
 ----------------------------------------------------------
 
