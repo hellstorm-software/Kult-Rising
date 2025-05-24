@@ -37,6 +37,7 @@
         - added Bows
         - added Straight Swords
         - added Great Swords
+        - added Curved Swords
 
 ----------------------------------------------------------
 
