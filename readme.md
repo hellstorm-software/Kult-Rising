@@ -56,6 +56,7 @@
         - added Bows
             - added [Wooden Bow](http://sxlaris.wikidot.com/wooden-bow)
             - added [Recurve Bow](http://sxlaris.wikidot.com/recurve-bow)
+            - added [VP-70](http://sxlaris.wikidot.com/vp-70)
         - added Straight Swords
         - added Great Swords
         - added Curved Swords
