@@ -86,6 +86,7 @@
         - added ["related" section](http://sxlaris.wikidot.com/front-page:related) from the backrooms wiki
             - changed sections to SCPs, Backrooms Levels, Weapons, GOIs, Technology, POIs, Locations, and (game)Mechanics
             - updated background images for SCPs, Backrooms, and Weapons
+    - updated SCP [Series-S](http://sxlaris.wikidot.com/scp-series)
 
 ----------------------------------------------------------
 
