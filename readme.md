@@ -29,6 +29,7 @@
         - added ARs
         - added Bolties
         - added DMRs
+        - added Carbines
 
 ----------------------------------------------------------
 
