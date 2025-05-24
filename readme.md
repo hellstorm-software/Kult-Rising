@@ -98,6 +98,7 @@
         - added F.O.H.M to [slot x034](http://sxlaris.wikidot.com/scp-x034)
         - added Almond Water to [slot x040](http://sxlaris.wikidot.com/scp-x040)
         - added Clyde to [slot x043](http://sxlaris.wikidot.com/scp-x043)
+        - added Procoptodons to [slot x047](http://sxlaris.wikidot.com/scp-x047)
 
 ----------------------------------------------------------
 
