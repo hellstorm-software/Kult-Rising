@@ -88,6 +88,7 @@
             - updated background images for SCPs, Backrooms, and Weapons
     - updated SCP [Series-S](http://sxlaris.wikidot.com/scp-series)
         - added moth jelly to [slot x006](http://sxlaris.wikidot.com/scp-x006)
+        - added the Giant's Bird to [slot x015](http://sxlaris.wikidot.com/scp-x015)
 
 ----------------------------------------------------------
 
