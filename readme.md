@@ -103,6 +103,7 @@
         - added Shambling Mound to [slot x052](http://sxlaris.wikidot.com/scp-x052)
         - added Pyrobast to [slot x058](http://sxlaris.wikidot.com/scp-x058)
         - added Scylla and Charybdis to [slot x062](http://sxlaris.wikidot.com/scp-x062)
+        - added Saffryn to [slot x065](http://sxlaris.wikidot.com/scp-x065)
 
 ----------------------------------------------------------
 
