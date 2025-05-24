@@ -26,6 +26,7 @@
     - added [weapon hub](http://sxlaris.wikidot.com/weapon-hub)
         - added description
         - added table of contents
+        - added ARs
 
 ----------------------------------------------------------
 
