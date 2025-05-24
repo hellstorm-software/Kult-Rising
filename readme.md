@@ -36,6 +36,7 @@
             - added [Mosin Infantry rifle](http://sxlaris.wikidot.com/mosin-infantry)
             - added [Mostin Sniper rifle](http://sxlaris.wikidot.com/mosin-sniper)
         - added DMRs
+            - added drSR-50
         - added Carbines
         - added Casters
         - added Shotguns
