@@ -20,7 +20,7 @@
 - updated [wiki](http://sxlaris.wikidot.com)
     - updated "Dimension-X" [theme](https://scp-sandbox-3.wikidot.com/theme:dimension-x)
     - added new color scheme
-        - main accent: (93, 56, 255)[blurple]
+        - main accent: (93, 56, 255)[washed out blurple]
         - med accent:  (255, 76, 66)[red]
         - dark accent: (36, 19, 14)[brown]
 
