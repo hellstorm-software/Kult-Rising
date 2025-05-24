@@ -40,6 +40,7 @@
         - added SMGs
             - added [SCP-127](http://sxlaris.wikidot.com/scp-127)
         - added Carbines
+            - added [ARN-220](http://sxlaris.wikidot.com/arn-220)
         - added Casters
             - added [Oak Wand](http://sxlaris.wikidot.com/oak-wand)
             - added [Copper Wand](http://sxlaris.wikidot.com/copper-wand)
