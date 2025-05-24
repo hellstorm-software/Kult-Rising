@@ -36,6 +36,7 @@
         - added Launchers
         - added Bows
         - added Straight Swords
+        - added Great Swords
 
 ----------------------------------------------------------
 
