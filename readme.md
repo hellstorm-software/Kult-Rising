@@ -32,6 +32,7 @@
         - added Carbines
         - added Casters
         - added Shotguns
+        - added Pistols
 
 ----------------------------------------------------------
 
