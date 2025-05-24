@@ -54,6 +54,7 @@
             - added [RPG-7 LR](http://sxlaris.wikidot.com/rpg-7lr)
             - added [SCP-x010](http://sxlaris.wikidot.com/scp-x010:weapon)
         - added Bows
+            - added [Wooden Bow](http://sxlaris.wikidot.com/wooden-bow)
         - added Straight Swords
         - added Great Swords
         - added Curved Swords
