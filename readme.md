@@ -39,6 +39,7 @@
         - added Great Swords
         - added Curved Swords
         - added Katanas
+        - added Kolossal Swords
 
 ----------------------------------------------------------
 
