@@ -42,6 +42,7 @@
         - added Carbines
         - added Casters
         - added Shotguns
+            - added [M1982](http://sxlaris.wikidot.com/m1982)
         - added Pistols
         - added Launchers
         - added Bows
