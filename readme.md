@@ -108,6 +108,7 @@
         - added Mutazyne to [slot x078](http://sxlaris.wikidot.com/scp-x078)
         - added Compound S-14 to [slot x079](http://sxlaris.wikidot.com/scp-x079)
         - added Pteranodons to [slot x081](http://sxlaris.wikidot.com/scp-x081)
+        - added Critical Chardan to [slot x082](http://sxlaris.wikidot.com/scp-x082)
 
 ----------------------------------------------------------
 
