@@ -105,6 +105,7 @@
         - added Scylla and Charybdis to [slot x062](http://sxlaris.wikidot.com/scp-x062)
         - added Saffryn to [slot x065](http://sxlaris.wikidot.com/scp-x065)
         - added Partygoers to [slot x067](http://sxlaris.wikidot.com/scp-x067)
+        - added Mutazyne to [slot x078](http://sxlaris.wikidot.com/scp-x078)
 
 ----------------------------------------------------------
 
