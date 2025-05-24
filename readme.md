@@ -110,6 +110,7 @@
         - added Pteranodons to [slot x081](http://sxlaris.wikidot.com/scp-x081)
         - added Critical Chardan to [slot x082](http://sxlaris.wikidot.com/scp-x082)
         - added Mechasioner to [slot x084](http://sxlaris.wikidot.com/scp-x084)
+        - added Argentavis to [slot x093](http://sxlaris.wikidot.com/scp-x093)
 
 ----------------------------------------------------------
 
