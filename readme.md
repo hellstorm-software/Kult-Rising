@@ -23,7 +23,7 @@
         - main accent: (93, 56, 255)[washed out blurple]
         - med accent:  (255, 76, 66)[red]
         - dark accent: (36, 19, 14)[brown]
-        - added new Background image
+        - added new [Background image](https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/3a3194dfd19c92e522aa36a369f65562.png)
     - added [weapon hub](http://sxlaris.wikidot.com/weapon-hub)
         - added description
         - added table of contents
