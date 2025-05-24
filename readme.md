@@ -70,6 +70,7 @@
             - added [Moonlit](http://sxlaris.wikidot.com/moonlit)
         - added Kolossal Swords
         - added War Hammers
+            - added [SCP-x015](http://sxlaris.wikidot.com/scp-x015)
         - added Daggers
         - added Whips
 
