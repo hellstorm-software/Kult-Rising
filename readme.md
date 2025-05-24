@@ -31,6 +31,7 @@
             - added [AKM](http://sxlaris.wikidot.com/akm)
         - added Bolties
             - added [SR-84](http://sxlaris.wikidot.com/sr-84)
+            - added [R-556](http://sxlaris.wikidot.com/r556)
         - added DMRs
         - added Carbines
         - added Casters
