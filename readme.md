@@ -77,6 +77,7 @@
         - added Whips
             - added [Woven Flame](http://sxlaris.wikidot.com/woven-flame)
             - added [Black Rose](http://sxlaris.wikidot.com/black-rose-whip)
+    - updated Kult Rising [wiki page](http://sxlaris.wikidot.com/kult-rising)
 
 ----------------------------------------------------------
 
