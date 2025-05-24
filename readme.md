@@ -41,6 +41,7 @@
             - added [SCP-127](http://sxlaris.wikidot.com/scp-127)
         - added Carbines
         - added Casters
+            - added [Oak Wand](http://sxlaris.wikidot.com/oak-wand)
         - added Shotguns
             - added [M1982](http://sxlaris.wikidot.com/m1982)
         - added Pistols
