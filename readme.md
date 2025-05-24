@@ -100,6 +100,7 @@
         - added Clyde to [slot x043](http://sxlaris.wikidot.com/scp-x043)
         - added Procoptodons to [slot x047](http://sxlaris.wikidot.com/scp-x047)
         - added Pockets to [slot x051](http://sxlaris.wikidot.com/scp-x051)
+        - added Shambling Mound to [slot x052](http://sxlaris.wikidot.com/scp-x052)
 
 ----------------------------------------------------------
 
