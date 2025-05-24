@@ -24,6 +24,7 @@
         - med accent:  (255, 76, 66)[red]
         - dark accent: (36, 19, 14)[brown]
     - added [weapon hub](http://sxlaris.wikidot.com/weapon-hub)
+        - added description
 
 ----------------------------------------------------------
 
