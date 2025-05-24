@@ -101,6 +101,7 @@
         - added Procoptodons to [slot x047](http://sxlaris.wikidot.com/scp-x047)
         - added Pockets to [slot x051](http://sxlaris.wikidot.com/scp-x051)
         - added Shambling Mound to [slot x052](http://sxlaris.wikidot.com/scp-x052)
+        - added Pyrobast to [slot x058](http://sxlaris.wikidot.com/scp-x058)
 
 ----------------------------------------------------------
 
