@@ -95,6 +95,7 @@
         - added Deathmoths to [slot x024](http://sxlaris.wikidot.com/scp-x024)
         - added Venus Fly Spitters to slot [x027](http://sxlaris.wikidot.com/scp-x027)
         - added Baritone to [slot x033](http://sxlaris.wikidot.com/scp-x033)
+        - added F.O.H.M to [slot x034](http://sxlaris.wikidot.com/scp-x034)
 
 ----------------------------------------------------------
 
