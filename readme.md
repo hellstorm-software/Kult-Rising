@@ -37,7 +37,8 @@
             - added [Mostin Sniper rifle](http://sxlaris.wikidot.com/mosin-sniper)
         - added DMRs
             - added drSR-50
-        - added SMGs 
+        - added SMGs
+            - added [SCP-127](http://sxlaris.wikidot.com/scp-127)
         - added Carbines
         - added Casters
         - added Shotguns
