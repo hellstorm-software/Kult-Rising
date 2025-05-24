@@ -109,6 +109,7 @@
         - added Compound S-14 to [slot x079](http://sxlaris.wikidot.com/scp-x079)
         - added Pteranodons to [slot x081](http://sxlaris.wikidot.com/scp-x081)
         - added Critical Chardan to [slot x082](http://sxlaris.wikidot.com/scp-x082)
+        - added Mechasioner to [slot x084](http://sxlaris.wikidot.com/scp-x084)
 
 ----------------------------------------------------------
 
