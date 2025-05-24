@@ -44,6 +44,7 @@
         - added Shotguns
             - added [M1982](http://sxlaris.wikidot.com/m1982)
         - added Pistols
+            - added [610-cK](http://sxlaris.wikidot.com/610-ck)
         - added Launchers
         - added Bows
         - added Straight Swords
