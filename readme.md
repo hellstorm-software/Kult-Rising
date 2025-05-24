@@ -93,6 +93,7 @@
         - added Bounce Pad to [slot x018](http://sxlaris.wikidot.com/scp-x018)
         - added Glimmer to [slot x020](http://sxlaris.wikidot.com/scp-x020)
         - added Deathmoths to [slot x024](http://sxlaris.wikidot.com/scp-x024)
+        - added Venus Fly Spitters to slot [x027](http://sxlaris.wikidot.com/scp-x027)
 
 ----------------------------------------------------------
 
