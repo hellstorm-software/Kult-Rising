@@ -38,6 +38,7 @@
         - added Straight Swords
         - added Great Swords
         - added Curved Swords
+        - added Katanas
 
 ----------------------------------------------------------
 
