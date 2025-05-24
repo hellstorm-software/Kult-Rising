@@ -27,6 +27,7 @@
         - added description
         - added table of contents
         - added ARs
+            - added [AK-47](http://sxlaris.wikidot.com/ak-47)
         - added Bolties
         - added DMRs
         - added Carbines
