@@ -49,6 +49,7 @@
             - added [M1911](http://sxlaris.wikidot.com/m1911)
             - added [P500](http://sxlaris.wikidot.com/p500)
             - added [DE-SH](http://sxlaris.wikidot.com/de-sh)
+            - added [DE-SHr](http://sxlaris.wikidot.com/de-shr)
         - added Launchers
         - added Bows
         - added Straight Swords
