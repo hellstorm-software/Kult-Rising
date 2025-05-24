@@ -35,6 +35,7 @@
         - added Pistols
         - added Launchers
         - added Bows
+        - added Straight Swords
 
 ----------------------------------------------------------
 
