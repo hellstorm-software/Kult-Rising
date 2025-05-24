@@ -87,6 +87,7 @@
             - changed sections to SCPs, Backrooms Levels, Weapons, GOIs, Technology, POIs, Locations, and (game)Mechanics
             - updated background images for SCPs, Backrooms, and Weapons
     - updated SCP [Series-S](http://sxlaris.wikidot.com/scp-series)
+        - added moth jelly to [slot x006](http://sxlaris.wikidot.com/scp-x006)
 
 ----------------------------------------------------------
 
