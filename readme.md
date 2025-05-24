@@ -27,6 +27,7 @@
         - added description
         - added table of contents
         - added ARs
+        - added Bolties
 
 ----------------------------------------------------------
 
