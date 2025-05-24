@@ -42,6 +42,7 @@
         - added Kolossal Swords
         - added War Hammers
         - added Daggers
+        - added Whips
 
 ----------------------------------------------------------
 
