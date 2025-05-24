@@ -73,6 +73,7 @@
             - added [SCP-x015](http://sxlaris.wikidot.com/scp-x015)
             - added [Mjolnir](http://sxlaris.wikidot.com/mjolnir)
         - added Daggers
+            - added [VF7](http://sxlaris.wikidot.com/vf7)
         - added Whips
 
 ----------------------------------------------------------
