@@ -19,6 +19,7 @@
 25.5.25
 - updated [wiki](http://sxlaris.wikidot.com)
     - added Kult Rising Items page
+        - added artifacts section
 
 ----------------------------------------------------------
 
