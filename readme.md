@@ -23,6 +23,7 @@
             - added bunny mask
             - added hermes token
             - added stalker bolt
+            - added charged zentrite
         - added item section
 
 ----------------------------------------------------------
