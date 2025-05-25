@@ -134,6 +134,7 @@
         - added Mechasioner to [slot x084](http://sxlaris.wikidot.com/scp-x084)
         - added Argentavis to [slot x093](http://sxlaris.wikidot.com/scp-x093)
 - began building cluster 4 of level 0 (50%)
+- began building clister 3 of level 1 (35%)
 
 ----------------------------------------------------------
 
