@@ -28,6 +28,7 @@
             - added pink mustache
             - added frog charm
         - added item section
+            - added brain disk
 
 ----------------------------------------------------------
 
