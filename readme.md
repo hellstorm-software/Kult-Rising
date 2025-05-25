@@ -32,6 +32,7 @@
             - added FOHM rifle
             - added Spacial Distortion rifle
             - added Froggy's paintrbush
+- built cluster 4 of level 0 (100%)
 
 ----------------------------------------------------------
 
