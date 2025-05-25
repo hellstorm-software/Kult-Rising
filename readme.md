@@ -21,6 +21,7 @@
     - added Kult Rising Items page
         - added artifacts section
             - added bunny mask
+            - added hermes token
         - added item section
 
 ----------------------------------------------------------
