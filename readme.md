@@ -16,6 +16,11 @@
 
 ----------------------------------------------------------
 
+25.5.25
+- updated [wiki](http://sxlaris.wikidot.com)
+
+----------------------------------------------------------
+
 16.5.25-24.5.25
 - updated [wiki](http://sxlaris.wikidot.com)
     - updated "Dimension-X" [theme](https://scp-sandbox-3.wikidot.com/theme:dimension-x)
