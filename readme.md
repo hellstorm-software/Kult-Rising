@@ -30,6 +30,7 @@
         - added item section
             - added brain disk
             - added FOHM rifle
+            - added Spacial Distortion rigle
 
 ----------------------------------------------------------
 
