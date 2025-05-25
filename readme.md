@@ -25,6 +25,7 @@
             - added stalker bolt
             - added charged zentrite
             - added mouse statue
+            - added pink mustache
         - added item section
 
 ----------------------------------------------------------
