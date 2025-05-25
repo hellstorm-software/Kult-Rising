@@ -26,6 +26,7 @@
             - added charged zentrite
             - added mouse statue
             - added pink mustache
+            - added frog charm
         - added item section
 
 ----------------------------------------------------------
