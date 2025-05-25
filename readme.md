@@ -24,6 +24,7 @@
             - added hermes token
             - added stalker bolt
             - added charged zentrite
+            - added mouse statue
         - added item section
 
 ----------------------------------------------------------
