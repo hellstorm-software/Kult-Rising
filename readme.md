@@ -33,7 +33,7 @@
             - added Spacial Distortion rifle
             - added Froggy's paintrbush
 - built cluster 4 of level 0 (100%)
-- built cluster 3 of level 1 (85%)
+- expanded cluster 3 of level 1 (85%)
 
 ----------------------------------------------------------
 
@@ -133,6 +133,7 @@
         - added Critical Chardan to [slot x082](http://sxlaris.wikidot.com/scp-x082)
         - added Mechasioner to [slot x084](http://sxlaris.wikidot.com/scp-x084)
         - added Argentavis to [slot x093](http://sxlaris.wikidot.com/scp-x093)
+- began building cluster 4 of level 0 (50%)
 
 ----------------------------------------------------------
 
