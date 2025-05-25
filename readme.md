@@ -33,6 +33,7 @@
             - added Spacial Distortion rifle
             - added Froggy's paintrbush
 - built cluster 4 of level 0 (100%)
+- built cluster 3 of level 1 (85%)
 
 ----------------------------------------------------------
 
