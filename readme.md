@@ -22,6 +22,7 @@
         - added artifacts section
             - added bunny mask
             - added hermes token
+            - added stalker bolt
         - added item section
 
 ----------------------------------------------------------
