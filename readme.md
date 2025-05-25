@@ -29,6 +29,7 @@
             - added frog charm
         - added item section
             - added brain disk
+            - added FOHM rifle
 
 ----------------------------------------------------------
 
