@@ -26,7 +26,7 @@
             - added [charged zentrite](http://sxlaris.wikidot.com/charged-zentrite)
             - added [mouse statue](http://sxlaris.wikidot.com/mouse-statue)
             - added [pink mustache](http://sxlaris.wikidot.com/pink-mustache)
-            - added frog charm
+            - added [frog charm](http://sxlaris.wikidot.com/frog-charm)
         - added item section
             - added brain disk
             - added FOHM rifle
