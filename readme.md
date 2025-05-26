@@ -28,6 +28,9 @@
                 - added image
                 - added details
             - added [mouse statue](http://sxlaris.wikidot.com/mouse-statue)
+                - added description
+                - added image
+                - added details
             - added [pink mustache](http://sxlaris.wikidot.com/pink-mustache)
             - added [frog charm](http://sxlaris.wikidot.com/frog-charm)
         - added item section
