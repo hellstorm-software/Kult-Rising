@@ -18,6 +18,7 @@
 
 26.5.25
 - updated tutorial level (25%)
+    - added FOV selection room
 
 ----------------------------------------------------------
 
