@@ -26,6 +26,7 @@
 - added Immersive Zone signs
 - updated [wiki](http://sxlaris.wikidot.com)
     - updated [backrooms levels](http://sxlaris.wikidot.com/backrooms-cluster-1) order
+    - began organizing levels by cluster
 
 ----------------------------------------------------------
 
