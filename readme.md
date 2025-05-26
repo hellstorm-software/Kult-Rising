@@ -32,6 +32,9 @@
                 - added image
                 - added details
             - added [pink mustache](http://sxlaris.wikidot.com/pink-mustache)
+                - added description
+                - added image
+                - added details
             - added [frog charm](http://sxlaris.wikidot.com/frog-charm)
         - added item section
             - added brain disk
