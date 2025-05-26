@@ -21,7 +21,7 @@
     - added Kult Rising [Items page](http://sxlaris.wikidot.com/kult-rising:items)
         - added artifacts section
             - added bunny mask
-            - added hermes token
+            - added [hermes token](http://sxlaris.wikidot.com/hermes-token)
             - added stalker bolt
             - added charged zentrite
             - added mouse statue
