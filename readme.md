@@ -46,6 +46,7 @@
         - updated [Navigation Bar](http://sxlaris.wikidot.com/nav:top)
             - removed series 2 button
             - removed series 3+ button
+            - moved kult rising to middle
 - built cluster 4 of level 0 (100%)
 - expanded cluster 3 of level 1 (85%)
 
