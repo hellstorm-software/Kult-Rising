@@ -25,7 +25,7 @@
             - added stalker bolt
             - added [charged zentrite](http://sxlaris.wikidot.com/charged-zentrite)
             - added [mouse statue](http://sxlaris.wikidot.com/mouse-statue)
-            - added pink mustache
+            - added [pink mustache](http://sxlaris.wikidot.com/pink-mustache)
             - added frog charm
         - added item section
             - added brain disk
