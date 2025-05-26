@@ -54,7 +54,7 @@
                 - switched games and backrooms levels (new order: Series I, Backrooms Levels, Games, Kult Rising, Foundation Departments, GoIs, Info Pages)
 - built cluster 4 of level 0 (100%)
 - expanded cluster 3 of level 1 (85%)
-- began building tutorial level
+- began building tutorial level (20%)
 
 ----------------------------------------------------------
 
