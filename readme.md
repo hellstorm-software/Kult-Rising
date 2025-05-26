@@ -55,6 +55,7 @@
 - built cluster 4 of level 0 (100%)
 - expanded cluster 3 of level 1 (85%)
 - began building tutorial level (20%)
+    - added spawn room
 
 ----------------------------------------------------------
 
