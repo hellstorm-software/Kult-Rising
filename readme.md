@@ -18,7 +18,7 @@
 
 25.5.25
 - updated [wiki](http://sxlaris.wikidot.com)
-    - added Kult Rising Items page
+    - added Kult Rising [Items page](http://sxlaris.wikidot.com/kult-rising:items)
         - added artifacts section
             - added bunny mask
             - added hermes token
