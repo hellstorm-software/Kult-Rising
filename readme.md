@@ -42,6 +42,7 @@
                 - added Spacial Distortion rifle
                 - added Froggy's paintrbush
         - added [Kult Rising Hub](http://sxlaris.wikidot.com/kult-rising-hub)
+            - rearranged squares
         - added note to [Museum of Anomalous Things](http://sxlaris.wikidot.com/museum-of-anomalous-things)
         - updated [Navigation Bar](http://sxlaris.wikidot.com/nav:top)
             - removed series 2 button
