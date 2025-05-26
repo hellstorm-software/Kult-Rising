@@ -24,7 +24,7 @@
             - added [hermes token](http://sxlaris.wikidot.com/hermes-token)
             - added stalker bolt
             - added [charged zentrite](http://sxlaris.wikidot.com/charged-zentrite)
-            - added mouse statue
+            - added [mouse statue](http://sxlaris.wikidot.com/mouse-statue)
             - added pink mustache
             - added frog charm
         - added item section
