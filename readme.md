@@ -16,6 +16,10 @@
 
 ----------------------------------------------------------
 
+26.5.25
+
+----------------------------------------------------------
+
 25.5.25
 - updated [wiki](http://sxlaris.wikidot.com)
     - added Kult Rising [Items page](http://sxlaris.wikidot.com/kult-rising:items)
