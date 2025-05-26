@@ -23,7 +23,7 @@
             - added bunny mask
             - added [hermes token](http://sxlaris.wikidot.com/hermes-token)
             - added stalker bolt
-            - added charged zentrite
+            - added [charged zentrite](http://sxlaris.wikidot.com/charged-zentrite)
             - added mouse statue
             - added pink mustache
             - added frog charm
