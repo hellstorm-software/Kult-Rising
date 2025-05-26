@@ -36,12 +36,12 @@
                 - added image
                 - added details
             - added [frog charm](http://sxlaris.wikidot.com/frog-charm)
+            - added item section
+                - added brain disk
+                - added FOHM rifle
+                - added Spacial Distortion rifle
+                - added Froggy's paintrbush
         - added [Kult Rising Hub](http://sxlaris.wikidot.com/kult-rising-hub)
-        - added item section
-            - added brain disk
-            - added FOHM rifle
-            - added Spacial Distortion rifle
-            - added Froggy's paintrbush
 - built cluster 4 of level 0 (100%)
 - expanded cluster 3 of level 1 (85%)
 
