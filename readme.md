@@ -57,6 +57,7 @@
 - began building tutorial level (20%)
     - added spawn room
     - added item tutorial room
+    - added immersive zone tutorial room
 
 ----------------------------------------------------------
 
