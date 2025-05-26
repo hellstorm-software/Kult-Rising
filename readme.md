@@ -42,6 +42,7 @@
                 - added Spacial Distortion rifle
                 - added Froggy's paintrbush
         - added [Kult Rising Hub](http://sxlaris.wikidot.com/kult-rising-hub)
+        - added note to [Museum of Anomalous Things](http://sxlaris.wikidot.com/museum-of-anomalous-things)
 - built cluster 4 of level 0 (100%)
 - expanded cluster 3 of level 1 (85%)
 
