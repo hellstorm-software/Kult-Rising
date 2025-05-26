@@ -24,6 +24,7 @@
         - added arrow key decal to the front wall
     - added minor core to item tutorial
 - added Immersive Zone signs
+- updated [wiki](http://sxlaris.wikidot.com)
 
 ----------------------------------------------------------
 
