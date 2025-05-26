@@ -21,6 +21,7 @@
     - added FOV selection room
     - created FOV selection system
     - built a diajetic selection system in the room
+    - added arrow key decal to the front wall
 - added Immersive Zone signs
 
 ----------------------------------------------------------
