@@ -20,6 +20,7 @@
 - updated tutorial level (25%)
     - added FOV selection room
     - created FOV selection system
+    - built a diajetic selection system in the room
 
 ----------------------------------------------------------
 
