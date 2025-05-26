@@ -19,9 +19,10 @@
 26.5.25
 - updated tutorial level (25%)
     - added FOV selection room
-    - created FOV selection system
-    - built a diajetic selection system in the room
-    - added arrow key decal to the front wall
+        - created FOV selection system
+        - built a diajetic selection system in the room
+        - added arrow key decal to the front wall
+    - added minor core to item tutorial
 - added Immersive Zone signs
 
 ----------------------------------------------------------
