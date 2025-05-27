@@ -22,6 +22,7 @@
         - created FOV selection system
         - built a diajetic selection system in the room
         - added arrow key decal to the front wall
+    - added backrooms level 0 viewing window (50%)
     - added minor core to item tutorial
 - added Immersive Zone signs
 - updated [wiki](http://sxlaris.wikidot.com)
