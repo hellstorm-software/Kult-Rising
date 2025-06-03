@@ -16,12 +16,13 @@
 
 ----------------------------------------------------------
 
-2025.27.5 - 2025.6.3
+2025.6.3
 - added chair object
     - added interact function
     - added camera movement
     - fixed a bug that caused character model to remain standing after sitting
     - added stand up to jump key
+    - fixed a bug that caused jumping to break after sitting in a chair
 
 ----------------------------------------------------------
 
