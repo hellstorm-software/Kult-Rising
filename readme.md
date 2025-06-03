@@ -21,6 +21,7 @@
     - added interact function
     - added camera movement
     - fixed a bug that caused character model to remain standing after sitting
+    - added stand up to jump key
 
 ----------------------------------------------------------
 
