@@ -19,6 +19,7 @@
 2025.27.5 - 2025.6.3
 - added chair object
     - added interact function
+    - added camera movement
 
 ----------------------------------------------------------
 
