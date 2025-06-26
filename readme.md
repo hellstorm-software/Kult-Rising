@@ -21,6 +21,7 @@
     - level FOG is now level ASH
     - fog ocean replaced with ash desert
     - added new landmass
+    - began adding foliage
 
 ----------------------------------------------------------
 
