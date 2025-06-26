@@ -29,6 +29,7 @@
         - moved dome to new landmass
     - built first bunker entrance
     - adjusted atmospheric fog
+    - adjusted sun placement to rise in the north
 
 ----------------------------------------------------------
 
