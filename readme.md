@@ -22,6 +22,7 @@
     - fog ocean replaced with ash desert
     - added new landmass
     - began adding foliage
+    - blocked out dome monument
 
 ----------------------------------------------------------
 
