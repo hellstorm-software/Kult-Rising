@@ -20,6 +20,7 @@
 - overhauled level Ω
     - level FOG is now level ASH
         - added ash material
+        - added ash landscape
     - fog ocean replaced with ash desert
         - added northern and southern cliff walls
     - added storm clouds around the outside of the map
