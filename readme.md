@@ -28,6 +28,7 @@
     - blocked out dome monument
         - moved dome to new landmass
     - built first bunker entrance
+    - adjusted atmospheric fog
 
 ----------------------------------------------------------
 
