@@ -23,6 +23,7 @@
         - added northern and southern cliff walls
     - added storm clouds around the outside of the map
     - added new landmass
+        - began blocking out abandoned compound
     - began adding foliage
     - blocked out dome monument
         - moved dome to new landmass
