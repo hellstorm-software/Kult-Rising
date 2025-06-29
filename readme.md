@@ -27,6 +27,7 @@
     - added damage hitbox
     - added uplift hitbox
     - adjusted damage amount (2 hp - 5hp)
+    - began adding basic spawn system
 
 ----------------------------------------------------------
 
