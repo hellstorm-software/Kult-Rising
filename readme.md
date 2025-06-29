@@ -24,6 +24,7 @@
     - added elevation changes to the northern section
 - began adding tossup anomalies
     - added tornado vfx
+    - added damage hitbox
 
 ----------------------------------------------------------
 
