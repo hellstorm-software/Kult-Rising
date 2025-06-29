@@ -29,6 +29,7 @@
     - adjusted damage amount (2 hp - 5hp)
     - began adding basic spawn system
         - added spawn areas
+        - added soawn rotation
 
 ----------------------------------------------------------
 
