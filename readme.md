@@ -26,6 +26,7 @@
     - added tornado vfx
     - added damage hitbox
     - added uplift hitbox
+    - adjusted damage amount (2 hp - 5hp)
 
 ----------------------------------------------------------
 
