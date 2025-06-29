@@ -22,6 +22,7 @@
     - added a valley to the north
     - improved fidelity of the ash material
     - added elevation changes to the northern section
+- began adding tossup anomalies
 
 ----------------------------------------------------------
 
