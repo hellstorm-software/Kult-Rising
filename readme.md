@@ -23,6 +23,7 @@
     - improved fidelity of the ash material
     - added elevation changes to the northern section
 - began adding tossup anomalies
+    - added tornado vfx
 
 ----------------------------------------------------------
 
