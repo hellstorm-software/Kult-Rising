@@ -20,6 +20,7 @@
 - began adjusting terrain of level Ω
     - began adding dunes 
     - added a valley to the north
+    - improved fidelity of the ash material
 
 ----------------------------------------------------------
 
