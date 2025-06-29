@@ -25,6 +25,7 @@
 - began adding tossup anomalies
     - added tornado vfx
     - added damage hitbox
+    - added uplift hitbox
 
 ----------------------------------------------------------
 
