@@ -19,6 +19,7 @@
 2025.6.28
 - began adjusting terrain of level Ω
     - began adding dunes 
+    - added a valley to the north
 
 ----------------------------------------------------------
 
