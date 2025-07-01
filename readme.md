@@ -26,6 +26,7 @@
     - created base wildlife
 - implemented NPCs into the damage system (AI can now take damage)
 - began creating illumination flares
+    - added lighting
 
 ----------------------------------------------------------
 
