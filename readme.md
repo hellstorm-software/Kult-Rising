@@ -18,6 +18,7 @@
 
 2025.6.29-2025.6.30
 - updated [wiki](http://sxlaris.wikidot.com)
+- began adding base AI to NPCs
 
 ----------------------------------------------------------
 
