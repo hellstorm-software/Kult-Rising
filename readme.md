@@ -27,6 +27,7 @@
 - implemented NPCs into the damage system (AI can now take damage)
 - began creating illumination flares
     - added lighting
+    - added mounted flare launcher
 
 ----------------------------------------------------------
 
