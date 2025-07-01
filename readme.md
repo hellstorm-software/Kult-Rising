@@ -21,6 +21,7 @@
 - began adding base AI to NPCs
     - created base zombie
     - created base civilian
+    - created base soldier
 
 ----------------------------------------------------------
 
