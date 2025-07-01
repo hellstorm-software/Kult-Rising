@@ -29,6 +29,7 @@
     - added lighting
     - added mounted flare launcher
     - added falling physics
+    - fixed an issue that caused flares to fall through the ground when descending
 
 ----------------------------------------------------------
 
