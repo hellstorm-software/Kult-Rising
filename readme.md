@@ -21,6 +21,7 @@
     - updated [Series I list](http://sxlaris.wikidot.com/scp-series#001)
     - began creating [equpiment hub](http://sxlaris.wikidot.com/kult-rising:equipment)
     - began creating [POI hub](http://sxlaris.wikidot.com/poi-s)
+    - added framework for [SCP-x050 article](http://sxlaris.wikidot.com/scp-x050)
 - began adding base AI to NPCs
     - created base zombie
     - created base civilian
