@@ -19,6 +19,7 @@
 2025.6.29-2025.6.30
 - updated [wiki](http://sxlaris.wikidot.com)
     - updated [Series I list](http://sxlaris.wikidot.com/scp-series#001)
+    - began adding [equpiment hub](http://sxlaris.wikidot.com/kult-rising:equipment)
 - began adding base AI to NPCs
     - created base zombie
     - created base civilian
