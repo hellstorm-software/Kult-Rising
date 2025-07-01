@@ -22,6 +22,7 @@
     - created base zombie
     - created base civilian
     - created base soldier
+    - created base turret
 
 ----------------------------------------------------------
 
