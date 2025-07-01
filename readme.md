@@ -28,6 +28,7 @@
 - began creating illumination flares
     - added lighting
     - added mounted flare launcher
+    - added falling physics
 
 ----------------------------------------------------------
 
