@@ -20,7 +20,7 @@
 - updated [wiki](http://sxlaris.wikidot.com)
 - began adding base AI to NPCs
     - created base zombie
-    - 
+    - created base civilian
 
 ----------------------------------------------------------
 
