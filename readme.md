@@ -12,7 +12,7 @@
 
 ----------------------------------------------------------
 
-<h2>[MAY]</h2>
+<h2>[JUN]</h2>
 
 ----------------------------------------------------------
 
@@ -59,6 +59,10 @@
     - fixed a bug that caused character model to remain standing after sitting
     - added stand up to jump key
     - fixed a bug that caused jumping to break after sitting in a chair
+
+----------------------------------------------------------
+
+<h2>[MAY]</h2>
 
 ----------------------------------------------------------
 
