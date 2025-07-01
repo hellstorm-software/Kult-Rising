@@ -24,6 +24,7 @@
     - created base soldier
     - created base turret
     - created base wildlife
+- implemented NPCs into the damage system (AI can now take damage)
 
 ----------------------------------------------------------
 
