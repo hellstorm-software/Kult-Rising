@@ -28,6 +28,7 @@
     - added second floor
     - added guard spawns
 - adjusted character walking and sprint speed
+- adjusted direction of sunlight
 
 ----------------------------------------------------------
 
