@@ -25,6 +25,7 @@
     - added rocky terrain material
     - added spawn points
     - added storm
+    - began adding elevator
 
 
 ----------------------------------------------------------
