@@ -18,6 +18,7 @@
 
 2025.7.8
 - updated [wiki](http://sxlaris.wikidot.com)
+- began adding the first scav compound to level Ω
 
 ----------------------------------------------------------
 
