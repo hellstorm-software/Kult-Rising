@@ -22,6 +22,7 @@
     - began adding central building
         - added props and interior
         - added item spawns
+        - added lootable containers
 
 ----------------------------------------------------------
 
