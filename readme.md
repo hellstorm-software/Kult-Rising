@@ -21,6 +21,7 @@
 - began adding the first scav compound to level Ω
     - began adding central building
         - added props and interior
+        - added item spawns
 
 ----------------------------------------------------------
 
