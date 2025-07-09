@@ -24,6 +24,7 @@
 - began creating Arena 1 of THE EXTRACTION
     - added rocky terrain material
     - added spawn points
+    - added storm
 
 
 ----------------------------------------------------------
