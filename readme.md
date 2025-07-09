@@ -20,6 +20,7 @@
 - updated [wiki](http://sxlaris.wikidot.com)
     - updated [Series I list](http://sxlaris.wikidot.com/scp-series#001)
     - updated [Weapon Hub](http://sxlaris.wikidot.com/weapon-hub)
+    - added [Kult Arms page](http://sxlaris.wikidot.com/kult-arms)
 - began adding the first scav compound to level Ω
     - began adding central building
         - added props and interior
