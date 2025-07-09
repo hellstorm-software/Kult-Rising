@@ -27,7 +27,7 @@
     - added cargo container hallway area
     - added second floor
     - added guard spawns
-- adjusted character walking and sprint speed
+- lowered character walking and sprint speed
 - adjusted direction of sunlight
 
 ----------------------------------------------------------
