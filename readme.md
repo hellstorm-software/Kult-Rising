@@ -20,6 +20,7 @@
 - updated [wiki](http://sxlaris.wikidot.com)
     - moved Kult Arms page to [Kult Arms Hub](http://sxlaris.wikidot.com/kult-arms-hub)
     - created [Broadcast Alliance Hub](http://sxlaris.wikidot.com/broadcast-alliance-hub)
+    - added [THE EXTRACTION](http://sxlaris.wikidot.com/the-extraction) container page
 - began creating Arena 1 of THE EXTRACTION
 
 
