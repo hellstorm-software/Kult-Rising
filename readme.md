@@ -22,6 +22,7 @@
     - created [Broadcast Alliance Hub](http://sxlaris.wikidot.com/broadcast-alliance-hub)
     - added [THE EXTRACTION](http://sxlaris.wikidot.com/the-extraction) container page
 - began creating Arena 1 of THE EXTRACTION
+    - added rocky terrain material
 
 
 ----------------------------------------------------------
