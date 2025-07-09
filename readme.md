@@ -23,6 +23,7 @@
         - added props and interior
         - added item spawns
         - added lootable containers
+        - added lights
     - added cargo container hallway area
     - added second floor
 
