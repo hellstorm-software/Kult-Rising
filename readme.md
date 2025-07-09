@@ -18,6 +18,7 @@
 
 2025.7.8
 - updated [wiki](http://sxlaris.wikidot.com)
+    - updated [Series I list](http://sxlaris.wikidot.com/scp-series#001)
 - began adding the first scav compound to level Ω
     - began adding central building
         - added props and interior
