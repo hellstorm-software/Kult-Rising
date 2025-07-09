@@ -24,6 +24,7 @@
         - added item spawns
         - added lootable containers
     - added cargo container hallway area
+    - began adding second building
 
 ----------------------------------------------------------
 
