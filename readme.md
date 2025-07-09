@@ -26,6 +26,7 @@
         - added lights
     - added cargo container hallway area
     - added second floor
+    - added guard spawns
 - adjusted character walking and sprint speed
 
 ----------------------------------------------------------
