@@ -19,6 +19,7 @@
 2025.7.9
 - updated [wiki](http://sxlaris.wikidot.com)
     - moved Kult Arms page to [Kult Arms Hub](http://sxlaris.wikidot.com/kult-arms-hub)
+    - created [Broadcast Alliance Hub](http://sxlaris.wikidot.com/broadcast-alliance-hub)
 
 
 ----------------------------------------------------------
