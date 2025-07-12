@@ -24,6 +24,7 @@
         - returned functionality to the help button
     - added stash interaction
     - adjusted health/stamina indicators when in Terminal Core HUD
+    - adjusted gear/equipment HUD when in Terminal Core
 - began adding stash system
     - added placeholder mesh
 
