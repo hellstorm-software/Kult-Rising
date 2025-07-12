@@ -22,6 +22,7 @@
 - began creating the Terminal Core
     - added sidebar HUD
     - added stash interaction
+    - adjusted health/stamina indicators when in Terminal Core HUD
 
 
 ----------------------------------------------------------
