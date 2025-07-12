@@ -24,6 +24,7 @@
     - added stash interaction
     - adjusted health/stamina indicators when in Terminal Core HUD
 - began adding stash system
+    - added placeholder mesh
 
 
 ----------------------------------------------------------
