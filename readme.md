@@ -18,6 +18,7 @@
 
 2025.7.12
 - updated [wiki](http://sxlaris.wikidot.com)
+    - began adding [Level 20 ](http://sxlaris.wikidot.com/level-20)
 
 
 ----------------------------------------------------------
