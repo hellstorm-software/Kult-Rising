@@ -21,6 +21,7 @@
     - began adding [Level 20 ](http://sxlaris.wikidot.com/level-20)
 - began creating the Terminal Core
     - added sidebar HUD
+        - returned functionality to the help button
     - added stash interaction
     - adjusted health/stamina indicators when in Terminal Core HUD
 - began adding stash system
