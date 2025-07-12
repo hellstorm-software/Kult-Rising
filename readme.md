@@ -20,6 +20,7 @@
 - updated [wiki](http://sxlaris.wikidot.com)
     - began adding [Level 20 ](http://sxlaris.wikidot.com/level-20)
 - began creating the Terminal Core
+    - added sidebar HUD
 
 
 ----------------------------------------------------------
