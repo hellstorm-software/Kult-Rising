@@ -22,6 +22,7 @@
 - began creating the Terminal Core
     - added sidebar HUD
         - returned functionality to the help button
+        - changed "inventory" button to "stash" button
     - added stash interaction
     - adjusted health/stamina indicators when in Terminal Core HUD
     - adjusted gear/equipment HUD when in Terminal Core
