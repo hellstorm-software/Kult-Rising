@@ -22,6 +22,7 @@
     - added STC miner console
     - added placeholder HUD for STC miner
     - added functionality to STC Miner HUD
+    - fixed an issue where you couldn't close STC Miner HUD
 - added shitcoin (STC) item
     - added placeholder icon for STC
 
