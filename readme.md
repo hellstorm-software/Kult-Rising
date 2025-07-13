@@ -21,6 +21,7 @@
 - began adding shitcoin (STC) miner [clicker game]
     - added STC miner console
     - added placeholder HUD for STC miner
+    - added functionality to STC Miner HUD
 
 
 ----------------------------------------------------------
