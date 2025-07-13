@@ -18,8 +18,9 @@
 
 2025.7.13
 - updated [wiki](http://sxlaris.wikidot.com)
-- began adding shitcoin miner (clicker game)
-    - added shitcoin miner console
+- began adding shitcoin (STC) miner [clicker game]
+    - added STC miner console
+    - added placeholder HUD for STC miner
 
 
 ----------------------------------------------------------
