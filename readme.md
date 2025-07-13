@@ -23,6 +23,7 @@
     - added placeholder HUD for STC miner
     - added functionality to STC Miner HUD
 - added shitcoin (STC) item
+    - added placeholder icon for STC
 
 
 ----------------------------------------------------------
