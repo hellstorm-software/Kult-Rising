@@ -27,6 +27,7 @@
 - added shitcoin (STC) item
     - added placeholder icon for STC
 - fixed an issue where Terminal Core HUD wouldn't close
+- fixed an issue where health/stamina indicators moved too far left when closing Terminal Core HUD
 
 
 ----------------------------------------------------------
