@@ -27,6 +27,7 @@
         - added placeholder image and animation for mining STC
     - began adding upgrade functionality to STC Miner
         - fixed an issue where upgrading would only remove 1 STC instead of the required amount
+        - added basic progression to upgrade cost
 - added shitcoin (STC) item
     - added placeholder icon for STC
 - fixed an issue where Terminal Core HUD wouldn't close
