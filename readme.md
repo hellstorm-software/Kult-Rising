@@ -19,6 +19,7 @@
 2025.7.12
 - updated [wiki](http://sxlaris.wikidot.com)
     - began adding [Level 20 ](http://sxlaris.wikidot.com/level-20)
+    - added note to [Backrooms Cluster 1](http://sxlaris.wikidot.com/backrooms-cluster-1)
 - began creating the Terminal Core
     - added sidebar HUD
         - returned functionality to the help button
