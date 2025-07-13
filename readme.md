@@ -25,6 +25,7 @@
     - fixed an issue where STC Miner HUD wouldn't close
     - adjusted position of STC Miner HUD
     - added placeholder image and animation for mining STC
+    - began adding upgrade functionality to STC Miner
 - added shitcoin (STC) item
     - added placeholder icon for STC
 - fixed an issue where Terminal Core HUD wouldn't close
