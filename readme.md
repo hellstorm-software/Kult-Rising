@@ -18,6 +18,7 @@
 
 2025.7.13
 - updated [wiki](http://sxlaris.wikidot.com)
+- began adding shitcoin miner (clicker game)
 
 
 ----------------------------------------------------------
