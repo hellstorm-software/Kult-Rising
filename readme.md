@@ -19,6 +19,7 @@
 2025.7.14
 - updated [wiki](http://sxlaris.wikidot.com)
     - began writing [Level Ω](http://sxlaris.wikidot.com/level-fog)
+    - began writing [SCP-x099](http://sxlaris.wikidot.com/scp-x099)
 
 
 ----------------------------------------------------------
