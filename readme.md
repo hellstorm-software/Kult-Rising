@@ -19,6 +19,7 @@
 2025.7.14
 - updated [wiki](http://sxlaris.wikidot.com)
     - began writing [Level Ω](http://sxlaris.wikidot.com/level-fog)
+        - added The Ashen One, Still Walkers, and Emberstags
     - began writing [SCP-x099](http://sxlaris.wikidot.com/scp-x099)
         - renamed SCP-x099 from "ashworms" to "The Ashen One"
 
