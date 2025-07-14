@@ -33,6 +33,7 @@
 - fixed an issue where Terminal Core HUD wouldn't close
 - fixed an issue where health/stamina indicators moved off screen when closing Terminal Core HUD
 - re-integrated old headbob into new character
+    - headbob now corrisponds to movement speed
 
 
 ----------------------------------------------------------
