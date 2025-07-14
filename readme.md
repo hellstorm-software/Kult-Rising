@@ -22,6 +22,7 @@
         - added The Ashen One, Still Walkers, and Emberstags
     - began writing [SCP-x099](http://sxlaris.wikidot.com/scp-x099)
         - renamed SCP-x099 from "ashworms" to "The Ashen One"
+    - began writing [SCP-x012](http://sxlaris.wikidot.com/scp-x012)
 
 
 ----------------------------------------------------------
