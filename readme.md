@@ -17,8 +17,9 @@
 ----------------------------------------------------------
 
 2025.7.16
-- added new normal maps to ash texture on level Ω
-- added second layer to ash material
+- updated level Ω
+    - added new normal maps to ash texture
+    - added second layer to ash material
 
 ----------------------------------------------------------
 
