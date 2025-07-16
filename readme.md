@@ -20,7 +20,7 @@
 - updated level Ω
     - added new normal maps to ash texture
     - added second layer to ash material
-    - began blocking out "core ships" in the south east corner
+    - began blocking out "core ships" in the south east area
     - began blocking out crashed ship in north east corner
     - increased the size of the dome blockout (60u - 80u)
     - raised elevation of the west section of the map
