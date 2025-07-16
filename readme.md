@@ -22,6 +22,7 @@
     - added second layer to ash material
     - began blocking out "core ships" area behind the dome
     - increased the size of the dome blockout (60u - 80u)
+    - raised elevation of the west section of the map
 
 ----------------------------------------------------------
 
