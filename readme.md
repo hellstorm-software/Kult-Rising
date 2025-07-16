@@ -33,6 +33,7 @@
         - renamed SCP-x099 from "ashworms" to "The Ashen One"
     - began writing [SCP-x012](http://sxlaris.wikidot.com/scp-x012)
     - updated [series I](http://sxlaris.wikidot.com/scp-series#001)
+    - added new mountain range to the south west corner of Level Ω
 
 
 ----------------------------------------------------------
