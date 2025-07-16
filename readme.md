@@ -20,6 +20,7 @@
 - updated level Ω
     - added new normal maps to ash texture
     - added second layer to ash material
+    - began blocking out "core ships" area behind the dome
 
 ----------------------------------------------------------
 
