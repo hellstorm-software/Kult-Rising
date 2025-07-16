@@ -26,6 +26,7 @@
     - raised elevation of the west section of the map
     - adjusted size of the storm blockout
     - added mesa range in the south west area
+    - added pitfalls to south west corner
 
 ----------------------------------------------------------
 
