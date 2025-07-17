@@ -23,6 +23,7 @@
     - began building the tunnel to the hub on the south border
         - added tunnel body and rail
         - added tunnel entrance
+        - adjusted the cliffs on either side of the tunnel
 - began adding sliding mechanics
 - changed crouch to be toggle when not moving, and on hold when moving
 - 
