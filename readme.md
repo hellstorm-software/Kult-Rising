@@ -19,6 +19,7 @@
 2025.7.17
 - updated level Ω
     - changed elevation of south west area
+    - added stationary lift controls to the top and bottom of the lift
 - began adding sliding mechanics
 - changed crouch to be toggle when not moving, and on hold when moving
 
