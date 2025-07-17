@@ -20,6 +20,7 @@
 - updated level Ω
     - changed elevation of south west area
 - began adding sliding mechanics
+- changed crouch to be toggle when not moving, and on hold when moving
 
 ----------------------------------------------------------
 
