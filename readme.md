@@ -19,6 +19,7 @@
 2025.7.17
 - updated level Ω
     - changed elevation of south west area
+- began adding sliding mechanics
 
 ----------------------------------------------------------
 
