@@ -20,8 +20,10 @@
 - updated level Ω
     - changed elevation of south west area
     - added stationary lift controls to the top and bottom of the tower lift
+    - began building the tunnel to the hub on the south border
 - began adding sliding mechanics
 - changed crouch to be toggle when not moving, and on hold when moving
+- 
 
 ----------------------------------------------------------
 
