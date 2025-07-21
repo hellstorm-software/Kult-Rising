@@ -20,6 +20,7 @@
 - began blocking out SCP-3008
 - began blocking out Level 0 cluster 3
 - updated [wiki](http://sxlaris.wikidot.com)
+    - updated [Weapons Hub](http://sxlaris.wikidot.com/weapon-hub)
 
 ----------------------------------------------------------
 
