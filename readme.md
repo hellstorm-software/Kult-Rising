@@ -18,7 +18,7 @@
 
 2025.7.21
 - began blocking out SCP-3008
-- 
+- began blocking out Level 0 cluster 3
 
 ----------------------------------------------------------
 
