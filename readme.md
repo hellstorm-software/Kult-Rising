@@ -19,6 +19,7 @@
 2025.22.25
 - updated [wiki](http://sxlaris.wikidot.com)
     - began adding the [O5 Council Dossier](http://sxlaris.wikidot.com/o5-command-dossier)
+    - updated navigation bar to direct to new O5 Council Dossier
 
 ----------------------------------------------------------
 
