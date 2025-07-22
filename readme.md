@@ -21,6 +21,7 @@
     - began adding the [O5 Council Dossier](http://sxlaris.wikidot.com/o5-command-dossier)
     - updated navigation bar to direct to new O5 Council Dossier
     - changed ASYNC to Synchro Labs
+    - changed ATLAS Corporation to ATLYS Corporation
 
 ----------------------------------------------------------
 
