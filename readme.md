@@ -22,6 +22,7 @@
     - removed irrelevant data
     - began adding O5-1: The Founder
     - began adding O5-2: The Praetor
+    - began adding O5-2: The Anchor
 
 ----------------------------------------------------------
 
