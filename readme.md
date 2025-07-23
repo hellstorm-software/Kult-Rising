@@ -27,6 +27,7 @@
 - added new Personnel Dossier Template page
 - updated licensing box
 - integrated new licensing box into existing templates
+- began creating the [Olympian Hub](http://sxlaris.wikidot.com/olympian-hub)
 
 ----------------------------------------------------------
 
