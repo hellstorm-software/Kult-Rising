@@ -25,6 +25,7 @@
     - began adding O5-2: The Anchor
     - began adding O5-2: The Administrator
 - added new Personnel Dossier Template page
+- updated licensing box
 
 ----------------------------------------------------------
 
