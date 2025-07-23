@@ -26,6 +26,7 @@
     - began adding O5-2: The Administrator
 - added new Personnel Dossier Template page
 - updated licensing box
+- integrated new licensing box into existing templates
 
 ----------------------------------------------------------
 
