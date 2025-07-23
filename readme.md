@@ -20,6 +20,7 @@
 - updated [wiki](http://sxlaris.wikidot.com)
     - updated the [O5 Council Dossier](http://sxlaris.wikidot.com/o5-command-dossier)
     - removed irrelevant data
+    - began adding O5-1: The Founder
     - began adding O5-2: The Praetor
 
 ----------------------------------------------------------
