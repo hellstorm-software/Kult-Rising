@@ -24,6 +24,7 @@
     - began adding O5-2: The Praetor
     - began adding O5-2: The Anchor
     - began adding O5-2: The Administrator
+- added new Personnel Dossier Template page
 
 ----------------------------------------------------------
 
