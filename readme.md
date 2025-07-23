@@ -16,6 +16,11 @@
 
 ----------------------------------------------------------
 
+2025.23.25
+- updated [wiki](http://sxlaris.wikidot.com)
+
+----------------------------------------------------------
+
 2025.22.25
 - updated [wiki](http://sxlaris.wikidot.com)
     - began adding the [O5 Council Dossier](http://sxlaris.wikidot.com/o5-command-dossier)
