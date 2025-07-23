@@ -28,6 +28,7 @@
 - updated licensing box
 - integrated new licensing box into existing templates
 - began creating the [Olympian Hub](http://sxlaris.wikidot.com/olympian-hub)
+- began creating the [Ennead Hub](http://sxlaris.wikidot.com/ennead-hub)
 
 ----------------------------------------------------------
 
