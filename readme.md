@@ -19,6 +19,7 @@
 2025.24.7
 - updated [wiki](http://sxlaris.wikidot.com)
     - updated [Olympian Hub](http://sxlaris.wikidot.com/olympian-hub)
+        - began adding descriptions to the pantheon
 
 ----------------------------------------------------------
 
