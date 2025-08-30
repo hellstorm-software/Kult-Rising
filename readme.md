@@ -36,6 +36,7 @@
     - added the page for [It](http://sxlaris.wikidot.com/it)
     - adjusted all black redacted bars to be white to fit with visual theme
     - added [Ennead Hub](http://sxlaris.wikidot.com/ennead-hub)
+    - added [Olympian Hub](http://sxlaris.wikidot.com/olympian-hub)
 
 ----------------------------------------------------------
 
