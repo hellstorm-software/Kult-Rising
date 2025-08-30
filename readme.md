@@ -33,6 +33,7 @@
     - added [performance enhancers](http://sxlaris.wikidot.com/performance-enhancers) page
     - added [Ashlands](http://sxlaris.wikidot.com/ashlands) page
     - ported [SCP-x666](http://sxlaris.wikidot.com/scp-x666) from old wiki
+    - added the page for [It](http://sxlaris.wikidot.com/it)
 
 ----------------------------------------------------------
 
