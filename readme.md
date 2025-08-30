@@ -32,6 +32,7 @@
     - added [substances](http://sxlaris.wikidot.com/substances)
     - added [performance enhancers](http://sxlaris.wikidot.com/performance-enhancers) page
     - added [Ashlands](http://sxlaris.wikidot.com/ashlands) page
+    - ported [SCP-x666](http://sxlaris.wikidot.com/scp-x666) from old site
 
 ----------------------------------------------------------
 
