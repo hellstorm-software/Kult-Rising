@@ -43,6 +43,7 @@
     - began writing [SCP-x003, the Cogniscope](http://sxlaris.wikidot.com/scp-x003)
     - renamed POI-s to [POI-Hub](http://sxlaris.wikidot.com/poi-hub)
     - began adding [PBI Hub](http://sxlaris.wikidot.com/private-investigation-bureau-hub)
+    - adjusted the top navigation in line with other changes
 
 ----------------------------------------------------------
 
