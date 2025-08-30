@@ -41,6 +41,7 @@
     - created [MTF Alpha-Omega Hub](http://sxlaris.wikidot.com/mtf-zero-day)
     - updated the [O5 Council Dossier](http://sxlaris.wikidot.com/o5-command-dossier)
     - began writing [SCP-x003, the Cogniscope](http://sxlaris.wikidot.com/scp-x003)
+    - renamed POI-s to [POI-Hub](http://sxlaris.wikidot.com/poi-hub)
 
 ----------------------------------------------------------
 
