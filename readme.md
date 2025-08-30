@@ -38,6 +38,8 @@
     - added [Ennead Hub](http://sxlaris.wikidot.com/ennead-hub)
     - added [Olympian Hub](http://sxlaris.wikidot.com/olympian-hub)
     - ported [SCP-2000](http://sxlaris.wikidot.com/scp-2000) from the SCP Wiki
+    - created [MTF Alpha-Omega Hub](http://sxlaris.wikidot.com/mtf-zero-day)
+    - updated the [O5 Council Dossier](http://sxlaris.wikidot.com/o5-command-dossier)
 
 ----------------------------------------------------------
 
