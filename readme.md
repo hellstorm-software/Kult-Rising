@@ -35,6 +35,7 @@
     - ported [SCP-x666](http://sxlaris.wikidot.com/scp-x666) from old wiki
     - added the page for [It](http://sxlaris.wikidot.com/it)
     - adjusted all black redacted bars to be white to fit with visual theme
+    - added [Ennead Hub](http://sxlaris.wikidot.com/ennead-hub)
 
 ----------------------------------------------------------
 
