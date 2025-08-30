@@ -24,6 +24,7 @@
     - began overhauling the entire backrooms system
         - removed all levels (old levels can be found at sxlaris.wikidot.com/backrooms-level-1 instead of sxlaris.wikidot.com/level-1)
         - added new levels 1-4
+        - added containers for levels 1-4 galleries
 
 ----------------------------------------------------------
 
