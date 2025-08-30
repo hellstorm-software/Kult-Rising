@@ -37,6 +37,7 @@
     - adjusted all black redacted bars to be white to fit with visual theme
     - added [Ennead Hub](http://sxlaris.wikidot.com/ennead-hub)
     - added [Olympian Hub](http://sxlaris.wikidot.com/olympian-hub)
+    - ported [SCP-2000](http://sxlaris.wikidot.com/scp-2000) from the SCP Wiki
 
 ----------------------------------------------------------
 
