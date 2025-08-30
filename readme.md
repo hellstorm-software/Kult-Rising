@@ -20,7 +20,7 @@
 - updated [wiki](http://sxlaris.wikidot.com)
     - moved goblins from SCP-x003 to SCP-x026
     - renamed ATLAS Corporation to ATLYS Corporation
-    - added [ATLAS Corporation Hub](http://sxlaris.wikidot.com/atlys-corporation-hub)
+    - added [ATLYS Corporation Hub](http://sxlaris.wikidot.com/atlys-corporation-hub)
     - began overhauling the entire backrooms system
         - removed all levels (old levels can be found at sxlaris.wikidot.com/backrooms-level-1 instead of sxlaris.wikidot.com/level-1)
         - moved old level cluster to [archive](http://sxlaris.wikidot.com/backrooms-cluster-1-old)
