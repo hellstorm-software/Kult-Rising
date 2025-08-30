@@ -18,6 +18,7 @@
 
 2025.8.1 - 2025.8.29
 - updated [wiki](http://sxlaris.wikidot.com)
+    - moved goblins from SCP-x003 to SCP-x026
 
 ----------------------------------------------------------
 
