@@ -26,6 +26,7 @@
         - added new levels [1-4](http://sxlaris.wikidot.com/backrooms-cluster-1#01)
         - added containers for levels 1-4 galleries
         - renamed the levels to the Yellowrooms, the entertainment complex, the Poolrooms, and the Yard
+    - added [substances](http://sxlaris.wikidot.com/substances)
     - added [performance enhancers](http://sxlaris.wikidot.com/performance-enhancers) page
 
 ----------------------------------------------------------
