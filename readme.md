@@ -20,6 +20,7 @@
 - overhauled Poolrooms cluster 12
     - massively extended "uncharted overview" area
     - began adding the wave room
+    - replaced an issue causing certain materials to have reflections when they shouldn't
 
 ----------------------------------------------------------
 
