@@ -19,6 +19,7 @@
 2025.9.3
 - overhauled Poolrooms cluster 12
     - massively extended "uncharted overview" area
+    - began adding the wave room
 
 ----------------------------------------------------------
 
