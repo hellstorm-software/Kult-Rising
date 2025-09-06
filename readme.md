@@ -20,6 +20,7 @@
 - updated the Ashlands
     - added proper materials to forested islands
     - added a few thousand trees
+    - added ~1000 rocks
 
 ----------------------------------------------------------
 
