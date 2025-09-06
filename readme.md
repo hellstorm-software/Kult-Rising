@@ -24,6 +24,7 @@
     - added zentrite resource
     - added a zentrite field by the crashed cruiser
     - began creating the crashed pod on the main island
+    - began adding generic loot container
 
 ----------------------------------------------------------
 
