@@ -18,6 +18,7 @@
 
 2025.9.6
 - updated the Ashlands
+    - added proper materials to forested islands
 
 ----------------------------------------------------------
 
