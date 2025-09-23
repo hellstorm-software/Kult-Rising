@@ -21,6 +21,7 @@
     - current run time is about 10 minutes
     - adjusted plaster wall material
     - remade and improved cieling lights
+    - overhauled post processing fx in immersive mode
 
 ----------------------------------------------------------
 
