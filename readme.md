@@ -29,6 +29,7 @@
     - added infinite pool hall
     - adjusted LOD for pool tiles
     - fixed an issue that caused footstep sounds to not play
+- updated [wiki](http://sxlaris.wikidot.com)
 
 ----------------------------------------------------------
 
