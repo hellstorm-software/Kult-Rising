@@ -24,6 +24,7 @@
     - overhauled post processing fx in immersive mode
     - added a new section to the bottom area of the level
     - removed the 2 exots to the level and replaced them with regular doors
+    - added growing hallway
 - began creating level 17
     - added infinite pool hall
     - adjusted LOD for pool tiles
