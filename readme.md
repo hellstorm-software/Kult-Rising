@@ -22,6 +22,7 @@
     - adjusted plaster wall material
     - remade and improved cieling lights
     - overhauled post processing fx in immersive mode
+    - added a new section to the bottom area of the level
 - began creating level 17
     - added infinite pool hall
     - adjusted LOD for pool tiles
