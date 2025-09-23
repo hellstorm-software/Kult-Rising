@@ -19,6 +19,7 @@
 2025.9.9 - 2025.9.23
 - overhauled and massively expanded level 1
     - current run time is about 10 minutes
+    - adjusted plaster wall material
 
 ----------------------------------------------------------
 
