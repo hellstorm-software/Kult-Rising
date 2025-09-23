@@ -23,6 +23,7 @@
     - remade and improved cieling lights
     - overhauled post processing fx in immersive mode
 - began creating level 17
+    - added infinite pool hall
 
 ----------------------------------------------------------
 
