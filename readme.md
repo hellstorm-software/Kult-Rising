@@ -20,6 +20,7 @@
 - overhauled and massively expanded level 1
     - current run time is about 10 minutes
     - adjusted plaster wall material
+    - remade and improved cieling lights
 
 ----------------------------------------------------------
 
