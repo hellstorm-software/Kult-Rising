@@ -25,6 +25,7 @@
 - began creating level 17
     - added infinite pool hall
     - adjusted LOD for pool tiles
+    - fixed an issue that caused footstep sounds to not play
 
 ----------------------------------------------------------
 
