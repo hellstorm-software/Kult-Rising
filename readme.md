@@ -34,6 +34,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added base low-poly walker model
     - integrated new low-poly models into existing skeleton/animations
 - fixed an issue that caused immersive mode to be locked in non-immersive levels
+- fixedan issue that caused survivor mode to be locked in non-survivor levels
 
 ----------------------------------------------------------
 
