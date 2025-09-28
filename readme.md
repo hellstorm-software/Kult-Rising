@@ -30,6 +30,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - began adding props to office space
 - began building Kult: MTF Survivors minigame
     - added base level
+    - added base low-poly character model
 
 ----------------------------------------------------------
 
