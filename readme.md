@@ -12,7 +12,20 @@
 
 ----------------------------------------------------------
 
+Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Universe.
+
+----------------------------------------------------------
+
 <h2>[SEP]</h2>
+
+----------------------------------------------------------
+
+2025.9.28
+- for the sake of clarity, from this point forward "level" will always refer to backrooms levels, and "cluster" will always refer to the in game levels, which contain multiple backrooms levels.
+- extended cluster 1
+    - added ATLYS office space
+- began building Kult: MTF Survivors minigame
+    - added base level
 
 ----------------------------------------------------------
 
