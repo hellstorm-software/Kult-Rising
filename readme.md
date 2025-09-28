@@ -27,6 +27,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added lookdown into level 37
     - fixed an issue that caused clear windows to be scratched windows
     - added lookdown into the slice
+    - began adding props to office space
 - began building Kult: MTF Survivors minigame
     - added base level
 
