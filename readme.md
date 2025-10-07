@@ -27,7 +27,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 2025.10.5
 - updated menu screen
-    - 
+    - fixed an issue that caused text to display the wrong titles on certain pages 
 - began creating Black Sand Protocol
 
 ----------------------------------------------------------
