@@ -31,19 +31,19 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - added 2 lookouts
         - added ceiling
         - added extra lighting
-    - built level exit (demo version)
-    - created end of demo level
-        - added exit game door
-        - added join discord door
-        - added door to sandbox
-    - began making custom menu for the demo (Kult Tapes Vol. 1: Gas at Midnight)
-    - began building gas station level
-        - added 2 new door types
-        - added gas station interior
-        - added gas station exterior
-        - added gas pumps
-        - adjusted lighting/ppfx
-   - *fixed a bug that caused crafting tables to not open when interacted with*
+- built level exit (demo version)
+- created end of demo level
+    - added exit game door
+    - added join discord door
+    - added door to sandbox
+- began making custom menu for the demo (Kult Tapes Vol. 1: Gas at Midnight)
+- began building gas station level
+    - added 2 new door types
+    - added gas station interior
+    - added gas station exterior
+    - added gas pumps
+    - adjusted lighting/ppfx
+- *fixed a bug that caused crafting tables to not open when interacted with*
 
 ----------------------------------------------------------
 
