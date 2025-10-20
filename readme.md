@@ -21,7 +21,8 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 ----------------------------------------------------------
 
 2025.20.16
-- mostly finished cluster 2
+- mostly finished cluster 2 (current walkthrough time is 20 minutes)
+    - finished wall furnishings on floor 2
 
 ----------------------------------------------------------
 
