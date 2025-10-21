@@ -48,6 +48,8 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - adjusted weapons area to show finished and unfinished weapons in separate groups
 - *fixed a bug that caused crafting tables to not open when interacted with*
 
+known issues:
+
 ----------------------------------------------------------
 
 2025.10.16
