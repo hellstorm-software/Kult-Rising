@@ -50,6 +50,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 known issues:
 - sometimes when respawning after death the game will force you into third person view (press "v" to switch back)
+- after respawning, if you are in third person and ADS while holding a weapon, you will not automatically be moved into first person aiming as you should be. To fix, simply save and reload
 
 ----------------------------------------------------------
 
