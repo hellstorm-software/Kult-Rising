@@ -49,6 +49,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - *fixed a bug that caused crafting tables to not open when interacted with*
 
 known issues:
+- sometimes when respawning after death the game will force you into third person view (press "v" to switch back)
 
 ----------------------------------------------------------
 
