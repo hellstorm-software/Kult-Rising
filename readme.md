@@ -23,6 +23,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 2025.10.22 - 2025.10.24
 - finished 99% of gas station map
     - added extension to the back corner of the convenience store
+    - doubled the height of the shelves
 
 ----------------------------------------------------------
 
