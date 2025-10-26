@@ -24,6 +24,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - Created gas station AI system
     - created civilian
     - created junkie
+    - created soldier
 ----------------------------------------------------------
 
 2025.10.22 - 2025.10.24
