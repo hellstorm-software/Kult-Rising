@@ -28,6 +28,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - created DClass
 - hooked gas station AI into dialogue system
 - added the blue haired girl
+- began creating manager cutscene
 ----------------------------------------------------------
 
 2025.10.22 - 2025.10.24
