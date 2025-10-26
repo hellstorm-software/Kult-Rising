@@ -31,7 +31,8 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - connected junkie to shopping logic
         - added junkie to game system
     - created soldier
-        - added soldier model
+        - added soldier models
+        - added soldiers to dialogue system
     - created DClass
     - created manager
 - hooked gas station AI into dialogue system
