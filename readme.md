@@ -30,6 +30,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - added blue haired girl dialogue
 - added D-Class dialogue
 - added grocery props to cutomer checkout interaction system for visual feedback of player actions
+- *fixed an issue that caused the blue hair girl's dialogue box to not be accessible more than once*
 
 ----------------------------------------------------------
 
