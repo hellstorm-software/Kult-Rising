@@ -25,7 +25,8 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added civilians to locomotion system
     - added junkies to locomotion system
     - added Caseoh to locomotion system
-    - added D-Class to locomotion system
+    - added D-Class to locomotion system 
+    - added soldiers to locomotion system
 
 ----------------------------------------------------------
 
