@@ -22,6 +22,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 2025.10.28
 - added SCP-173 movement system
+- completed full gas station logic sequence
 
 ----------------------------------------------------------
 
