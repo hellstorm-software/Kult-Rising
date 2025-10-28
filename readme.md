@@ -25,6 +25,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - SCP-173 now only moves when not being looked at
     - *fixed an issue that caused SCP-173 to move at the normal player speed*
 - completed full gas station logic sequence
+    - added NoClip zone logic system
 
 ----------------------------------------------------------
 
