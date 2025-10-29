@@ -28,7 +28,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added exit within a tunnel of the cutaway
 - began working on SCP-3008
     - added wood material
-    - added linolium material
+    - added linoleum material
 ----------------------------------------------------------
 
 2025.10.27
