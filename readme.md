@@ -21,14 +21,14 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 ----------------------------------------------------------
 
 2025.10.28
-- began adding the grassrooms to cluster 4
+- began adding the grassrooms to cluster 4 (current walkthrough time is 6 minutes)
     - added grass material
     - added large overhead lighting
     - added basic geometry layout
     - added exit within a tunnel of the cutaway
 - began working on SCP-3008
     - added wood material
-    - added linoleum material
+    - added linolium material
 ----------------------------------------------------------
 
 2025.10.27
