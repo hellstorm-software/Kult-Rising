@@ -29,7 +29,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - added phone dialogue
     - added more types of products to gas station shelves
     - updated cluster 2
-    - added light puzzle to escape cluster 2
+        - added light puzzle to escape cluster 2
     - added tutorial dialogue boxes
     - added ambient sounds to gas station cluster
     - added ambient sounds to cluster 2
