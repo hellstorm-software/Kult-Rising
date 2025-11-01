@@ -44,6 +44,7 @@ Known Issues:
 - *the second dialogue option for the second response to the D-class gets cut off and needs adjusted*
 - *waterpark owner's animations are broken*
 - *item details struct is currently broken*
+- *the SCP-173 checks for the position of the bottom of the statue, meaning in certain cases if SCP-173 is close to the player and the player looks up at its head, SCP-173 will move when it shouldn't be able to*
 
 ----------------------------------------------------------
 
