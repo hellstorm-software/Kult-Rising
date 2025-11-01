@@ -24,6 +24,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - finished Midnight Gas V. 1.0
     - added all cutscenes
         - manager
+        - waterpark owner
     - added all npc dialogue
     - added phone
         - added phone functionality
