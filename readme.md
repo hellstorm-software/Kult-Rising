@@ -34,6 +34,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - added ambient sounds to gas station cluster
         - added ambient sounds to cluster 2
         - added several collectible SCP-131s to cluster 2
+        - added some extra lights
 
 Known Issues:
 - *the second dialogue option for the second response to the D-class gets cut off and needs adjusted*
