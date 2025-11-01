@@ -45,6 +45,7 @@ Known Issues:
 - *waterpark owner's animations are broken*
 - *item details struct is currently broken*
 - *SCP-173 checks for the position of the bottom of the statue, meaning in certain cases if SCP-173 is close to the player and the player looks up at its head, SCP-173 will move when it shouldn't be able to*
+- *collecting all instances of SCP-131 and then jumping off the map in clister 2 will soft lock the player*
 
 ----------------------------------------------------------
 
