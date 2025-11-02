@@ -27,7 +27,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - properly connected demo end cluster to sandbox testing cluster
     - adjusted demo menu
     - fixed an issue that caused the game to return to the menu after the intro cutscene
-    - packaged the game (this shit is finally finished. why did i decide to make an entire game in 11 days without using any parts of the game id already built? couldn't tell you.)
+    - packaged the game (this shit is finally finished. why did i decide to make an entire game in 11 days without using any parts of the game id already built? couldn't tell you, but thats what i did)
  
 Known Issues:
 - *SCP-173's textures do not load*
