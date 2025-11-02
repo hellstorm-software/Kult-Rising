@@ -32,6 +32,7 @@ Known Issues:
 - *SCP-173 checks for the position of the bottom of the statue, meaning in certain cases if SCP-173 is close to the player and the player looks up at its head, SCP-173 will move when it shouldn't be able to*
 - *collecting all instances of SCP-131 and then jumping off the map in cluster 2 will soft lock the player*
 - *storm sounds on gas station cluster are not audible*
+- *the soldier cutscene can play improperly under certain conditions*
 ----------------------------------------------------------
 
 2025.10.29 - 2025.10.30
