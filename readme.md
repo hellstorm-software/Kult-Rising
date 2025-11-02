@@ -24,6 +24,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - fixed a bug causing the second response to the D-Class to get cut off
     - fixed item details struct
     - properly connected Gas Station cluster to core cluster
+    - properly connected demo end cluster to sandbox testing cluster
 ----------------------------------------------------------
 
 2025.10.29 - 2025.10.30
