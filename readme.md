@@ -25,6 +25,9 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - fixed item details struct
     - properly connected Gas Station cluster to core cluster
     - properly connected demo end cluster to sandbox testing cluster
+ 
+Known Issues:
+- *SCP-173's textures do not load*
 ----------------------------------------------------------
 
 2025.10.29 - 2025.10.30
