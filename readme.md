@@ -32,6 +32,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - extended the grassrooms section
     - added trigger volumes to change time of day as player moves through level
     - added overlook down into level 94
+    - added sunset skyboc
 
 Known Issues:
 - *storm sounds on gas station cluster are not audible*
