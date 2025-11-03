@@ -27,6 +27,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - fixed an issue causing SCP-173 to be able to be heard from anywhere on the level
     - fixed an issue causing SCP-173 to have a health bar
     - added extra VHS tapes to the gas station
+    - packaged V. 1.4
 - expanded cluster 4 (current walkthrough time is 7 minutes)
 
 Known Issues:
