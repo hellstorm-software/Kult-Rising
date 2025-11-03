@@ -26,6 +26,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - fixed an issue causing SCP-173 to not have sound
     - fixed an issue causing SCP-173 to be able to be heard from anywhere on the level
     - fixed an issue causing SCP-173 to have a health bar
+    - added extra VHS tapes to the gas station
 ----------------------------------------------------------
 
 <h2>[OCT]</h2>
