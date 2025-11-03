@@ -23,6 +23,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - finished midnight Gas V 1.4
     - fixed broken geometry in cluster 2
     - fixed an issue causing SCP-173 to not have textures
+    - fixed an issue causing SCP-173 to not have sound
 ----------------------------------------------------------
 
 <h2>[OCT]</h2>
