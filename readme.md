@@ -39,6 +39,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 Known Issues:
 - *storm sounds on gas station cluster are not audible*
 - *the soldier cutscene will play improperly under most conditions*
+
 ----------------------------------------------------------
 
 <h2>[OCT]</h2>
