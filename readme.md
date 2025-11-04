@@ -19,6 +19,8 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 <h2>[NOV]</h2>
 
 ----------------------------------------------------------
+
+----------------------------------------------------------
 2025.11.2
 - finished midnight Gas V 1.4
     - fixed broken geometry in cluster 2
@@ -58,6 +60,7 @@ Known Issues:
 - *collecting all instances of SCP-131 and then jumping off the map in cluster 2 will soft lock the player*
 - *storm sounds on gas station cluster are not audible*
 - *the soldier cutscene can play improperly under certain conditions*
+
 ----------------------------------------------------------
 
 2025.10.29 - 2025.10.30
