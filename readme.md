@@ -45,6 +45,7 @@ Known Issues:
 <h2>[OCT]</h2>
 
 ----------------------------------------------------------
+
 2025.10.31 - 2025.11.1
 - finished Midnight Gas V. 1.1
     - fixed a bug causing the second response to the D-Class to get cut off
