@@ -26,6 +26,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - created the expandable bunker walls
         - added staircase
         - began creating bunker door
+        - added a second tier of expandable walls
 
 Known Issues:
 - *bunker expansions do not save*
