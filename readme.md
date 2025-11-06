@@ -29,6 +29,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - added a second tier of expandable walls
 - extended cluster 1 of Kult: Freerunners
     - renamed "zone runners" to "Freerunners"
+    - adjusted layout of checkpoint system
 
 Known Issues:
 - *bunker expansions do not save*
