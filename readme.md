@@ -37,6 +37,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added a first person toggle to MoveSym
     - *fixed an issue that caused player's body to disappear when wallrunning*
     - *fixed an issue that caused player's legs to be out of view when sliding*
+    - adjusted grappling hook range
 
 Known Issues:
 - *bunker expansions do not save*
