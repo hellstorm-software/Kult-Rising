@@ -32,6 +32,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - adjusted layout of checkpoint system
     - added sliding animations
     - added climbing animations
+    - hooked new animations into movement character
 
 Known Issues:
 - *bunker expansions do not save*
