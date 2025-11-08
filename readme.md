@@ -22,7 +22,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 2025.11.8
 - changed Cluster 1 to Cluster 0
-- began working on a new cluster 1
+- began working on a new cluster 1 (total walkthrough time is 2 minutes)
     - added spawn room
     - added level 8 section
     - added Nidavellir lookthrough
