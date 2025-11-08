@@ -24,6 +24,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - changed main base of Kult Riaders from bunker to skyland
 - began creating void extracts
     - added raider door
+    - added countdown timer
 - began creating Nidavellir
     - added 4 extraction points
     - hooked elevator into interaction system
