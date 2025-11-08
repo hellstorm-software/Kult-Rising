@@ -28,6 +28,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added Nidavellir lookthrough
     - began adding level 4 hallways
     - added curtain sections to level 4 areas
+    - adjusted lighting settings (trying out a directional light for this level)
 
 ----------------------------------------------------------
 
