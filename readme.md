@@ -28,7 +28,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added countdown timer
     - added logic to void extract
 - began creating Nidavellir
-    - added 4 extraction points
+    - added 4 void extracts
     - hooked elevator into interaction system
     - began adding shopping district
 
