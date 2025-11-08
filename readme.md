@@ -31,6 +31,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added 4 void extracts
     - hooked elevator into interaction system
     - began adding shopping district
+    - added an extra bridge path below the shopping district
 
 ----------------------------------------------------------
 
