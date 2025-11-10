@@ -30,6 +30,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - added cannabis to save system
     - fixed an issue causing drone UI to stay on screen after leaving orbiting view
     - fixed an issue when accessing the orbiting camera from the core terminal, that prevented you from turning off the stash UI
+
 Known Issues:
 - *ph*
 
