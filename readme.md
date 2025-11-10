@@ -31,6 +31,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - adjusted lighting of orbiting camera
 - finished basic layout of Cluster 1
     - added ashland room to the bottom
+    - added ceiling to all areas
 
 Known Issues:
 - *when accessing the orbiting camera from the core terminal, you cant turn off thr stash UI*
