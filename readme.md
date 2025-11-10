@@ -27,17 +27,9 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - hooked drone system into survival inventory system
     - began creating a save system for the drones
     - fixed an issue causing drone UI to stay on screen after leaving orbiting view
-    - fixed an issue causing player controls to break when exiting orbiting view
-    - adjusted lighting of orbiting camera
-- finished basic layout of Cluster 1
-    - added ashland room to the bottom
-    - added ceiling to all areas
-    - adjusted the lighting across the level
-
+    - fixed an issue when accessing the orbiting camera from the core terminal, that prevented you from turning off the stash UI
 Known Issues:
-- *when accessing the orbiting camera from the core terminal, you cant turn off thr stash UI*
-- *crying obsidian has the wrong texture and model*
-- *there are incorrect shadows in some areas of cluster 1*
+- *ph*
 
 ----------------------------------------------------------
 
