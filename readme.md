@@ -33,6 +33,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 Known Issues:
 - *when creating a new drone, the drone will spawn, but one will not be placed in the crate*
+- accessing the orbiting camera from the main console will not activate the drones until the drone console has been interacted with directly
 
 ----------------------------------------------------------
 
