@@ -24,6 +24,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - added dev chests
 - reintegrated drone idle game
     - fixed the issue that caused the drones to break
+    - hooked drone system into survival inventory system
 
 ----------------------------------------------------------
 
