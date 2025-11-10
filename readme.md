@@ -29,6 +29,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - fixed an issue causing drone UI to stay on screen after leaving orbiting view
 
 Known Issues:
+- *when accessing the orbiting camera from the core terminal, you cant turn off thr stash UI*
 
 ----------------------------------------------------------
 
