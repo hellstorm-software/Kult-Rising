@@ -36,6 +36,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - created the selfie cam for cinematics
 - began creating SCP-970-1 Cluster
     - added basic room/hallway layout
+    - added logic to create an infinitely looping system
 
 Known Issues:
 - accessing the orbiting camera from the main console will not activate the drones until the drone console has been interacted with directly
