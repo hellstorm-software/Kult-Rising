@@ -32,9 +32,9 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - *fixed an issue causing drone UI to stay on screen after leaving orbiting view*
     - *fixed an issue when accessing the orbiting camera from the core terminal, that prevented you from turning off the stash UI*
     - added crying obsidian mesh
+    - *fixed an issue when creating a new drone, causing the drone to spawn, not be placed in the crate*
 
 Known Issues:
-- when creating a new drone, the drone will spawn, but one will not be placed in the crate
 - accessing the orbiting camera from the main console will not activate the drones until the drone console has been interacted with directly
 
 ----------------------------------------------------------
