@@ -25,6 +25,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - blocked out main floor
     - blocked out center area of second floor
 - updated [wiki](http://sxlaris.wikidot.com)
+    - added locations hub
 
 ----------------------------------------------------------
 
