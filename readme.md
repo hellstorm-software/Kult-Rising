@@ -29,7 +29,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added [GOI Hub](http://sxlaris.wikidot.com/goi-hub)
 - began working on the first draft of Convergence (Web Comic)
     - drafted page 1
-    - updated dragt page 2
+    - updated draft page 2
     - updated draft page 3
     - drafted page 4
     - drafted page 5
