@@ -33,6 +33,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - updated draft page 3
     - drafted page 4
     - drafted page 5
+- Wrote the first draft of "The Last Contingency" (Story) 
 
 ----------------------------------------------------------
 
