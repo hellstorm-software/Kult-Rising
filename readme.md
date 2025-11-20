@@ -27,13 +27,13 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - added table of contents
         - added images for SCP-073 and SCP-343
     - added [GOI Hub](http://sxlaris.wikidot.com/goi-hub)
-- began working on the first draft of Convergence (Web Comic)
+- began working on the first draft of [Convergence (Web Comic)](http://sxlaris.wikidot.com/canon)
     - drafted page 1
     - updated draft page 2
     - updated draft page 3
     - drafted page 4
     - drafted page 5
-- Wrote the first draft of "The Last Contingency" (Story) 
+- Wrote the first draft of "The Last [Contingency" (Story) ](http://sxlaris.wikidot.com/canon)
 
 ----------------------------------------------------------
 
