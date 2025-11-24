@@ -26,6 +26,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - added lift upgrades to the tower lift in the ashlands
     - connected lift upgrades to the save system
 - updated [wiki](http://sxlaris.wikidot.com)
+- began adding the wanderer's library sector zero
 
 ----------------------------------------------------------
 
