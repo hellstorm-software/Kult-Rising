@@ -38,6 +38,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added SCP-x104
     - added SCP-x110
     - added SCP-x113
+    - added SCP-x114
     - added the 784 incident
 
 ----------------------------------------------------------
