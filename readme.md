@@ -25,6 +25,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - fixed an issue causing drone controls to not function
 - began expanding cluster 7
     - added large chamber
+    - added 3 paths
 - optimized culling settings of level 37 round lights
 - created faded wallpaper material
 - adjusted LOD settings for pooltile material
