@@ -56,7 +56,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
             - added a new ending section to part 7
         - ported part 8
             - updated part 8 to accomodate for changes in part 7
-    - ported SCP-5000
+    - ported [SCP-5000](http://sxlaris.wikidot.com/scp-5000)
         - adjusted dates in SCP-5000 to fit timeline
 
 ----------------------------------------------------------
