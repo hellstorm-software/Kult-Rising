@@ -22,6 +22,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 2025.11.30
 - fixed an issue causing ai navigation to break in the ashlands
+- fixed an issue causing drone controls to not function
 
 ----------------------------------------------------------
 
