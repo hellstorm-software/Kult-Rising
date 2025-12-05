@@ -28,6 +28,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - changed glass material in ashelands tower
     - adjusted SCP-008 spawns
     - added emberstag spawns
+    - added store to tower facilities panel
 - *fixed an issue causing the axe hitbox to not work*
 - *adjusted axe holding animation*
 - adjusted hunger rate
