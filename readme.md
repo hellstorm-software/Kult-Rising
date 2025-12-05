@@ -44,6 +44,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added ruined crates
 - *fixed an issue causing 366 TKM ammunition to not work*
 - *fixed an issue causing quick move in inventory to not work*
+- *fixed an issue causing third person body to be visible in first person*
 
 Known Issues:
 - *all rifles use M4A4 model when being held*
