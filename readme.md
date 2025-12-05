@@ -23,6 +23,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 2025.12.4
 - began creating log holder build part
 - added new mesh for primative axe
+- began creating quantum storage
 - *fixed an issue causing the axe hitbox to not work*
 - *adjusted axe holding animation*
 
