@@ -20,19 +20,8 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 ----------------------------------------------------------
 
-2025.12.1
+2025.12.1 - 2025.12.3
 - adjusted most textures to be world aligned
-- updated cluster 2
-    - added sticks
-    - added rocks
-    - added wooden crates
-    - added tree blockage (axe tutorial)
-- updated crafting recipes
-    - wooden axe is now 2 sticks and 3 rocks
-    - wooden pickaxe is now 2 sticks and 3 rocks
-- added stick resource 
-- added rock resource
-- adjusted stack sizes of all resources
 
 ----------------------------------------------------------
 
