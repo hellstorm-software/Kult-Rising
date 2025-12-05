@@ -24,6 +24,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - adjusted most textures to be world aligned
 - updated Ashlands tower
 - added VPO-215
+- began overhauling inventory UI
 - *fixed an issue causing 366 TKM ammunition to not work*
 - *fixed an issue causing quick move in inventory to not work*
 
