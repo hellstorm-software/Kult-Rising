@@ -37,6 +37,9 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - adjusted stack size of logs to 2 (was 4)
 - adjusted reload speed of DZ-18
 
+Known Issues:
+- Log holder inventory will not save
+
 ----------------------------------------------------------
 2025.12.1 - 2025.12.3
 - adjusted most textures to be world aligned
