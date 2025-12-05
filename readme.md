@@ -28,6 +28,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - changed glass material in ashelands tower
 - *fixed an issue causing the axe hitbox to not work*
 - *adjusted axe holding animation*
+- adjusted hunger rate
 
 ----------------------------------------------------------
 2025.12.1 - 2025.12.3
