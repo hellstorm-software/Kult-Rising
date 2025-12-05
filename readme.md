@@ -58,6 +58,7 @@ Known Issues:
     - added 3 paths
 - optimized culling settings of level 37 round lights
 - created faded wallpaper material
+- created poolroom clouds material
 - adjusted LOD settings for pooltile material
 
 ----------------------------------------------------------
