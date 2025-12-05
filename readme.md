@@ -39,6 +39,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added sticks
     - added rocks
     - added hatchet required doorways before the ashlands section
+    - added ruined crates
 - *fixed an issue causing 366 TKM ammunition to not work*
 - *fixed an issue causing quick move in inventory to not work*
 
