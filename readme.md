@@ -30,7 +30,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - *fixed an issue causing quick move in inventory to not work*
 
 Known Issues:
-
+- *all rifles use M4A4 model when being held)*
 
 ----------------------------------------------------------
 
