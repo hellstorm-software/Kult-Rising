@@ -33,6 +33,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - began creating diagetic inventory
         - added backpack mesh
         - added tarp mesh
+        - added tools meshes
     - added inventory camera
     - added inventory lighting
 - added almond water
