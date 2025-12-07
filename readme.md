@@ -25,6 +25,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - added stone holder
 - began creating the tower milestone system
     - added phase 1 lv 1 wood deposit
+    - connected mulestone system to save system
 
 ----------------------------------------------------------
 2025.12.4
