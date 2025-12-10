@@ -27,6 +27,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added phase 1 lv 1 wood deposit
     - connected mulestone system to save system
     - *fixed an issue causing the resource counter to enter an infinite loop and crash*
+- updated [wiki](http://sxlaris.wikidot.com)
 
 ----------------------------------------------------------
 2025.12.4
