@@ -27,7 +27,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added phase 1 lv 1 wood deposit
     - connected mulestone system to save system
     - *fixed an issue causing the resource counter to enter an infinite loop and crash*
-- *finally fixed the issue casing the anti-aliasing to bug out and cause colored dots and artifacting when selecting certain items*
+- *fixed an issue casing the anti-aliasing to bug out and cause colored dots and artifacting when selecting certain items*
 - updated [wiki](http://sxlaris.wikidot.com)
     - changed SCP-x052 (Hellhounds) to SCP-x053 (seat of knowledge)
     - added SCP-x157
