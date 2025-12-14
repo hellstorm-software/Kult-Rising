@@ -22,6 +22,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 2025.12.13 - 2025.12.14
 - began creating Ashlands Replikate system
+    - created replikate spawn points
 - began blocking out the forgotten city in the ashlands
     - added main cluster of buildings to the west of the tower
     - added large chains
