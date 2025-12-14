@@ -29,7 +29,8 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added battered flags
     - added Norse pillars
     - added ziplines up to and between some of the buildings
-- added dwarven statue to the north east corner of the ashlands 
+- added dwarven statue to the north east corner of the ashlands
+- updated [wiki](http://sxlaris.wikidot.com)
 
 ----------------------------------------------------------
 
