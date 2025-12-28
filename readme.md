@@ -43,6 +43,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - lowered the total amount of wood per tree
 - lowered the build cost of all regular buildables (foundations, walls, floors, etc) [previously was 10 as base and 12 for expensive, now is 4 as base and 6 for expensive]
 - adjusted the inventory size of wood (was 2x3 now 1x2)
+- added logs as a separate resource from wood
 
 Known Issues:
 - drone navigation is broken
