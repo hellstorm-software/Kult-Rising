@@ -20,6 +20,11 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 ----------------------------------------------------------
 
+2025.12.28
+- began adding echo mech
+
+----------------------------------------------------------
+
 2025.12.27
 - finished level 1 of the tower milestones
     - integrated into the save system
