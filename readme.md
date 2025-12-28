@@ -35,6 +35,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - adjusted LOD distance for the trees
 - made the ashlands slightly brighter
 - added a 5th stack to the ashlands directly behind the tower
+    - adjusted foliage around the stack
 - added several echo spawn points in the ancient city 
 - added the first extraction point in the north west corner of the map
 - removed foundations at the bottom of the tower
