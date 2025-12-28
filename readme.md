@@ -41,6 +41,9 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - removed foundations at the bottom of the tower
 - removed and replaced all the trees on the main island (lowered density by about 30%)
 
+Known Issues:
+- drone navigation is broken
+
 ----------------------------------------------------------
 
 2025.12.24 - 2025.12.25
