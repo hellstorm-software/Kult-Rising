@@ -76,6 +76,7 @@ Known Issues:
     - added battered flags
     - added Norse pillars
     - added ziplines up to and between some of the buildings
+    - added the collapsed bridge (E/W)
 - added dwarven statue to the north east corner of the ashlands
 - updated [wiki](http://sxlaris.wikidot.com)
 - began expanding Cluster 8
