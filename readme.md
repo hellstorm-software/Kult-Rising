@@ -26,6 +26,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - updated the interaction text for more clarity
     - updated milestone display materials
 - began adding level 2 of the tower milestones
+    - integrated into the save system
     - fixed an issue causing level 2 display to not appear upon completing level 1
     - fixed an issue that caused the level 2 display to disappear befofe being completed 
 - adjusted foliage on the main island of the ashlands
