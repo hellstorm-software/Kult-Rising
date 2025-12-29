@@ -26,6 +26,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - created echoes faction to prevent echoes and echo walkers from attacking one another
 - created rag shirt item
 - created tshit item
+- created tracksuit jacket item
 
 ----------------------------------------------------------
 
