@@ -21,6 +21,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 ----------------------------------------------------------
 
 2025.12.28
+- began building out thr tower elevator
 - began adding echo mech
     - added turrets to mech
     - created echoes faction to prevent echoes and echo walkers from attacking one another
