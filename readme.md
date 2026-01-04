@@ -40,6 +40,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - created lootable bookshelf item
     - added bookshelf mesh
 - created second lootable building
+    - added furniture
 - created a new black plaster material
 
 ----------------------------------------------------------
