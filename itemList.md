@@ -39,3 +39,5 @@
 | Consumable_CookedMeat   | Data A   | Data A   |
 | Resource_IronOre   | Data A   | Data A   |
 | BuildPart_Bed   | Data A   | Data A   |
+| Resource_PlantFiber   | Data A   | Data A   |
+| Equipment_CardboardVest   | Data A   | Data A   |
