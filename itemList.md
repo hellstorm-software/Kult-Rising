@@ -4,3 +4,6 @@
 | Weapon_M1982   | Data B   | Data B   |
 | Weapon_M4A4  | Data A   | Data A   |
 | Holdable_BuildingPlan   | Data B   | Data B   |
+| Holdable_Hammer   | Data A   | Data A   |
+| Magazine_M4A4   | Data A   | Data A   |
+| Magazine_P1911  | Data A   | Data A   |
