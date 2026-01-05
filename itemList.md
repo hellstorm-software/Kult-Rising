@@ -48,3 +48,12 @@
 | Resource_SmallScrapCardboard   | Data A   | Data A   |
 | Resource_LargeScrapCardboard   | Data A   | Data A   |
 | BuildPart_Lamp   | Data A   | Data A   |
+| Consumable_WaterBottle   | Data A   | Data A   |
+| Consumable_MeatStew   | Data A   | Data A   |
+| Resource_SmallScrapCardboard   | Data A   | Data A   |
+| BuildPart_C4   | Data A   | Data A   |
+| BuildPart_Keylock   | Data A   | Data A   |
+| BuildPart_Key   | Data A   | Data A   |
+| BuildPart_Cooler   | Data A   | Data A   |
+| BuildPart_StorageBin   | Data A   | Data A   |
+| BuildPart_Keylock   | Data A   | Data A   |
