@@ -17,3 +17,7 @@
 | Weapon_WoodenAxe   | Data A   | Data A   |
 | Attachment_ReddotSight   | Data A   | Data A   |
 | Weapon_WoodenPickaxe   | Data A   | Data A   |
+| Resource_Wood   | Data A   | Data A   |
+| Resource_Stone   | Data A   | Data A   |
+| Consumable_Bandage   | Data A   | Data A   |
+| Consumable_Beans   | Data A   | Data A   |
