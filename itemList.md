@@ -26,3 +26,8 @@
 | BuildPart_Codelock   | Data A   | Data A   |
 | BuildPart_Campfire   | Data A   | Data A   |
 | Consumable_Berries   | Data A   | Data A   |
+| Ammo_Buckshot   | Data A   | Data A   |
+| Ammo_9mm   | Data A   | Data A   |
+| Resource_Cloth   | Data A   | Data A   |
+| BuildPart_Furnace   | Data A   | Data A   |
+| BuildPart_WoodChest   | Data A   | Data A   |
