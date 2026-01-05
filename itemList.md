@@ -21,3 +21,6 @@
 | Resource_Stone   | Data A   | Data A   |
 | Consumable_Bandage   | Data A   | Data A   |
 | Consumable_Beans   | Data A   | Data A   |
+| Resource_IronBar   | Data A   | Data A   |
+| BuildPart_CraftingBench   | Data A   | Data A   |
+| BuildPart_Codelock   | Data A   | Data A   |
