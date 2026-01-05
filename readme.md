@@ -47,6 +47,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - adjusted fridge size from 5x7 to 4x6
 - renamed mega backpack to Raze Tactical backpack
     - adjusted storage from special layout to 5x7 slots
+- adjusted storage of pilgrim backpack from 40 slots to 48
 
 ----------------------------------------------------------
 
