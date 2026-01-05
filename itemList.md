@@ -24,3 +24,5 @@
 | Resource_IronBar   | Data A   | Data A   |
 | BuildPart_CraftingBench   | Data A   | Data A   |
 | BuildPart_Codelock   | Data A   | Data A   |
+| BuildPart_Campfire   | Data A   | Data A   |
+| Consumable_Berries   | Data A   | Data A   |
