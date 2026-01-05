@@ -31,3 +31,4 @@
 | Resource_Cloth   | Data A   | Data A   |
 | BuildPart_Furnace   | Data A   | Data A   |
 | BuildPart_WoodChest   | Data A   | Data A   |
+| Equipment_MegaBackpack   | Data A   | Data A   |
