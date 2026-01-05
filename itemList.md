@@ -41,3 +41,10 @@
 | BuildPart_Bed   | Data A   | Data A   |
 | Resource_PlantFiber   | Data A   | Data A   |
 | Equipment_CardboardVest   | Data A   | Data A   |
+| Equipment_CardboardHelmet   | Data A   | Data A   |
+| Equipment_CardboardPants   | Data A   | Data A   |
+| Equipment_CardboardFeet   | Data A   | Data A   |
+| Equipment_CardboardArms   | Data A   | Data A   |
+| Resource_SmallScrapCardboard   | Data A   | Data A   |
+| Resource_LargeScrapCardboard   | Data A   | Data A   |
+| BuildPart_Lamp   | Data A   | Data A   |
