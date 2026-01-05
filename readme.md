@@ -26,6 +26,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - created lootable world cupboards
     - added cupboard mesh
 - began creating grand exchange
+- added new kind of door
 
 ----------------------------------------------------------
 
