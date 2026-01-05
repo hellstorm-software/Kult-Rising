@@ -37,3 +37,5 @@
 | Holdable_Flashlight   | Data A   | Data A   |
 | Consumable_RawMeat   | Data A   | Data A   |
 | Consumable_CookedMeat   | Data A   | Data A   |
+| Resource_IronOre   | Data A   | Data A   |
+| BuildPart_Bed   | Data A   | Data A   |
