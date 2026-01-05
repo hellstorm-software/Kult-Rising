@@ -9,3 +9,4 @@
 | Magazine_P1911  | Data A   | Data A   |
 | Consumable_HealthDrink  | Data A   | Data A   |
 | Equipment_G4Backpack   | Data A   | Data A   |
+| Equipment_RiotHelmet   | Data A   | Data A   |
