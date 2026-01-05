@@ -57,3 +57,15 @@
 | BuildPart_Cooler   | Data A   | Data A   |
 | BuildPart_StorageBin   | Data A   | Data A   |
 | BuildPart_Keylock   | Data A   | Data A   |
+| Currency_VEK   | Data A   | Data A   |
+| Misc_MinorCore   | Data A   | Data A   |
+| Misc_MajorCore   | Data A   | Data A   |
+| Resource_OGKush   | Data A   | Data A   |
+| Resource_LSD   | Data A   | Data A   |
+| Resource_Meth   | Data A   | Data A   |
+| Resource_Cocaine   | Data A   | Data A   |
+| Resource_Bag   | Data A   | Data A   |
+| Resource_Jar   | Data A   | Data A   |
+| Item_FlashDrive   | Data A   | Data A   |
+| Item_SSD   | Data A   | Data A   |
+| Equipment_BioHelmet   | Data A   | Data A   |
