@@ -10,3 +10,7 @@
 | Consumable_HealthDrink  | Data A   | Data A   |
 | Equipment_G4Backpack   | Data A   | Data A   |
 | Equipment_RiotHelmet   | Data A   | Data A   |
+| Ammo_7.62x39mm   | Data A   | Data A   |
+| Attachment_M4A4Stock  | Data A   | Data A   |
+| Weapon_Knife   | Data A   | Data A   |
+| Holdable_B7Grenade   | Data A   | Data A   |
