@@ -34,6 +34,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - firefighter: 3x4 to 4x5
     - cloth shirt: 2x1 to 3x1
     - tshirt: 2x1 to 3x1
+- updated OPP inventory icon
 
 ----------------------------------------------------------
 
