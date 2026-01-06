@@ -5,8 +5,8 @@
 | Weapon_M4A4  | 48k   | Data A   |
 | Holdable_BuildingPlan   | 1   | Data B   |
 | Holdable_Hammer   | 1   | Data A   |
-| Magazine_M4A4   | Data A   | Data A   |
-| Magazine_P1911  | Data A   | Data A   |
+| Magazine_M4A4   | 2.5k   | Data A   |
+| Magazine_P1911  | 1k   | Data A   |
 | Consumable_HealthDrink  | Data A   | Data A   |
 | Equipment_G4Backpack   | Data A   | Data A   |
 | Equipment_RiotHelmet   | Data A   | Data A   |
