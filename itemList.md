@@ -14,11 +14,11 @@
 | Attachment_M4A4Stock  | 5k   | Data A   |
 | Weapon_Knife   | 3k   | Data A   |
 | Holdable_B7Grenade   | Data A   | Data A   |
-| Weapon_WoodenAxe   | 500   | Data A   |
+| Weapon_WoodenAxe   | 1k   | Data A   |
 | Attachment_ReddotSight   | 15k   | Data A   |
 | Weapon_WoodenPickaxe   | Data A   | Data A   |
-| Resource_Wood   | 2   | Data A   |
-| Resource_Stone   | 2   | Data A   |
+| Resource_Wood   | 7k   | Data A   |
+| Resource_Stone   | 7k   | Data A   |
 | Consumable_Bandage   | 900   | Data A   |
 | Consumable_Beans   | Data A   | Data A   |
 | Resource_IronBar   | Data A   | Data A   |
