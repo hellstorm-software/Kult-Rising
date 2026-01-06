@@ -28,7 +28,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - added new custom grid with 6 7x1 rows
 - added storage bin item (2x2)
 - added composter item (3x2)
-- adjusted jacket sizes
+- adjusted shirt sizes
     - tracksuit: 2x3 to 3x4
     - leather: 2x3 to 4x4
     - firefighter: 3x4 to 4x5
