@@ -17,9 +17,9 @@
 | Weapon_WoodenAxe   | 500   | Data A   |
 | Attachment_ReddotSight   | 15k   | Data A   |
 | Weapon_WoodenPickaxe   | Data A   | Data A   |
-| Resource_Wood   | Data A   | Data A   |
-| Resource_Stone   | Data A   | Data A   |
-| Consumable_Bandage   | Data A   | Data A   |
+| Resource_Wood   | 2   | Data A   |
+| Resource_Stone   | 2   | Data A   |
+| Consumable_Bandage   | 900   | Data A   |
 | Consumable_Beans   | Data A   | Data A   |
 | Resource_IronBar   | Data A   | Data A   |
 | BuildPart_CraftingBench   | Data A   | Data A   |
