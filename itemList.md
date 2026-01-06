@@ -15,7 +15,7 @@
 | Weapon_Knife   | 3k   | Data A   |
 | Holdable_B7Grenade   | Data A   | Data A   |
 | Weapon_WoodenAxe   | 500   | Data A   |
-| Attachment_ReddotSight   | Data A   | Data A   |
+| Attachment_ReddotSight   | 15k   | Data A   |
 | Weapon_WoodenPickaxe   | Data A   | Data A   |
 | Resource_Wood   | Data A   | Data A   |
 | Resource_Stone   | Data A   | Data A   |
