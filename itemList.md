@@ -7,9 +7,9 @@
 | Holdable_Hammer   | 1   | Data A   |
 | Magazine_M4A4   | 2.5k   | Data A   |
 | Magazine_P1911  | 1k   | Data A   |
-| Consumable_HealthDrink  | Data A   | Data A   |
-| Equipment_G4Backpack   | Data A   | Data A   |
-| Equipment_RiotHelmet   | Data A   | Data A   |
+| Consumable_HealthDrink  | 5k   | Data A   |
+| Equipment_G4Backpack   | 24k   | Data A   |
+| Equipment_RiotHelmet   | 10k   | Data A   |
 | Ammo_7.62x39mm   | Data A   | Data A   |
 | Attachment_M4A4Stock  | Data A   | Data A   |
 | Weapon_Knife   | Data A   | Data A   |
