@@ -1,7 +1,7 @@
 | Item | Sell Price (VEK) | Buy Price (VEK) |
 |------|-----------------|------------------|
-| Weapon_P1911 | 2k | 15k |
-| Weapon_M1982 | 5k | 24k |
+| Weapon_P1911 | 3k | 12k |
+| Weapon_M1982 | 5k | 20k |
 | Weapon_M4A4 | 12k | 48k |
 | Holdable_BuildingPlan | 1 | 150 |
 | Holdable_Hammer | 1 | 150 |
