@@ -42,6 +42,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added new helmet slot icon
     - added new headset icon
     - added new armor slot
+    - moved gloves slot to cosmetics area
 - added new gear icons
 - updated bookshelf storage to 3 7x2 layout
 - adjusted player crafting recipes
