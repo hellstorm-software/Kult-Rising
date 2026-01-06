@@ -12,7 +12,7 @@
 | Equipment_RiotHelmet   | 10k   | Data A   |
 | Ammo_7.62x39mm   | Data A   | Data A   |
 | Attachment_M4A4Stock  | Data A   | Data A   |
-| Weapon_Knife   | Data A   | Data A   |
+| Weapon_Knife   | 3k   | Data A   |
 | Holdable_B7Grenade   | Data A   | Data A   |
 | Weapon_WoodenAxe   | Data A   | Data A   |
 | Attachment_ReddotSight   | Data A   | Data A   |
