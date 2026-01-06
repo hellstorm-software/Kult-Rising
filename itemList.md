@@ -2,7 +2,7 @@
 |------|-----------------|------------------|
 | Weapon_P1911 | 2k | 15k |
 | Weapon_M1982 | 5k | 24k |
-| Weapon_M4A4 | 16k | 48k |
+| Weapon_M4A4 | 12k | 48k |
 | Holdable_BuildingPlan | 1 | 150 |
 | Holdable_Hammer | 1 | 150 |
 | Magazine_M4A4 | 800 | 2.5k |
