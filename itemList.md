@@ -11,10 +11,10 @@
 | Equipment_G4Backpack   | 24k   | Data A   |
 | Equipment_RiotHelmet   | 10k   | Data A   |
 | Ammo_7.62x39mm   | Data A   | Data A   |
-| Attachment_M4A4Stock  | Data A   | Data A   |
+| Attachment_M4A4Stock  | 5k   | Data A   |
 | Weapon_Knife   | 3k   | Data A   |
 | Holdable_B7Grenade   | Data A   | Data A   |
-| Weapon_WoodenAxe   | Data A   | Data A   |
+| Weapon_WoodenAxe   | 500   | Data A   |
 | Attachment_ReddotSight   | Data A   | Data A   |
 | Weapon_WoodenPickaxe   | Data A   | Data A   |
 | Resource_Wood   | Data A   | Data A   |
