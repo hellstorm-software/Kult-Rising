@@ -1,4 +1,4 @@
-| Item | Buy Price (VEK) | Sell Price (VEK) |
+| Item | Sell Price (VEK) | Buy Price (VEK) |
 |------|-----------------|------------------|
 | Weapon_P1911 | 15k | 15k |
 | Weapon_M1982 | 24k | 24k |
