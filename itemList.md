@@ -1,4 +1,4 @@
-| Item | Price (VEK) | Column 3 |
+| Item | Buy Price (VEK) | Column 3 |
 |----------|----------|----------|
 | Weapon_P1911   | 15k   | Data A   |
 | Weapon_M1982   | 24k   | Data B   |
