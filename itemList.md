@@ -1,10 +1,10 @@
 | Item | Price (VEK) | Column 3 |
 |----------|----------|----------|
-| Weapon_P1911   | Data A   | Data A   |
-| Weapon_M1982   | Data B   | Data B   |
-| Weapon_M4A4  | Data A   | Data A   |
-| Holdable_BuildingPlan   | Data B   | Data B   |
-| Holdable_Hammer   | Data A   | Data A   |
+| Weapon_P1911   | 15k   | Data A   |
+| Weapon_M1982   | 24k   | Data B   |
+| Weapon_M4A4  | 48k   | Data A   |
+| Holdable_BuildingPlan   | 1   | Data B   |
+| Holdable_Hammer   | 1   | Data A   |
 | Magazine_M4A4   | Data A   | Data A   |
 | Magazine_P1911  | Data A   | Data A   |
 | Consumable_HealthDrink  | Data A   | Data A   |
