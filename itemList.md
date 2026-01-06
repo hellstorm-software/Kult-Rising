@@ -32,8 +32,8 @@
 | BuildPart_Furnace   | Data A   | Data A   |
 | BuildPart_WoodChest   | Data A   | Data A   |
 | Equipment_MegaBackpack   | Data A   | Data A   |
-| Attachment_Silencer   | Data A   | Data A   |
-| Consumable_Apple   | Data A   | Data A   |
+| Attachment_Silencer   | 18k   | Data A   |
+| Consumable_Apple   | 3   | Data A   |
 | Holdable_Flashlight   | Data A   | Data A   |
 | Consumable_RawMeat   | Data A   | Data A   |
 | Consumable_CookedMeat   | Data A   | Data A   |
