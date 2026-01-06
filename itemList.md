@@ -1,24 +1,24 @@
 | Item | Sell Price (VEK) | Buy Price (VEK) |
 |------|-----------------|------------------|
-| Weapon_P1911 | 15k | 15k |
-| Weapon_M1982 | 24k | 24k |
-| Weapon_M4A4 | 48k | 48k |
-| Holdable_BuildingPlan | 1 | 1 |
-| Holdable_Hammer | 1 | 1 |
-| Magazine_M4A4 | 2.5k | 2.5k |
-| Magazine_P1911 | 1k | 1k |
-| Consumable_HealthDrink | 5k | 5k |
-| Equipment_G4Backpack | 24k | 24k |
-| Equipment_RiotHelmet | 10k | 10k |
+| Weapon_P1911 | 2k | 15k |
+| Weapon_M1982 | 5k | 24k |
+| Weapon_M4A4 | 16k | 48k |
+| Holdable_BuildingPlan | 1 | 150 |
+| Holdable_Hammer | 1 | 150 |
+| Magazine_M4A4 | 800 | 2.5k |
+| Magazine_P1911 | 300 | 1k |
+| Consumable_HealthDrink | 500 | 5k |
+| Equipment_G4Backpack | 8k | 24k |
+| Equipment_RiotHelmet | 4k | 10k |
 | Ammo_7.62x39mm | Data A | Data A |
-| Attachment_M4A4Stock | 5k | 5k |
-| Weapon_Knife | 3k | 3k |
+| Attachment_M4A4Stock | 1k | 5k |
+| Weapon_Knife | 50 | 4k |
 | Holdable_B7Grenade | Data A | Data A |
-| Weapon_WoodenAxe | 1k | 1k |
-| Attachment_ReddotSight | 15k | 15k |
+| Weapon_WoodenAxe | 50 | 1k |
+| Attachment_ReddotSight | 5k | 15k |
 | Weapon_WoodenPickaxe | Data A | Data A |
-| Resource_Wood | 7k | 7k |
-| Resource_Stone | 7k | 7k |
+| Resource_Wood | 2 | 3k |
+| Resource_Stone | 2 | 3k |
 | Consumable_Bandage | 900 | 900 |
 | Consumable_Beans | Data A | Data A |
 | Resource_IronBar | Data A | Data A |
