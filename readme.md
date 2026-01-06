@@ -45,6 +45,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added cloth backpack
 - adjusted crafting table recipes 
     - removed bandages from player
+    - removed crafting table from player
 
 
 ----------------------------------------------------------
