@@ -5,11 +5,11 @@
 | Weapon_M4A4 | 12k | 48k |
 | Holdable_BuildingPlan | 1 | 150 |
 | Holdable_Hammer | 1 | 150 |
-| Magazine_M4A4 | 800 | 2.5k |
-| Magazine_P1911 | 300 | 1k |
+| Magazine_M4A4 | 800 | 3.2k |
+| Magazine_P1911 | 300 | 1.2k |
 | Consumable_HealthDrink | 500 | 5k |
-| Equipment_G4Backpack | 8k | 24k |
-| Equipment_RiotHelmet | 4k | 10k |
+| Equipment_G4Backpack | 8k | 32k |
+| Equipment_RiotHelmet | 4k | 16k |
 | Ammo_7.62x39mm | Data A | Data A |
 | Attachment_M4A4Stock | 1k | 5k |
 | Weapon_Knife | 50 | 4k |
