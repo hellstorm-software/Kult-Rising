@@ -25,6 +25,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - replaced bronze statues with Vasto statues
     - adjusted tunnel entrance/exit section
     - added 2 bottles of almond water to the  starting table
+- removed text from cluster 3
 
 ----------------------------------------------------------
 
