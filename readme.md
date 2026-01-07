@@ -60,6 +60,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - adjusted wood size to 2x2 (was 1x2)
 - adjusted meat size to 2x2 (was 1x1)
 - adjusted blunt size to 1x1 (was 1x2)
+- adjusted dstix size to 1x1 (was 1x2)
 
 
 ----------------------------------------------------------
