@@ -67,6 +67,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added bookshelf2 mesh
 - began creating item value system 
 - fixed an issue in cluster 1 causing floating ceiling lights
+- closed off the doorway to the unfished hallway in cluster 1
 
 
 ----------------------------------------------------------
