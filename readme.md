@@ -27,8 +27,8 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - added 2 bottles of almond water to the  starting table
     - fixed a gap in the wall near the spawn room
     - fixed a gap in the bottom floor
-- adjusted cluster 3
-- removed text from cluster 3
+- updated cluster 3
+    - removed text from cluster 3
 
 ----------------------------------------------------------
 
