@@ -22,6 +22,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 2026.1.7
 - replaced bronze statues in cluster 2 with Vasto statues
+- adjusted tunnel entrance/exit section of cluster 2
 
 ----------------------------------------------------------
 
