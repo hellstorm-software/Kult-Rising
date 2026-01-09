@@ -25,6 +25,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - can now buy all items from the player
 - began furnishing floors 1-5 in the apartment building on thr starting island
     - added a vasto head blocking the stairs uo to floor 6+
+- began creating clothing upgrade machine
 
 ----------------------------------------------------------
 
