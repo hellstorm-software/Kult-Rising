@@ -39,6 +39,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - 3 refined leather jackets -> advanced leather jacket
 - began creating orb field anomalies
     - created orb mesh
+    - added expanding/contracting logic
 
 ----------------------------------------------------------
 
