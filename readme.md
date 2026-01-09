@@ -34,6 +34,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - created advanced leather jacket
     - created clothing upgrade recipes
         - 3 tracksuits -> refined tracksuit
+        - 3 refined tracksuits -> advanced tracksuit
 
 ----------------------------------------------------------
 
