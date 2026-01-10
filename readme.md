@@ -43,6 +43,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - fixed an issue causing the players jump to stop short
 - added value to all items (20 VEK = $1 = 80 RUB)
 - fixed an issue causing players pockets to give a "occupied" error even when empty
+- adjusted size of players pockets
 
 ----------------------------------------------------------
 
