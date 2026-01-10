@@ -20,6 +20,10 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 
 ----------------------------------------------------------
 
+
+
+----------------------------------------------------------
+
 2026.1.8 - 2026.1.9
 - updated the grand exchange
     - Fence can now buy all items from the player
