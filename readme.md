@@ -41,6 +41,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - created orb mesh
     - added expanding/contracting logic
 - fixed an issue causing the players jump to stop short
+- added value to all items (20 VEK = $1 = 80 RUB)
 
 ----------------------------------------------------------
 
