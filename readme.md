@@ -40,6 +40,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - began creating orb field anomalies
     - created orb mesh
     - added expanding/contracting logic
+- fixed an issue causing the players jump to stop short
 
 ----------------------------------------------------------
 
