@@ -27,6 +27,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - added sledgehammer weapon
     - added 'MISERY' reference to sledghammer description
     - changed durability to 20 (allows to break 4 cement blocks)
+    - added sledge hammer world item
 - added new cement damagable
     - fixed an issue allowing firearms to damage cement blocks
     - added cement blocks to save system
