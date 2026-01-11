@@ -59,6 +59,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
     - made system to dynamically change audio based on height
     - fixed an issue causing ambient sounds to cut out randomly
     - added indoor and outdoor checks so base doesn't have ambient sound
+- optimized method of calculating physics in the ashlands, dramatically improved framerate
 
 ----------------------------------------------------------
 
