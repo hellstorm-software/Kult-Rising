@@ -38,6 +38,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - fixed an issue causing there not to be a space between the value and VEK symbol
 - updated the grand exchange
     - finished Fence's trading station
+        - added cardboard boxes
     - began adding Therapist's trading station
 
 ----------------------------------------------------------
