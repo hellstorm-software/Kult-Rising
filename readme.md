@@ -30,6 +30,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - added new cement damagable
     - fixed an issue allowing firearms to damage cement blocks
     - added cement blocks to save system
+    - changed healthpool to 100 (5 sledge hits to break)
 - changed the tower expansion upgrade
     - only half of the expansion is unlocked via the milestone system
     - the other half is accessable via using sledgehammers to remove the cement
