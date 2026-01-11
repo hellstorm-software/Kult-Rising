@@ -49,6 +49,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
         - moved carboard boxes from Fence to Therapist
         - added tarp
         - added radio
+        - added vase
 
 ----------------------------------------------------------
 
