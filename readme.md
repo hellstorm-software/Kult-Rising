@@ -32,6 +32,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - changed the tower expansion upgrade
     - only half of the expansion is unlocked via the milestone system
     - the other half is accessable via using sledgehammers to remove the cement
+- fixed an issue causing VEK icon to not display in item descriptions
 
 ----------------------------------------------------------
 
