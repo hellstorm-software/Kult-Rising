@@ -27,6 +27,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - added sledgehammer weapon
     - added 'MISERY' reference to sledghammer description
 - added new cement damagable
+    - fixed an issue allowing firearms to damage cement blocks
 - changed the tower expansion upgrade
     - only half of the expansion is unlocked via the milestone system
     - the other half is accessable via using sledgehammers to remove the cement
