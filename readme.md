@@ -28,6 +28,7 @@ Kult Rising is an SCP survival/building immersive sim set in the Sxlaris Univers
 - adjusted grand exchange room to be shorter
 - created medical box container 
 - adjusted volume level of ashlands wind so the tower isnt silent
+- added sound effects to tool impacts
 
 ----------------------------------------------------------
 
